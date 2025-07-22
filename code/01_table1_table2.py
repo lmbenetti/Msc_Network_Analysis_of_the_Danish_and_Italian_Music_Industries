@@ -16,6 +16,8 @@ df2["band"] = df2["band"].str.strip()
 df2["band"] = df2["band"].str.replace("’", "'")
 df2 = df2[["artist", "band", "year"]].drop_duplicates()
 
+print("Table 1 Latex Code")
+
 print("\\begin{table}")
 print("\\centering")
 print("\\caption{Summary statistics for the bipartite networks of Denmark and Italy.}")
@@ -46,3 +48,5 @@ print("\\end{tabular}")
 print("\\end{tabular}")
 print("\\label{tab:summary-bipartite}")
 print("\\end{table}")
+
+print("Table 2 Latex Code")
