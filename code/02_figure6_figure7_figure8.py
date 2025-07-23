@@ -1,6 +1,6 @@
 #This code takes the two bipartite networks, the two artists projections and the two 
-# backboning results and outputs 16 csv files  that are used in the Gnuplot script file called 
-# "03_figure6_figure7.gp" and "04_figure8.gp"
+# backboning results and outputs 16 csv files that are used in the Gnuplot script file called 
+# "02_figure6_figure7.gp" and "02_figure8.gp"
 
 import pandas as pd
 import networkx as nx
