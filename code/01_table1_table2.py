@@ -1,8 +1,12 @@
-#This script takes the two bipartite networks and outputs "Table1: Summary statistics for the bipartite networks of Denmark and Italy" in Latex format.
+#This script takes: 
+#   -  The two bipartite networks and outputs "Table1: Summary statistics for the bipartite networks of Denmark and Italy" 
+#   -  The two artist projections and the two band projections after applying backboning and outputs "Table2: Summary statistics for the projected networks of Denmark and Italy" 
+# in Latex format.
+
 import pandas as pd
+import networkx as nx
 df = pd.read_csv("danish_network/danish_bipartite.tsv", sep = "\t", dtype = {"band": str})
 df2 = pd.read_csv("italian_network/italian_bipartite.tsv", sep = "\t", dtype = {"band": str})
-
 
 df["artist"] = df["artist"].str.strip()
 df["artist"] = df["artist"].str.replace("’", "'")
@@ -16,8 +20,7 @@ df2["band"] = df2["band"].str.strip()
 df2["band"] = df2["band"].str.replace("’", "'")
 df2 = df2[["artist", "band", "year"]].drop_duplicates()
 
-print("Table 1 Latex Code")
-
+print("Table 1 Latex Code:", "\n")
 print("\\begin{table}")
 print("\\centering")
 print("\\caption{Summary statistics for the bipartite networks of Denmark and Italy.}")
@@ -47,6 +50,83 @@ print(f"\\# Band AVG Year & {df2[['band', 'year']].drop_duplicates().shape[0] / 
 print("\\end{tabular}")
 print("\\end{tabular}")
 print("\\label{tab:summary-bipartite}")
-print("\\end{table}")
+print("\\end{table}", "\n")
 
-print("Table 2 Latex Code")
+#Danish artists data
+df = pd.read_csv("danish_network/danish_artist_projection.tsv", sep = "\t")
+G = nx.from_pandas_edgelist(df, source = "src", target = "trg", edge_attr = True)
+danish_artists_stats = {}
+danish_artists_stats["nodes"] = len(G.nodes)
+danish_artists_stats["edges"] = len(G.edges)
+danish_artists_stats["avg_deg"] = 2 * len(G.edges) / len(G.nodes)
+danish_artists_stats["density"] = len(G.edges) / (len(G.nodes) * (len(G.nodes) - 1) / 2)
+danish_artists_stats["cc"] = nx.transitivity(G)
+danish_artists_stats["modularity"] = nx.community.modularity(G, nx.community.louvain_communities(G))
+
+#Danish bands data
+df = pd.read_csv("danish_network/danish_backboning_result.tsv", sep = "\t")
+G = nx.from_pandas_edgelist(df, source = "src", target = "trg", edge_attr = True)
+danish_band_stats = {}
+danish_band_stats["nodes"] = len(G.nodes)
+danish_band_stats["edges"] = len(G.edges)
+danish_band_stats["avg_deg"] = 2 * len(G.edges) / len(G.nodes)
+danish_band_stats["density"] = len(G.edges) / (len(G.nodes) * (len(G.nodes) - 1) / 2)
+danish_band_stats["cc"] = nx.transitivity(G)
+danish_band_stats["modularity"] = nx.community.modularity(G, nx.community.louvain_communities(G))
+
+#Italian artists data
+df = pd.read_csv("italian_network/italian_artist_projection.tsv", sep = "\t")
+G = nx.from_pandas_edgelist(df, source = "src", target = "trg", edge_attr = True)
+italian_artists_stats = {}
+italian_artists_stats["nodes"] = len(G.nodes)
+italian_artists_stats["edges"] = len(G.edges)
+italian_artists_stats["avg_deg"] = 2 * len(G.edges) / len(G.nodes)
+italian_artists_stats["density"] = len(G.edges) / (len(G.nodes) * (len(G.nodes) - 1) / 2)
+italian_artists_stats["cc"] = nx.transitivity(G)
+italian_artists_stats["modularity"] = nx.community.modularity(G, nx.community.louvain_communities(G))
+
+#Italian bands data
+df = pd.read_csv("italian_network/italian_backboning_results.tsv", sep = "\t")
+G = nx.from_pandas_edgelist(df, source = "src", target = "trg", edge_attr = True)
+italian_band_stats = {}
+italian_band_stats["nodes"] = len(G.nodes)
+italian_band_stats["edges"] = len(G.edges)
+italian_band_stats["avg_deg"] = 2 * len(G.edges) / len(G.nodes)
+italian_band_stats["density"] = len(G.edges) / (len(G.nodes) * (len(G.nodes) - 1) / 2)
+italian_band_stats["cc"] = nx.transitivity(G)
+italian_band_stats["modularity"] = nx.community.modularity(G, nx.community.louvain_communities(G))
+
+
+print("Table 2 Latex Code", "\n")
+print("\\begin{table}")
+print("\\centering")
+print("\\caption{Summary statistics for the projected networks of Denmark and Italy}")
+print("\\begin{tabular}{c c}")
+print("\\begin{tabular}{l|rr}")
+print("\\multicolumn{3}{c}{\\textbf{Denmark}} \\\\")
+print("\\hline")
+print("Variable & Artist & Band\\\\")
+print("\\hline")
+print(f"\\# Nodes & {danish_artists_stats['nodes']:,} & {danish_band_stats['nodes']:,}\\\\")
+print(f"\\# Edges & {danish_artists_stats['edges']:,} & {danish_band_stats['edges']:,}\\\\")
+print(f"Avg Deg & {danish_artists_stats['avg_deg']:.1f} & {danish_band_stats['avg_deg']:.1f}\\\\")
+print(f"Density & {danish_artists_stats['density']:.4f} & {danish_band_stats['density']:.4f}\\\\")
+print(f"Clustering & {danish_artists_stats['cc']:.4f} & {danish_band_stats['cc']:.4f}\\\\")
+print(f"Modularity & {danish_artists_stats['modularity']:.4f} & {danish_band_stats['modularity']:.4f}\\\\")
+print("\\end{tabular}")
+print("&")
+print("\\begin{tabular}{l|rr}")
+print("\\multicolumn{3}{c}{\\textbf{Italy}} \\\\")
+print("\\hline")
+print("Variable & Artist & Band\\\\")
+print("\\hline")
+print(f"\\# Nodes & {italian_artists_stats['nodes']:,} & {italian_band_stats['nodes']:,}\\\\")
+print(f"\\# Edges & {italian_artists_stats['edges']:,} & {italian_band_stats['edges']:,}\\\\")
+print(f"Avg Deg & {italian_artists_stats['avg_deg']:.1f} & {italian_band_stats['avg_deg']:.1f}\\\\")
+print(f"Density & {italian_artists_stats['density']:.4f} & {italian_band_stats['density']:.4f}\\\\")
+print(f"Clustering & {italian_artists_stats['cc']:.4f} & {italian_band_stats['cc']:.4f}\\\\")
+print(f"Modularity & {italian_artists_stats['modularity']:.4f} & {italian_band_stats['modularity']:.4f}\\\\")
+print("\\end{tabular}")
+print("\\end{tabular}")
+print("\\label{tab:summary-projection}")
+print("\\end{table}")
