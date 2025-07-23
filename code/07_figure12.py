@@ -1,4 +1,5 @@
-#It gives a csv for decades variance.
+# This script takes the backboning results and the year matrix and outputs a csv and .gp file
+# used to make figure 12
 
 import torch, sys
 import numpy as np

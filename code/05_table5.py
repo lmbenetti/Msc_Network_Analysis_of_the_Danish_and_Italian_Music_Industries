@@ -1,4 +1,4 @@
-# This table takes the genre matrix and the backboning results of the Danish network and outputs a Latex
+# This script takes the genre matrix and the backboning results of the Danish network and outputs a Latex
 # table with  The genres with the five highest and lowest variance in the band projection network
 
 import torch, sys, warnings
