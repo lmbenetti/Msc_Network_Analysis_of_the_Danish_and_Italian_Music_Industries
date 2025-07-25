@@ -1,0 +1,2862 @@
+artist_id	band	country	italian_count	danish_count	rank	entropy
+303666	Al Bano & Romina	Italy	1	1	0.5	1.0
+3889690	Noha	Italy	4	6	0.6	0.97
+756252	Horrid	Italy	1	2	0.67	0.92
+6298973	Xenoblight	Denmark	1	2	0.33	0.92
+689272	På Slaget 12	Denmark	1	2	0.33	0.92
+234846	Efterklang	Denmark	5	11	0.31	0.9
+1678269	Campo di Marte	Italy	5	2	0.29	0.86
+4380179	Temperance	Italy	29	10	0.26	0.82
+1953369	Astaroth	Italy	3	1	0.25	0.81
+4483	Brother Brown	Denmark	1	3	0.25	0.81
+148640	Noir	Denmark	3	1	0.75	0.81
+96207	Soulmagic	Denmark	2	6	0.25	0.81
+184379	Simone Vitullo	Italy	3	1	0.25	0.81
+527548	Alex Puddu	Italy	10	3	0.23	0.78
+821003	Robertino	Italy	10	3	0.23	0.78
+1955063	Fleshgod Apocalypse	Italy	3	10	0.77	0.78
+251799	Mercyful Fate	Denmark	2	7	0.22	0.76
+2800299	Maceration	Denmark	3	11	0.21	0.75
+277227	Pretty Maids	Denmark	3	11	0.21	0.75
+1001887	Fate	Denmark	3	11	0.21	0.75
+1402353	Daily Fauli	Denmark	1	4	0.2	0.72
+649116	Lars Lilholt	Denmark	1	4	0.2	0.72
+265585	Novembre	Italy	8	2	0.2	0.72
+13256076	Asinhell	Denmark	2	9	0.18	0.68
+3652537	VOLA	Denmark	2	9	0.18	0.68
+373253	Royal Hunt	Denmark	2	9	0.18	0.68
+1805807	Undergang	Denmark	1	5	0.17	0.65
+689281	Gitte Hænning	Denmark	5	1	0.83	0.65
+4462604	Stamina	Italy	5	1	0.17	0.65
+3088584	S.A.M.	Denmark	1	5	0.17	0.65
+21137	Kid Crème	Italy	5	1	0.17	0.65
+568481	Skagarack	Denmark	2	11	0.15	0.62
+420562	Elvenking	Italy	23	4	0.15	0.61
+272366	Hatesphere	Denmark	3	17	0.15	0.61
+1382056	Strike	Italy	6	1	0.14	0.59
+4205	Giorgio Moroder	Italy	6	1	0.14	0.59
+292657	Gepy & Gepy	Italy	6	1	0.14	0.59
+66617	D. D. Sound	Italy	6	1	0.14	0.59
+252162	King Diamond	Denmark	1	6	0.14	0.59
+257957	Dizzy Mizz Lizzy	Denmark	2	13	0.13	0.57
+66837	Righeira	Italy	7	1	0.12	0.54
+1954760	Sacri Cuori	Italy	14	2	0.12	0.54
+304789	Nekromantix	Denmark	1	7	0.12	0.54
+507282	Marcello Giordani	Italy	7	1	0.12	0.54
+256131	Illdisposed	Denmark	2	14	0.12	0.54
+640070	Nina & Frederik	Denmark	1	8	0.11	0.5
+472460	Den Gale Pose	Denmark	1	8	0.11	0.5
+257293	Psyched Up Janis	Denmark	1	8	0.11	0.5
+1599156	Iceage	Denmark	2	17	0.11	0.49
+7954	Marshall	Italy	9	1	0.1	0.47
+667866	Magtens Korridorer	Denmark	2	18	0.1	0.47
+278379	Konkhra	Denmark	1	9	0.1	0.47
+6184259	Måneskin	Italy	9	1	0.1	0.47
+855152	Dúné	Denmark	2	19	0.1	0.45
+316085	Tina Dickow	Denmark	1	10	0.09	0.44
+272991	D-A-D	Denmark	1	10	0.09	0.44
+61499	Daniele Patucchi	Italy	10	1	0.09	0.44
+2040069	Erica Mou	Italy	10	1	0.09	0.44
+2212191	Chronics	Italy	10	1	0.09	0.44
+537021	Volbeat	Denmark	2	21	0.09	0.43
+1443493	Pathosray	Italy	1	11	0.92	0.41
+1708425	Federico Albanese	Italy	11	1	0.08	0.41
+405691	Artillery	Denmark	1	11	0.08	0.41
+464765	Powersolo	Denmark	1	12	0.08	0.39
+1589669	The Old Man & The Sea	Denmark	1	12	0.08	0.39
+276847	Federico Scavo	Italy	12	1	0.08	0.39
+18466	Frank 'O Moiraghi	Italy	12	1	0.08	0.39
+899263	Marie Key	Denmark	1	12	0.08	0.39
+89814	Swan Lee	Denmark	1	13	0.07	0.37
+258050	Nephew	Denmark	1	13	0.07	0.37
+1100480	The Bloody Beetroots	Italy	13	1	0.07	0.37
+3464060	Bodil Steen	Denmark	1	13	0.07	0.37
+3341	Filur	Denmark	1	14	0.07	0.35
+40716	Puddu Varano	Denmark	1	15	0.06	0.34
+1622094	Sivas	Denmark	1	15	0.06	0.34
+273097	Peter Sommer	Denmark	1	15	0.06	0.34
+1883733	MØ	Denmark	1	16	0.06	0.32
+94083	Giardini di Mirò	Italy	16	1	0.06	0.32
+38417	Dr. Baker	Denmark	1	16	0.06	0.32
+1448416	Bjørn Tidmand	Denmark	1	18	0.05	0.3
+202428	Nicola Fasano	Italy	20	1	0.05	0.28
+1330230	Offlaga Disco Pax	Italy	21	1	0.05	0.27
+1544699	Medina	Denmark	1	22	0.04	0.26
+1572099	Fine Before You Came	Italy	22	1	0.04	0.26
+1825984	Birthe Wilke	Denmark	1	25	0.04	0.24
+13785	Dino Lenny	Italy	28	1	0.03	0.22
+3017772	Christian Arhoff	Denmark	1	31	0.03	0.2
+514821	Genius	Italy	36	1	0.03	0.18
+1822027	Neel	Italy	10	0	0.0	-0.0
+1647125	Neo	Italy	5	0	0.0	-0.0
+2808127	NH3	Italy	25	0	0.0	-0.0
+488185	NDKj	Italy	3	0	0.0	-0.0
+250400	News	Denmark	0	1	0.0	-0.0
+19797	N.O.I.A.	Italy	9	0	0.0	-0.0
+599873	N.A.D.M.A.	Italy	7	0	0.0	-0.0
+349217	Negrita	Italy	8	0	0.0	-0.0
+4239619	Møl	Denmark	0	6	0.0	-0.0
+597711	Neil on Impression	Italy	15	0	0.0	-0.0
+280851	Nenia	Italy	4	0	0.0	-0.0
+808776	Nada	Italy	1	0	0.0	-0.0
+3156119	Mythic Sunship	Denmark	0	5	0.0	-0.0
+4416652	Mystic Jungle	Italy	7	0	0.0	-0.0
+4026520	Myss Keta	Italy	5	0	0.0	-0.0
+4001024	Myrkur	Denmark	0	6	0.0	-0.0
+47010	My Mine	Italy	7	0	0.0	-0.0
+255665	My Cat is an Alien	Italy	9	0	0.0	-0.0
+1341033	Nelly Fioramonti	Italy	11	0	0.0	-0.0
+10746	Neja	Italy	20	0	0.0	-0.0
+168621	Nek	Italy	1	0	0.0	-0.0
+594619	Nabat	Italy	10	0	0.0	-0.0
+1875952	Nagasaki Nightmare	Italy	7	0	0.0	-0.0
+1647213	Necromessiah	Italy	4	0	0.0	-0.0
+1333580	Napoli Centrale	Italy	2	0	0.0	-0.0
+2501788	Nefarium	Italy	2	0	0.0	-0.0
+126890	Neon	Italy	17	0	0.0	-0.0
+612709	Necrodeath	Italy	16	0	0.0	-0.0
+938976	Neokarma Jooklo Trio	Italy	7	0	0.0	-0.0
+3778625	Nayt	Italy	6	0	0.0	-0.0
+916926	Neri per caso	Italy	3	0	0.0	-0.0
+132551	Natasja	Denmark	0	13	0.0	-0.0
+281968	Natalino Otto	Italy	23	0	0.0	-0.0
+140798	Neffa	Italy	9	0	0.0	-0.0
+1122676	Narciso Parigi	Italy	28	0	0.0	-0.0
+10702	Nerio's Dubwork	Italy	4	0	0.0	-0.0
+2233765	Nancy Cuomo	Italy	2	0	0.0	-0.0
+327504	Negazione	Italy	15	0	0.0	-0.0
+1660905	My Awesome Mixtape	Italy	18	0	0.0	-0.0
+943055	Negramaro	Italy	3	0	0.0	-0.0
+2451650	Nanowar of Steel	Italy	22	0	0.0	-0.0
+1102057	Ness	Italy	10	0	0.0	-0.0
+2097630	Nanni Svampa	Italy	12	0	0.0	-0.0
+34154	Netzwerk	Italy	12	0	0.0	-0.0
+974292	New Dada	Italy	4	0	0.0	-0.0
+650998	Nanna	Denmark	0	1	0.0	-0.0
+560713	New Trolls	Italy	4	0	0.0	-0.0
+455011	Nella Colombo	Italy	23	0	0.0	-0.0
+975509	'E Zezi	Italy	12	0	0.0	0.0
+2078946	Musicanova	Italy	4	0	0.0	-0.0
+53778	Milky	Italy	5	0	0.0	-0.0
+299967	Milva	Italy	1	0	0.0	-0.0
+1186994	Mimmo Cavallo	Italy	1	0	0.0	-0.0
+1194864	Mimmo Locasciulli	Italy	1	0	0.0	-0.0
+44647	Mimmo Mix	Italy	26	0	0.0	-0.0
+2013729	Min & Mal	Italy	10	0	0.0	-0.0
+319972	Mina	Italy	1	0	0.0	-0.0
+2169341	Mind Against	Italy	4	0	0.0	-0.0
+284473	Minimono	Italy	3	0	0.0	-0.0
+1266421	Ministri	Italy	7	0	0.0	-0.0
+461384	Mino Reitano	Italy	1	0	0.0	-0.0
+319970	Miranda Martino	Italy	3	0	0.0	-0.0
+1373475	Mirna Doris	Italy	26	0	0.0	-0.0
+20271	Miss Groovy	Italy	18	0	0.0	-0.0
+19667	Miss Jones	Italy	22	0	0.0	-0.0
+1322387	Mistaman	Italy	10	0	0.0	-0.0
+1741291	Mita Medici	Italy	8	0	0.0	-0.0
+33766	Mo-Do	Italy	12	0	0.0	-0.0
+1193603	Milly	Italy	15	0	0.0	-0.0
+492341	Milk & Coffee	Italy	11	0	0.0	-0.0
+697021	Moda	Italy	14	0	0.0	-0.0
+19770	Miko Mission	Italy	12	0	0.0	-0.0
+5079146	Messa	Italy	28	0	0.0	-0.0
+1214432	Metamorfosi	Italy	4	0	0.0	-0.0
+262995	Mew	Denmark	0	15	0.0	-0.0
+3555555	Mezzosangue	Italy	11	0	0.0	-0.0
+556869	Mia Martini	Italy	1	0	0.0	-0.0
+3279829	Michael Exodus	Italy	4	0	0.0	-0.0
+426630	Michael Falch	Denmark	0	5	0.0	-0.0
+715957	Michael Hardinger	Denmark	0	3	0.0	-0.0
+333403	Michael Learns To Rock	Denmark	0	1	0.0	-0.0
+1020545	Michele	Italy	2	0	0.0	-0.0
+851813	Michele Pecora	Italy	7	0	0.0	-0.0
+691788	Michele Zarrillo	Italy	1	0	0.0	-0.0
+2159982	Microspasmi	Italy	2	0	0.0	-0.0
+6416308	Midnight Conversation	Italy	8	0	0.0	-0.0
+299780	Mietta	Italy	1	0	0.0	-0.0
+247991	Mikael Simpson	Denmark	0	13	0.0	-0.0
+36231	Mike Francis	Italy	1	0	0.0	-0.0
+1335058	Moana Pozzi	Italy	6	0	0.0	-0.0
+1123004	Modena City Ramblers	Italy	13	0	0.0	-0.0
+1148541	Musica Nuda	Italy	6	0	0.0	-0.0
+4926876	Morbus Grave	Italy	7	0	0.0	-0.0
+161835	Morgan	Italy	2	0	0.0	-0.0
+3736872	Nibiru	Italy	2	0	0.0	-0.0
+1014918	Morkobot	Italy	25	0	0.0	-0.0
+259820	Mortuary Drape	Italy	19	0	0.0	-0.0
+2693970	Moses	Denmark	0	1	0.0	-0.0
+184562	Motel Connection	Italy	8	0	0.0	-0.0
+2016219	Motta	Italy	14	0	0.0	-0.0
+1297074	Movie Star Junkies	Italy	21	0	0.0	-0.0
+4742806	Mr. Rain	Italy	6	0	0.0	-0.0
+1480710	Mr. T-Bone	Italy	10	0	0.0	-0.0
+2230070	Mudimbi	Italy	11	0	0.0	-0.0
+1592447	Mund De Carlo	Denmark	0	6	0.0	-0.0
+1565257	Murple	Italy	8	0	0.0	-0.0
+3044327	Murubutu	Italy	6	0	0.0	-0.0
+1210730	Museo Rosenbach	Italy	15	0	0.0	-0.0
+39353	Mushroom's Patience	Italy	6	0	0.0	-0.0
+420686	Mushy	Italy	7	0	0.0	-0.0
+95684	More	Italy	26	0	0.0	-0.0
+3287503	Moravagine	Italy	16	0	0.0	-0.0
+1579409	Modern Sound Quartet	Italy	5	0	0.0	-0.0
+79352	Moratto	Italy	12	0	0.0	-0.0
+956471	Modo Antiquo	Italy	4	0	0.0	-0.0
+3854444	Modula	Italy	9	0	0.0	-0.0
+1974635	Modà	Italy	4	0	0.0	-0.0
+1660268	Mogens Wieth	Denmark	0	16	0.0	-0.0
+23421	Moka DJ	Italy	25	0	0.0	-0.0
+1094475	Mokadelic	Italy	6	0	0.0	-0.0
+36544	Molella	Italy	29	0	0.0	-0.0
+1644334	Moltheni	Italy	12	0	0.0	-0.0
+164821	Mondo Candido	Italy	3	0	0.0	-0.0
+726436	Mondo Marcio	Italy	4	0	0.0	-0.0
+163800	Mongoose	Italy	2	0	0.0	-0.0
+1634682	Monica Sandri	Italy	8	0	0.0	-0.0
+692587	Monrad & Rislund	Denmark	0	9	0.0	-0.0
+3751	Montefiori Cocktail	Italy	6	0	0.0	-0.0
+184288	Monumentum	Italy	26	0	0.0	-0.0
+30336	Moony	Italy	5	0	0.0	-0.0
+510823	Moral	Denmark	0	1	0.0	-0.0
+763124	Moriar	Italy	4	0	0.0	-0.0
+387851	Nik & Jay	Denmark	0	12	0.0	-0.0
+329588	Niccolò Fabi	Italy	5	0	0.0	-0.0
+332804	Paolo Fresu	Italy	10	0	0.0	-0.0
+5696339	Paolo Baldini	Italy	11	0	0.0	-0.0
+490252	Paolo Belli	Italy	17	0	0.0	-0.0
+1016985	Paolo Benvegnù	Italy	7	0	0.0	-0.0
+1861683	Paolo Birro	Italy	8	0	0.0	-0.0
+2153789	Paolo Bonfanti	Italy	15	0	0.0	-0.0
+273695	Paolo Conte	Italy	4	0	0.0	-0.0
+706960	Paolo Ferrara	Italy	3	0	0.0	-0.0
+1106271	Paolo Frescura	Italy	1	0	0.0	-0.0
+1663033	Paolo Fresu Quintet	Italy	8	0	0.0	-0.0
+490217	Paolo Tofani	Italy	9	0	0.0	-0.0
+3352894	Paolo Giorgi	Italy	6	0	0.0	-0.0
+58807	Paolo Martini	Italy	23	0	0.0	-0.0
+597823	Paolo Mengoli	Italy	11	0	0.0	-0.0
+218103	Paolo Modugno	Italy	7	0	0.0	-0.0
+1031914	Paolo Pietrangeli	Italy	6	0	0.0	-0.0
+1633348	Paolo Renosto	Italy	13	0	0.0	-0.0
+1131684	Paolo Rossi	Italy	9	0	0.0	-0.0
+923498	Paolo Rustichelli	Italy	11	0	0.0	-0.0
+516009	Paolo Angeli	Italy	23	0	0.0	-0.0
+16869	Paolo Achenza Trio	Italy	13	0	0.0	-0.0
+937511	Paolino Paperino Band	Italy	6	0	0.0	-0.0
+1014217	Paola Turci	Italy	1	0	0.0	-0.0
+220035	Outlandish	Denmark	0	15	0.0	-0.0
+2088309	Ove Sprogøe	Denmark	0	15	0.0	-0.0
+162295	Oöphoi	Italy	6	0	0.0	-0.0
+36197	P. Lion	Italy	8	0	0.0	-0.0
+19788	P4F	Italy	20	0	0.0	-0.0
+2019964	PAY	Italy	22	0	0.0	-0.0
+1438862	PGR	Italy	11	0	0.0	-0.0
+817158	Pale TV	Italy	8	0	0.0	-0.0
+237981	Palle Mikkelborg	Denmark	0	5	0.0	-0.0
+1854177	Pamela Prati	Italy	16	0	0.0	-0.0
+186119	Pan	Denmark	0	13	0.0	-0.0
+9505165	Pancratio	Italy	2	0	0.0	-0.0
+1157671	Panda	Italy	6	0	0.0	-0.0
+1080270	Pandemonium	Italy	3	0	0.0	-0.0
+21893	Pankow	Italy	12	0	0.0	-0.0
+2614526	Panoram	Italy	2	0	0.0	-0.0
+171049	Paola & Chiara	Italy	3	0	0.0	-0.0
+3521922	Paolo Sardisco	Italy	23	0	0.0	-0.0
+1146641	Paolo Tomelleri	Italy	10	0	0.0	-0.0
+3786935	Otto Lington Og Hans Orkester	Denmark	0	16	0.0	-0.0
+98684	Peter Jacques Band	Italy	4	0	0.0	-0.0
+130112	Peppe Barra	Italy	11	0	0.0	-0.0
+3931312	Peppino Brio	Italy	9	0	0.0	-0.0
+1020394	Peppino Gagliardi	Italy	14	0	0.0	-0.0
+492344	Peppino di Capri	Italy	2	0	0.0	-0.0
+315550	Perigeo	Italy	4	0	0.0	-0.0
+56489	Pernille Rosendahl	Denmark	0	9	0.0	-0.0
+1266412	Persiana Jones	Italy	24	0	0.0	-0.0
+660715	Perturbazione	Italy	18	0	0.0	-0.0
+1987312	Peter Punk	Italy	4	0	0.0	-0.0
+470096	Paolo Vallesi	Italy	3	0	0.0	-0.0
+1625098	Peter Sellers and the Hollywood Party	Italy	12	0	0.0	-0.0
+1481371	Peter Sørensen	Denmark	0	29	0.0	-0.0
+4424071	Phlake	Denmark	0	10	0.0	-0.0
+1640341	Pia Tassinari	Italy	3	0	0.0	-0.0
+282971	Picchio dal Pozzo	Italy	9	0	0.0	-0.0
+1044351	Pierangelo Bertoli	Italy	1	0	0.0	-0.0
+2036156	Piergiorgio Farina	Italy	13	0	0.0	-0.0
+749369	Piero Ciampi	Italy	13	0	0.0	-0.0
+1554983	Pepe Maina	Italy	8	0	0.0	-0.0
+3360805	Pellegrino	Italy	8	0	0.0	-0.0
+427570	Peggio Punx	Italy	4	0	0.0	-0.0
+452718	Peawees	Italy	16	0	0.0	-0.0
+525185	Paolo Visnadi	Italy	13	0	0.0	-0.0
+271486	Papa Bue's Viking Jazz Band	Denmark	0	17	0.0	-0.0
+1038379	Papa Ricky	Italy	15	0	0.0	-0.0
+2055186	Papir	Denmark	0	2	0.0	-0.0
+41801	Paps N Skar	Italy	16	0	0.0	-0.0
+8050006	Parbleu	Italy	9	0	0.0	-0.0
+1784776	Pasquale Amato	Italy	11	0	0.0	-0.0
+87128	Passengers	Italy	4	0	0.0	-0.0
+34064	Pastaboys	Italy	13	0	0.0	-0.0
+281974	Patrick Samson	Italy	13	0	0.0	-0.0
+1561718	Patrizia Laquidara	Italy	7	0	0.0	-0.0
+1458687	Patrizia Pellegrino	Italy	8	0	0.0	-0.0
+617324	Patrizio Fariselli	Italy	6	0	0.0	-0.0
+1334714	Patrizio Sandrelli	Italy	14	0	0.0	-0.0
+339934	Patty Pravo	Italy	1	0	0.0	-0.0
+1329432	Paul Cart	Italy	2	0	0.0	-0.0
+768630	Paul Chain	Italy	15	0	0.0	-0.0
+521287	Otto Ohm	Italy	3	0	0.0	-0.0
+3736781	Otto Lington Og Hans Lingtonians	Denmark	0	5	0.0	-0.0
+1780113	Nicholas	Italy	7	0	0.0	-0.0
+3185332	Noemi	Italy	5	0	0.0	-0.0
+1156815	Nino Impallomeni	Italy	17	0	0.0	-0.0
+3650578	Nino Nipote	Italy	16	0	0.0	-0.0
+1276038	Nino Taranto	Italy	20	0	0.0	-0.0
+3769651	Nitro	Italy	3	0	0.0	-0.0
+1232370	No Hope For The Kids	Denmark	0	4	0.0	-0.0
+749860	No Strange	Italy	6	0	0.0	-0.0
+1701126	No White Rag	Italy	2	0	0.0	-0.0
+1080051	Nodo Gordiano	Italy	13	0	0.0	-0.0
+2940442	Noisedelik	Italy	12	0	0.0	-0.0
+3679138	Novanta	Italy	5	0	0.0	-0.0
+20650	Noize Suppressor	Italy	20	0	0.0	-0.0
+643509	Nomadi	Italy	6	0	0.0	-0.0
+487468	Non Voglio Che Clara	Italy	21	0	0.0	-0.0
+5687652	North East Ska Jazz Orchestra	Italy	15	0	0.0	-0.0
+264031	Nortt	Denmark	0	2	0.0	-0.0
+749912	Nosound	Italy	8	0	0.0	-0.0
+311073	Not Moving	Italy	4	0	0.0	-0.0
+1495064	Nova	Italy	3	0	0.0	-0.0
+4517835	Nino D'Aurelio	Italy	20	0	0.0	-0.0
+36217	Nino D'Angelo	Italy	1	0	0.0	-0.0
+371808	Nino Buonocore	Italy	1	0	0.0	-0.0
+1766357	Nina Zilli	Italy	3	0	0.0	-0.0
+248628	Nico Fidenco	Italy	3	0	0.0	-0.0
+1471775	Nico dei Gabbiani	Italy	7	0	0.0	-0.0
+104621	Nico e Tetta	Italy	17	0	0.0	-0.0
+1023518	Nico e i Gabbiani	Italy	7	0	0.0	-0.0
+1345469	Nicola Arigliano	Italy	1	0	0.0	-0.0
+3753	Nicola Conte	Italy	16	0	0.0	-0.0
+851817	Nicola Di Bari	Italy	1	0	0.0	-0.0
+4097775	Niels Hansen	Denmark	0	1	0.0	-0.0
+727933	Niels Hausgaard	Denmark	0	5	0.0	-0.0
+285231	Niels-Henning Ørsted Pedersen	Denmark	0	4	0.0	-0.0
+1694974	Night Fever	Denmark	0	2	0.0	-0.0
+4414156	Night Gaunt	Italy	3	0	0.0	-0.0
+2621158	Night Skinny	Italy	4	0	0.0	-0.0
+1300659	Nihil Young	Italy	16	0	0.0	-0.0
+22367	Mephisto	Italy	2	0	0.0	-0.0
+917468	Nilla Pizzi	Italy	14	0	0.0	-0.0
+1051257	Nilo Ossani	Italy	18	0	0.0	-0.0
+482632	Novalia	Italy	4	0	0.0	-0.0
+33624	Novecento	Italy	1	0	0.0	-0.0
+1912200	Otto Lington	Denmark	0	15	0.0	-0.0
+361057	Ornella Vanoni	Italy	1	0	0.0	-0.0
+250441	One Two	Denmark	0	2	0.0	-0.0
+33896	Open Spaces	Italy	14	0	0.0	-0.0
+259897	Opera IX	Italy	20	0	0.0	-0.0
+401	Opiate	Denmark	0	2	0.0	-0.0
+1116199	Opus Avantra	Italy	8	0	0.0	-0.0
+1671978	Orchestra Casadei	Italy	8	0	0.0	-0.0
+920359	Orietta Berti	Italy	5	0	0.0	-0.0
+220998	Ornaments	Italy	24	0	0.0	-0.0
+836392	Osanna	Italy	4	0	0.0	-0.0
+2192798	Noyz Narcos	Italy	5	0	0.0	-0.0
+1051236	Oscar Carboni	Italy	37	0	0.0	-0.0
+277024	Oscar Prudente	Italy	2	0	0.0	-0.0
+1044517	Oscar Rocchi	Italy	7	0	0.0	-0.0
+4097821	Oscar Stribolt	Denmark	0	4	0.0	-0.0
+1333552	Ossi Duri	Italy	15	0	0.0	-0.0
+1339617	Osvald Helmuth	Denmark	0	22	0.0	-0.0
+280244	Otierre	Italy	9	0	0.0	-0.0
+539935	Otto Brandenburg	Denmark	0	16	0.0	-0.0
+441757	One Fine Day	Italy	3	0	0.0	-0.0
+503109	One Dimensional Man	Italy	17	0	0.0	-0.0
+1066423	Ombretta Colli	Italy	1	0	0.0	-0.0
+180953	Oliver Onions	Italy	6	0	0.0	-0.0
+4007020	Nu Guinea	Italy	11	0	0.0	-0.0
+181461	Nu NRG	Italy	2	0	0.0	-0.0
+2452592	Nuccia Bongiovanni	Italy	25	0	0.0	-0.0
+451908	Nude	Italy	3	0	0.0	-0.0
+458073	Nuel	Italy	16	0	0.0	-0.0
+1277540	Numa Crew	Italy	11	0	0.0	-0.0
+917503	Nunzio Gallo	Italy	21	0	0.0	-0.0
+493551	Nuova Compagnia di Canto Popolare	Italy	11	0	0.0	-0.0
+593634	Nuova Idea	Italy	7	0	0.0	-0.0
+1685706	Nuovi Briganti	Italy	8	0	0.0	-0.0
+1163363	Nuvolablu	Italy	7	0	0.0	-0.0
+702338	Obtane	Italy	6	0	0.0	-0.0
+4202904	Odeeno	Italy	3	0	0.0	-0.0
+1030483	Odoardo Spadaro	Italy	7	0	0.0	-0.0
+581447	Odyssea	Italy	37	0	0.0	-0.0
+269676	Officine Schwartz	Italy	10	0	0.0	-0.0
+1707752	Oh Land	Denmark	0	16	0.0	-0.0
+2775079	Mercanti di Liquore	Italy	8	0	0.0	-0.0
+630296	Max Pezzali	Italy	1	0	0.0	-0.0
+604415	Meo	Italy	7	0	0.0	-0.0
+2432587	Le Voci Blu	Italy	7	0	0.0	-0.0
+2127584	Lily Broberg	Denmark	0	26	0.0	-0.0
+2477530	Lina Bruna Rasa	Italy	3	0	0.0	-0.0
+496148	Lina Sastri	Italy	1	0	0.0	-0.0
+1051430	Lina Termini	Italy	26	0	0.0	-0.0
+321347	Linda Di Franco	Italy	2	0	0.0	-0.0
+2147743	Linda Valori	Italy	4	0	0.0	-0.0
+309369	Linea 77	Italy	8	0	0.0	-0.0
+1136857	Lino Capra Vaccina	Italy	22	0	0.0	-0.0
+1660760	Lino Toffolo	Italy	5	0	0.0	-0.0
+1471120	Linuz	Italy	2	0	0.0	-0.0
+2693609	Lionville	Italy	13	0	0.0	-0.0
+250436	Lis Sørensen	Denmark	0	4	0.0	-0.0
+1549440	Lisa	Italy	1	0	0.0	-0.0
+618504	Litfiba	Italy	15	0	0.0	-0.0
+16228	Little Jam	Denmark	0	13	0.0	-0.0
+217518	Little Tony	Italy	3	0	0.0	-0.0
+2406153	Liva Weel	Denmark	0	31	0.0	-0.0
+10997	Livin' Joy	Italy	6	0	0.0	-0.0
+5514818	Livløs	Denmark	0	7	0.0	-0.0
+900001	Ligabue	Italy	4	0	0.0	-0.0
+927824	Lidia Martorana	Italy	20	0	0.0	-0.0
+885955	Lex & Klatten	Denmark	0	1	0.0	-0.0
+991080	Lento	Italy	4	0	0.0	-0.0
+1021471	Lea Massari	Italy	8	0	0.0	-0.0
+490244	Leandro Barsotti	Italy	2	0	0.0	-0.0
+1432200	Leano Morelli	Italy	1	0	0.0	-0.0
+14490	Lee Marrow	Italy	21	0	0.0	-0.0
+6111932	Lego Edit	Italy	3	0	0.0	-0.0
+306935	Lelio Luttazzi	Italy	12	0	0.0	-0.0
+83646	Lello B	Italy	8	0	0.0	-0.0
+503122	Lena Biolcati	Italy	2	0	0.0	-0.0
+22377	Leo Anibaldi	Italy	24	0	0.0	-0.0
+1726552	Levante	Italy	11	0	0.0	-0.0
+6863606	Leo Gassmann	Italy	8	0	0.0	-0.0
+1461793	Leo Martera	Italy	11	0	0.0	-0.0
+2872300	Leo Mathisens Band	Denmark	0	11	0.0	-0.0
+2563091	Leo Mathisens Orkester	Denmark	0	10	0.0	-0.0
+2072544	Leonardo Marino	Italy	6	0	0.0	-0.0
+1101377	Leone Di Lernia	Italy	11	0	0.0	-0.0
+1175111	Lerio Corrado	Italy	7	0	0.0	-0.0
+1589670	Les Anarchistes	Italy	11	0	0.0	-0.0
+2414567	Lo Stato Sociale	Italy	17	0	0.0	-0.0
+4360590	Lo Zoo di Berlino	Italy	5	0	0.0	-0.0
+1158138	Locanda delle Fate	Italy	4	0	0.0	-0.0
+2618234	Lucia Mannucci	Italy	13	0	0.0	-0.0
+2061389	Loy & Altomare	Italy	12	0	0.0	-0.0
+723315	Lu Colombo	Italy	6	0	0.0	-0.0
+69422	Luca Antolini	Italy	11	0	0.0	-0.0
+178828	Luca Bacchetti	Italy	15	0	0.0	-0.0
+376570	Luca Barbarossa	Italy	1	0	0.0	-0.0
+371806	Luca Carboni	Italy	1	0	0.0	-0.0
+2807998	Luca Turilli's Rhapsody	Italy	23	0	0.0	-0.0
+2650965	Luchè	Italy	2	0	0.0	-0.0
+2026265	Luciana Gonzales	Italy	21	0	0.0	-0.0
+2606039	Lower	Denmark	0	4	0.0	-0.0
+592635	Luciano Angeleri	Italy	2	0	0.0	-0.0
+1373177	Luciano Basso	Italy	10	0	0.0	-0.0
+1797935	Luciano Benevene	Italy	23	0	0.0	-0.0
+76028	Luciano Berio	Italy	12	0	0.0	-0.0
+659967	Luciano Cilio	Italy	10	0	0.0	-0.0
+55683	Luciano Pavarotti	Italy	5	0	0.0	-0.0
+1108657	Luciano Rossi	Italy	1	0	0.0	-0.0
+925721	Luciano Sangiorgi	Italy	2	0	0.0	-0.0
+5635280	Lowlow	Italy	6	0	0.0	-0.0
+4206316	Low Kidd	Italy	5	0	0.0	-0.0
+351098	Lollipop	Italy	10	0	0.0	-0.0
+216177	Lory D	Italy	7	0	0.0	-0.0
+7872901	Loose Sutures	Italy	3	0	0.0	-0.0
+1259775	Lord Bean	Italy	7	0	0.0	-0.0
+366682	Loredana Bertè	Italy	1	0	0.0	-0.0
+593647	Lorella Cuccarini	Italy	7	0	0.0	-0.0
+1410837	Lorenzo Campani	Italy	4	0	0.0	-0.0
+3251292	Lorenzo Gasperoni Mamud Band	Italy	13	0	0.0	-0.0
+1391496	Lorenzo Senni	Italy	17	0	0.0	-0.0
+310137	Loretta Goggi	Italy	1	0	0.0	-0.0
+314657	Los Fastidios	Italy	11	0	0.0	-0.0
+8189840	Lovesick Duo	Italy	3	0	0.0	-0.0
+47126	Los Locos	Italy	10	0	0.0	-0.0
+1325471	Los Marcellos Ferial	Italy	11	0	0.0	-0.0
+596307	Los Retardos	Denmark	0	5	0.0	-0.0
+444513	Lost Kids	Denmark	0	7	0.0	-0.0
+1223650	Lou Dalfin	Italy	9	0	0.0	-0.0
+282663	Lou X	Italy	2	0	0.0	-0.0
+3788908	Louis Preils Danseorkester	Denmark	0	24	0.0	-0.0
+468883	Love Shop	Denmark	0	4	0.0	-0.0
+1146166	Le luci della centrale elettrica	Italy	16	0	0.0	-0.0
+941714	Le Vibrazioni	Italy	5	0	0.0	-0.0
+917491	Luciano Tajoli	Italy	14	0	0.0	-0.0
+1802076	Le Piccole Ore	Italy	5	0	0.0	-0.0
+127686	Krisma	Italy	5	0	0.0	-0.0
+76720	Kristine Blond	Denmark	0	4	0.0	-0.0
+4232036	KuTso	Italy	11	0	0.0	-0.0
+1830767	Kunsertu	Italy	7	0	0.0	-0.0
+23286	Kwanzaa Posse	Italy	7	0	0.0	-0.0
+14431223	Kōya	Denmark	0	6	0.0	-0.0
+1408646	L'Amico di Martucci	Italy	19	0	0.0	-0.0
+830664	L'Invasione Degli Omini Verdi	Italy	8	0	0.0	-0.0
+3777562	L'Officina della Camomilla	Italy	21	0	0.0	-0.0
+2781135	L'Orchestra di Piazza Vittorio	Italy	8	0	0.0	-0.0
+489717	L.O.C.	Denmark	0	21	0.0	-0.0
+4199789	LLNN	Denmark	0	4	0.0	-0.0
+10499	LTJ X-Perience	Italy	17	0	0.0	-0.0
+2264230	La Batteria	Italy	8	0	0.0	-0.0
+120913	La Bionda	Italy	3	0	0.0	-0.0
+1120631	La Bottega dell'Arte	Italy	2	0	0.0	-0.0
+909370	La Ciapa Rusa	Italy	10	0	0.0	-0.0
+3383498	La Coscienza di Zeno	Italy	16	0	0.0	-0.0
+22922	La Crus	Italy	15	0	0.0	-0.0
+10429	Koto	Italy	9	0	0.0	-0.0
+6498264	Konvent	Denmark	0	5	0.0	-0.0
+674487	Kontatto	Italy	8	0	0.0	-0.0
+4738325	Kintsugi	Italy	5	0	0.0	-0.0
+1402200	Khymera	Italy	4	0	0.0	-0.0
+4078840	Kill Your Boyfriend	Italy	29	0	0.0	-0.0
+4213259	Killer Boogie	Italy	3	0	0.0	-0.0
+169958	Kim Larsen	Denmark	0	8	0.0	-0.0
+924384	Kim Larsen & Bellami	Denmark	0	7	0.0	-0.0
+709639	Kim Larsen & Kjukken	Denmark	0	13	0.0	-0.0
+1060594	Kim Larsen And Jungledreams	Denmark	0	6	0.0	-0.0
+807471	Kina	Italy	14	0	0.0	-0.0
+15583	Kirlian Camera	Italy	20	0	0.0	-0.0
+3170157	Knud Heglund	Denmark	0	5	0.0	-0.0
+752898	Kjeld Bonfils	Denmark	0	10	0.0	-0.0
+3792345	Kjeld Nørregaard	Denmark	0	18	0.0	-0.0
+246115	Klasse Kriminale	Italy	20	0	0.0	-0.0
+359803	Klaus Schønning	Denmark	0	6	0.0	-0.0
+15977	Klein & MBO	Italy	7	0	0.0	-0.0
+484007	Kliche	Denmark	0	5	0.0	-0.0
+339423	Klimt 1918	Italy	7	0	0.0	-0.0
+1524836	Knobs	Italy	4	0	0.0	-0.0
+657376	La Famiglia	Italy	5	0	0.0	-0.0
+3561453	La Lionetta	Italy	6	0	0.0	-0.0
+2874973	La Macina	Italy	10	0	0.0	-0.0
+1031919	Laura Betti	Italy	13	0	0.0	-0.0
+330161	Lara Saint Paul	Italy	1	0	0.0	-0.0
+89431	Larabell	Italy	10	0	0.0	-0.0
+561541	Lars Hug	Denmark	0	2	0.0	-0.0
+568458	Lars Lilholt Band	Denmark	0	9	0.0	-0.0
+612644	Lars Muhl	Denmark	0	2	0.0	-0.0
+1282456	Last Minute to Jaffna	Italy	8	0	0.0	-0.0
+29848	Last Rhythm	Italy	3	0	0.0	-0.0
+1092322	Latte e Miele	Italy	11	0	0.0	-0.0
+790677	Laura Bono	Italy	1	0	0.0	-0.0
+1213893	Lando Fiorini	Italy	14	0	0.0	-0.0
+1139717	Laura Luca	Italy	4	0	0.0	-0.0
+80894	Laura Pausini	Italy	1	0	0.0	-0.0
+737986	Lazza	Italy	8	0	0.0	-0.0
+1974101	Le Amiche	Italy	10	0	0.0	-0.0
+2687874	Le Braghe Corte	Italy	11	0	0.0	-0.0
+2053738	Le Figlie Del Vento	Italy	3	0	0.0	-0.0
+1286548	Le Mele Verdi	Italy	12	0	0.0	-0.0
+359000	Le Orme	Italy	10	0	0.0	-0.0
+3733367	Lantern	Italy	33	0	0.0	-0.0
+12736460	Lamin	Denmark	0	19	0.0	-0.0
+839582	La Maschera di Cera	Italy	18	0	0.0	-0.0
+3421095	La Risonanza	Italy	7	0	0.0	-0.0
+3772135	La Maxima 79	Italy	1	0	0.0	-0.0
+237323	La Pina	Italy	8	0	0.0	-0.0
+2829756	La Piramide Di Sangue	Italy	6	0	0.0	-0.0
+7204079	La Quarta Via	Italy	2	0	0.0	-0.0
+572625	La Quiete	Italy	13	0	0.0	-0.0
+1754310	La Quinta Faccia	Italy	12	0	0.0	-0.0
+1897494	La Ragazza Del Clan	Italy	8	0	0.0	-0.0
+4922087	La Rappresentante di Lista	Italy	8	0	0.0	-0.0
+1888659	La Sintesi	Italy	11	0	0.0	-0.0
+4066643	Lame	Italy	8	0	0.0	-0.0
+1243696	La Strana Società	Italy	12	0	0.0	-0.0
+88747	Laban	Denmark	0	5	0.0	-0.0
+306436	Labyrinth	Italy	34	0	0.0	-0.0
+215670	Lacuna Coil	Italy	4	0	0.0	-0.0
+679569	Ladri di Biciclette	Italy	1	0	0.0	-0.0
+91242	Lady Violet	Italy	15	0	0.0	-0.0
+8729	Laid Back	Denmark	0	1	0.0	-0.0
+199255	Lalli	Italy	18	0	0.0	-0.0
+1546415	Luciano Simoncini	Italy	8	0	0.0	-0.0
+1051256	Luciano Virgili	Italy	31	0	0.0	-0.0
+40110	Mental Generation	Denmark	0	13	0.0	-0.0
+1938409	Mario Basiola	Italy	3	0	0.0	-0.0
+2536259	Marisa Rampin	Italy	23	0	0.0	-0.0
+1341032	Marisa Sannia	Italy	3	0	0.0	-0.0
+982800	Marisa Terzi	Italy	3	0	0.0	-0.0
+3223211	Marius Jacobsen	Denmark	0	6	0.0	-0.0
+32845	Markantonio	Italy	24	0	0.0	-0.0
+730915	Marlene Kuntz	Italy	11	0	0.0	-0.0
+1552147	Marnero	Italy	36	0	0.0	-0.0
+1210072	Marracash	Italy	3	0	0.0	-0.0
+1607366	Mars Bill	Italy	4	0	0.0	-0.0
+1932817	Marta sui tubi	Italy	10	0	0.0	-0.0
+3320772	Marvelous Mosell	Denmark	0	8	0.0	-0.0
+3879510	Marvin & Guy	Italy	1	0	0.0	-0.0
+292037	Marya	Italy	6	0	0.0	-0.0
+112933	Marzio Dance	Italy	26	0	0.0	-0.0
+392118	Massimo Bubola	Italy	1	0	0.0	-0.0
+473693	Massimo Di Cataldo	Italy	1	0	0.0	-0.0
+584990	Massimo Mariani	Italy	7	0	0.0	-0.0
+7082111	Massimo Pericolo	Italy	6	0	0.0	-0.0
+1036620	Massimo Priviero	Italy	1	0	0.0	-0.0
+1119091	Marisa Fiordaliso	Italy	21	0	0.0	-0.0
+932480	Marisa Del Frate	Italy	30	0	0.0	-0.0
+1385149	Marisa Colomber	Italy	28	0	0.0	-0.0
+1455893	Mario Pasqualillo	Italy	25	0	0.0	-0.0
+887079	Mario Castelnuovo	Italy	2	0	0.0	-0.0
+713023	Mario Gangi	Italy	9	0	0.0	-0.0
+919438	Mario Latilla	Italy	1	0	0.0	-0.0
+297664	Mario Lavezzi	Italy	2	0	0.0	-0.0
+2518803	Mario Merola	Italy	14	0	0.0	-0.0
+12199	Mario Migliardi	Italy	6	0	0.0	-0.0
+309900	Mario Molino	Italy	12	0	0.0	-0.0
+361418	Mario Nascimbene	Italy	13	0	0.0	-0.0
+722885	Mario Pezzotta	Italy	8	0	0.0	-0.0
+1080057	Mariposa	Italy	10	0	0.0	-0.0
+1950035	Mario Piovano	Italy	18	0	0.0	-0.0
+455482	Mario Più	Italy	26	0	0.0	-0.0
+460610	Mario Rosini	Italy	7	0	0.0	-0.0
+924474	Mario Tessuto	Italy	4	0	0.0	-0.0
+1632881	Mario Trevi	Italy	15	0	0.0	-0.0
+270463	Mario Venuti	Italy	6	0	0.0	-0.0
+696193	Mario del Monaco	Italy	11	0	0.0	-0.0
+4229755	Mario e Sal Da Vinci	Italy	15	0	0.0	-0.0
+319960	Massimo Ranieri	Italy	1	0	0.0	-0.0
+7890233	Massimo Silverio	Italy	4	0	0.0	-0.0
+720217	Massimo Volume	Italy	17	0	0.0	-0.0
+232595	Meccano	Italy	1	0	0.0	-0.0
+3796561	Max De Bernardi	Italy	2	0	0.0	-0.0
+37335	Max E-Crew	Italy	3	0	0.0	-0.0
+1596044	Max Gazzè	Italy	4	0	0.0	-0.0
+1061012	Piero Focaccia	Italy	9	0	0.0	-0.0
+19802	Max-Him	Italy	12	0	0.0	-0.0
+1209001	Maxophone	Italy	5	0	0.0	-0.0
+3615925	Maze of Sothoth	Italy	2	0	0.0	-0.0
+33894	Me & My	Denmark	0	6	0.0	-0.0
+2565437	Mecna	Italy	7	0	0.0	-0.0
+222658	Mauro Pilato	Italy	2	0	0.0	-0.0
+7012514	Meduza	Italy	1	0	0.0	-0.0
+359859	Meg	Italy	7	0	0.0	-0.0
+580556	Meganoidi	Italy	11	0	0.0	-0.0
+1036625	Melencolia Estatica	Italy	4	0	0.0	-0.0
+3124256	Mellow Mood	Italy	10	0	0.0	-0.0
+2071530	Melody Fall	Italy	1	0	0.0	-0.0
+936712	Meme Bianchi	Italy	15	0	0.0	-0.0
+1212701	Memo Remigi	Italy	14	0	0.0	-0.0
+105033	Max Coveri	Italy	25	0	0.0	-0.0
+5775	Mauro Picotto	Italy	26	0	0.0	-0.0
+384102	Massimo Zamboni	Italy	10	0	0.0	-0.0
+583133	Mau Mau	Italy	10	0	0.0	-0.0
+3356160	Mastercastle	Italy	15	0	0.0	-0.0
+136886	Matia Bazar	Italy	1	0	0.0	-0.0
+42821	Mato Grosso	Italy	5	0	0.0	-0.0
+1326621	Matrioska	Italy	7	0	0.0	-0.0
+2509038	Matteo Brancaleoni	Italy	8	0	0.0	-0.0
+5515879	Matteo Trevisan	Italy	4	0	0.0	-0.0
+1428153	Mattia Battistini	Italy	5	0	0.0	-0.0
+2656563	Mattia Trani	Italy	12	0	0.0	-0.0
+708944	Maurizio Abate	Italy	28	0	0.0	-0.0
+302019	Mauro Pagani	Italy	1	0	0.0	-0.0
+250046	Maurizio Arcieri	Italy	5	0	0.0	-0.0
+23406	Maurizio Braccagni	Italy	22	0	0.0	-0.0
+3179893	Maurizio Carpi	Italy	2	0	0.0	-0.0
+274694	Maurizio Fabrizio	Italy	2	0	0.0	-0.0
+765674	Maurizio Vandelli	Italy	1	0	0.0	-0.0
+2231980	Mauro Caputo	Italy	13	0	0.0	-0.0
+1547793	Mauro Ermanno Giovanardi	Italy	3	0	0.0	-0.0
+966569	Mauro Lusini	Italy	1	0	0.0	-0.0
+244654	Mario Biondi	Italy	5	0	0.0	-0.0
+1898086	Mario Acquaviva	Italy	1	0	0.0	-0.0
+520886	Luciano Zuccheri	Italy	10	0	0.0	-0.0
+501981	Marino Marini	Italy	16	0	0.0	-0.0
+274929	Mabra	Italy	11	0	0.0	-0.0
+262801	Macbeth	Italy	6	0	0.0	-0.0
+1723244	Mace	Italy	3	0	0.0	-0.0
+42360	Macho	Italy	7	0	0.0	-0.0
+154749	Mad Bob	Italy	8	0	0.0	-0.0
+1619449	Mad Crayon	Italy	1	0	0.0	-0.0
+2668959	MadMan	Italy	4	0	0.0	-0.0
+7512727	Madame	Italy	5	0	0.0	-0.0
+361368	Madreblu	Italy	9	0	0.0	-0.0
+1450195	Madrigali Magri	Italy	5	0	0.0	-0.0
+1032769	Mads Langer	Denmark	0	16	0.0	-0.0
+869854	Madteo	Italy	6	0	0.0	-0.0
+4880094	Mahmood	Italy	3	0	0.0	-0.0
+5563898	Maldestro	Italy	13	0	0.0	-0.0
+2212983	Maleficarum	Italy	5	0	0.0	-0.0
+374656	Malfeitor	Italy	6	0	0.0	-0.0
+1901200	Malika Ayane	Italy	1	0	0.0	-0.0
+287559	Malk De Kojin	Denmark	0	14	0.0	-0.0
+250432	Malurt	Denmark	0	4	0.0	-0.0
+82381	Mabel	Italy	2	0	0.0	-0.0
+5600702	ML Buch	Denmark	0	1	0.0	-0.0
+489720	MC Einar	Denmark	0	3	0.0	-0.0
+219565	Luigi Nono	Italy	17	0	0.0	-0.0
+250902	Lucio Battisti	Italy	1	0	0.0	-0.0
+4332218	Lucio Corsi	Italy	15	0	0.0	-0.0
+207470	Lucio Dalla	Italy	2	0	0.0	-0.0
+932010	Lucretio	Italy	3	0	0.0	-0.0
+369643	Ludovico Einaudi	Italy	3	0	0.0	-0.0
+954899	Ludvig Brandstrup	Denmark	0	9	0.0	-0.0
+2085508	Luigi Grechi	Italy	1	0	0.0	-0.0
+1215774	Luigi Madonna	Italy	6	0	0.0	-0.0
+319974	Luigi Tenco	Italy	8	0	0.0	-0.0
+52875	MBG	Italy	17	0	0.0	-0.0
+137860	Luis Radio	Italy	8	0	0.0	-0.0
+2791034	Lukas Graham	Denmark	0	14	0.0	-0.0
+740448	Lulu Rouge	Denmark	0	14	0.0	-0.0
+3094897	Lulu Ziegler	Denmark	0	21	0.0	-0.0
+250536	Lunapop	Italy	5	0	0.0	-0.0
+192006	Lupi Gladius	Italy	3	0	0.0	-0.0
+5341712	Lurking Terror	Italy	5	0	0.0	-0.0
+441956	M'Bamina	Italy	3	0	0.0	-0.0
+2006187	Mambassa	Italy	11	0	0.0	-0.0
+6353828	MamboLosco	Italy	6	0	0.0	-0.0
+134745	Mamukata	Italy	6	0	0.0	-0.0
+1379898	Maria Carta	Italy	8	0	0.0	-0.0
+2646444	Marco Mengoni	Italy	8	0	0.0	-0.0
+665073	Marco Ongaro	Italy	7	0	0.0	-0.0
+1247151	Marco Parente	Italy	9	0	0.0	-0.0
+18623	Marco Passarani	Italy	4	0	0.0	-0.0
+613746	Marco Shuttle	Italy	18	0	0.0	-0.0
+5914482	Margherita Vicario	Italy	10	0	0.0	-0.0
+2406152	Marguerite Viby	Denmark	0	26	0.0	-0.0
+2679122	Maria Antonietta	Italy	9	0	0.0	-0.0
+2066489	Maria Doris	Italy	21	0	0.0	-0.0
+1154942	Marco Maniera	Italy	10	0	0.0	-0.0
+2445471	Maria Finocchiaro	Italy	4	0	0.0	-0.0
+1028578	Maria Jottini	Italy	23	0	0.0	-0.0
+2176041	Maria Monti	Italy	11	0	0.0	-0.0
+1454753	Maria Paris	Italy	16	0	0.0	-0.0
+3349590	Maria Violenza	Italy	12	0	0.0	-0.0
+665030	Mariella Nava	Italy	1	0	0.0	-0.0
+2672219	Marina Pagano	Italy	8	0	0.0	-0.0
+608605	Marina Rei	Italy	5	0	0.0	-0.0
+268725	Marco Masini	Italy	2	0	0.0	-0.0
+274632	Marco Ferradini	Italy	1	0	0.0	-0.0
+1365029	Mamuthones	Italy	14	0	0.0	-0.0
+451878	Marcello Giombini	Italy	14	0	0.0	-0.0
+4004489	Management	Italy	17	0	0.0	-0.0
+483938	Mandragora Scream	Italy	5	0	0.0	-0.0
+593166	Mango	Italy	1	0	0.0	-0.0
+801900	Manuel De La Mare	Italy	8	0	0.0	-0.0
+102229	Manuel ES	Italy	4	0	0.0	-0.0
+961284	Manuel Zurria	Italy	14	0	0.0	-0.0
+28880	Marascia	Italy	15	0	0.0	-0.0
+503123	Marcella Bella	Italy	1	0	0.0	-0.0
+319050	Marcello Melis	Italy	12	0	0.0	-0.0
+230788	Marco Di Marco	Italy	5	0	0.0	-0.0
+17544	Marcello Minerbi	Italy	7	0	0.0	-0.0
+892248	Marco Bardoscia	Italy	7	0	0.0	-0.0
+1357146	Marco Brugattu	Italy	5	0	0.0	-0.0
+1373008	Marco Carena	Italy	1	0	0.0	-0.0
+1944	Marco Carola	Italy	12	0	0.0	-0.0
+1222549	Marco Carta	Italy	1	0	0.0	-0.0
+8046498	Marco Castello	Italy	11	0	0.0	-0.0
+1673266	Marco Dalpane	Italy	16	0	0.0	-0.0
+52456	Piero Fidelfatti	Italy	6	0	0.0	-0.0
+1125595	Pippo Barzizza	Italy	20	0	0.0	-0.0
+691614	Piero Marras	Italy	2	0	0.0	-0.0
+401513	The Savage Rose	Denmark	0	1	0.0	-0.0
+1607816	The Niro	Italy	13	0	0.0	-0.0
+2986738	The Okey-Dokies	Denmark	0	30	0.0	-0.0
+930654	The Others	Italy	5	0	0.0	-0.0
+692229	The Psyke Project	Denmark	0	7	0.0	-0.0
+903	The Rapino Brothers	Italy	5	0	0.0	-0.0
+200321	The Raveonettes	Denmark	0	7	0.0	-0.0
+828135	The Rogers	Italy	4	0	0.0	-0.0
+535750	The Sandmen	Denmark	0	6	0.0	-0.0
+431736	The Seebach Band	Denmark	0	6	0.0	-0.0
+1793544	The Mojomatics	Italy	23	0	0.0	-0.0
+249669	The Sickest Squad	Italy	20	0	0.0	-0.0
+4721229	The Smuggler Brothers	Italy	13	0	0.0	-0.0
+42264	The Soundlovers	Italy	7	0	0.0	-0.0
+809705	The Sphere	Italy	6	0	0.0	-0.0
+15310	The Stunned Guys	Italy	21	0	0.0	-0.0
+1561163	The Sun	Italy	27	0	0.0	-0.0
+1439498	The Uninvited	Italy	8	0	0.0	-0.0
+1437752	The Watch	Italy	7	0	0.0	-0.0
+1785003	The Nerds	Italy	4	0	0.0	-0.0
+3489161	The Minds Of 99	Denmark	0	18	0.0	-0.0
+25959	The Wishmaster	Italy	6	0	0.0	-0.0
+1738189	The Gods Planet	Italy	22	0	0.0	-0.0
+5127334	The Devils	Italy	7	0	0.0	-0.0
+8142	The Dining Rooms	Italy	12	0	0.0	-0.0
+814359	The Doubling Riders	Italy	19	0	0.0	-0.0
+194714	The Duke of Burlington	Italy	14	0	0.0	-0.0
+2002626	The End of Six Thousand Years	Italy	3	0	0.0	-0.0
+628992	The Fire	Italy	24	0	0.0	-0.0
+1012486	The Foreshadowing	Italy	6	0	0.0	-0.0
+94685	The Frozen Autumn	Italy	3	0	0.0	-0.0
+2011936	The Good Fellas	Italy	11	0	0.0	-0.0
+452714	The Manges	Italy	7	0	0.0	-0.0
+690852	The High Five Quintet	Italy	7	0	0.0	-0.0
+1620409	The Intellectuals	Italy	4	0	0.0	-0.0
+429654	The Invisible Session	Italy	15	0	0.0	-0.0
+85741	The KGB's	Italy	7	0	0.0	-0.0
+4416505	The Kolors	Italy	1	0	0.0	-0.0
+2425462	The Kordt Sisters	Denmark	0	17	0.0	-0.0
+3187190	The Land of the Snow	Italy	9	0	0.0	-0.0
+2988479	The Lay Llamas	Italy	5	0	0.0	-0.0
+4814660	The Winstons	Italy	13	0	0.0	-0.0
+413276	Thee Maldoror Kollective	Italy	2	0	0.0	-0.0
+1614466	The Death of Anna Karina	Italy	21	0	0.0	-0.0
+545386	Tommaso Leddi	Italy	6	0	0.0	-0.0
+1736801	Tito Schipa Jr.	Italy	1	0	0.0	-0.0
+1393386	Titta Ruffo	Italy	10	0	0.0	-0.0
+2168241	Tiziana Ghiglioni	Italy	6	0	0.0	-0.0
+380872	Tiziana Rivale	Italy	6	0	0.0	-0.0
+286825	Tiziano Ferro	Italy	1	0	0.0	-0.0
+516001	Tiziano Popoli	Italy	7	0	0.0	-0.0
+4435599	Tobias Rahim	Denmark	0	17	0.0	-0.0
+1332873	Tommaso Cappellato	Italy	27	0	0.0	-0.0
+6142277	Tommaso Paradiso	Italy	8	0	0.0	-0.0
+1341603	Tito Gobbi	Italy	8	0	0.0	-0.0
+493503	Tommy Seebach	Denmark	0	9	0.0	-0.0
+20226	Tommyknocker	Italy	19	0	0.0	-0.0
+5141700	Tonico 70	Italy	9	0	0.0	-0.0
+1226308	Tonina Torrielli	Italy	20	0	0.0	-0.0
+486142	Tons	Italy	6	0	0.0	-0.0
+1439933	Tony Arden	Italy	11	0	0.0	-0.0
+2501384	Tony Bruni	Italy	16	0	0.0	-0.0
+368885	Tony Cicco	Italy	5	0	0.0	-0.0
+929908	Tito Schipa	Italy	28	0	0.0	-0.0
+379963	Tiromancino	Italy	4	0	0.0	-0.0
+1357527	Thee S.T.P.	Italy	1	0	0.0	-0.0
+1162040	Three Steps to the Ocean	Italy	24	0	0.0	-0.0
+2458391	Thegiornalisti	Italy	7	0	0.0	-0.0
+715904	This Side Up	Italy	2	0	0.0	-0.0
+435659	Thomas Blachman	Denmark	0	6	0.0	-0.0
+760457	Thomas Buttenschøn	Denmark	0	6	0.0	-0.0
+203916	Thomas Helmig	Denmark	0	2	0.0	-0.0
+1270023	Thomas Helmig Brothers	Denmark	0	5	0.0	-0.0
+930327	Thors Hammer	Denmark	0	8	0.0	-0.0
+503108	Three Second Kiss	Italy	6	0	0.0	-0.0
+771239	Throuroof	Italy	2	0	0.0	-0.0
+1051278	Tino Vailati	Italy	38	0	0.0	-0.0
+320711	Thunderstorm	Italy	5	0	0.0	-0.0
+1048657	Thy Majestie	Italy	13	0	0.0	-0.0
+46190	TiPiCal	Italy	13	0	0.0	-0.0
+257958	Tim Christensen	Denmark	0	9	0.0	-0.0
+19798	Time	Italy	19	0	0.0	-0.0
+1241044	Time Machine	Italy	9	0	0.0	-0.0
+361405	Timoria	Italy	1	0	0.0	-0.0
+1028577	Tina Allori	Italy	28	0	0.0	-0.0
+24394	The Destroyer	Italy	14	0	0.0	-0.0
+1928202	The Danish Sharks	Denmark	0	5	0.0	-0.0
+214407	Stefano Scodanibbio	Italy	10	0	0.0	-0.0
+762839	Sylvester Og Svalerne	Denmark	0	5	0.0	-0.0
+326376	Susi Hyldgaard	Denmark	0	4	0.0	-0.0
+489713	Suspekt	Denmark	0	16	0.0	-0.0
+95459	Svend Asmussen	Denmark	0	21	0.0	-0.0
+2046112	Svend Asmussen Sextet	Denmark	0	16	0.0	-0.0
+4310416	Svend Asmussens Kvintet	Denmark	0	19	0.0	-0.0
+2232743	Svend Asmussens Orkester	Denmark	0	11	0.0	-0.0
+3738699	Svend Asmussens Skandia Trio	Denmark	0	9	0.0	-0.0
+177344	Sylvano Bussotti	Italy	14	0	0.0	-0.0
+563806	Symbiosi	Italy	2	0	0.0	-0.0
+6823412	Superdownhome	Italy	4	0	0.0	-0.0
+74337	Synthesis	Italy	18	0	0.0	-0.0
+890020	Syria	Italy	1	0	0.0	-0.0
+159689	Syrian	Italy	6	0	0.0	-0.0
+760455	Sys Bjerre	Denmark	0	17	0.0	-0.0
+1926904	Sys Gregers	Denmark	0	11	0.0	-0.0
+1734	System 3	Italy	9	0	0.0	-0.0
+21101	Systematic	Italy	11	0	0.0	-0.0
+771237	Søren Huss	Denmark	0	10	0.0	-0.0
+102515	Supermarco May	Italy	8	0	0.0	-0.0
+2023385	Super Elastic Bubble Plastic	Italy	22	0	0.0	-0.0
+539938	Søs Fenger	Denmark	0	1	0.0	-0.0
+282973	Stormy Six	Italy	15	0	0.0	-0.0
+9762	Stefano Torossi	Italy	17	0	0.0	-0.0
+3355836	Stella Diana	Italy	4	0	0.0	-0.0
+125377	Stelvio Cipriani	Italy	9	0	0.0	-0.0
+762948	Steppeulvene	Denmark	0	5	0.0	-0.0
+371805	Steve Rogers Band	Italy	3	0	0.0	-0.0
+1309434	Stinky Rats	Italy	12	0	0.0	-0.0
+251702	Stormlord	Italy	18	0	0.0	-0.0
+1935508	Stormo	Italy	34	0	0.0	-0.0
+2010153	Stradaperta	Italy	2	0	0.0	-0.0
+918943	Super B	Italy	3	0	0.0	-0.0
+1713369	Strana Officina	Italy	5	0	0.0	-0.0
+459446	Stylóo	Italy	25	0	0.0	-0.0
+4130664	Suarez	Italy	10	0	0.0	-0.0
+237324	Subsonica	Italy	12	0	0.0	-0.0
+1013964	Subterraneans	Italy	3	0	0.0	-0.0
+455362	Sud Sound System	Italy	8	0	0.0	-0.0
+649	Sueño Latino	Italy	18	0	0.0	-0.0
+446512	Sunday	Italy	3	0	0.0	-0.0
+707368	Søren Kragh-Jacobsen	Denmark	0	3	0.0	-0.0
+99571	TNT	Denmark	0	10	0.0	-0.0
+1044473	The Crooks	Italy	2	0	0.0	-0.0
+99787	The Armed Gang	Italy	4	0	0.0	-0.0
+634178	Tenores di Bitti Remunnu 'E Locu	Italy	6	0	0.0	-0.0
+1780093	Teresa De Matienzo	Italy	5	0	0.0	-0.0
+664145	Teresa De Sio	Italy	1	0	0.0	-0.0
+221990	Teresa Rampazzi	Italy	18	0	0.0	-0.0
+3397851	Thallulah	Italy	3	0	0.0	-0.0
+6929373	Thasup	Italy	4	0	0.0	-0.0
+1150189	That's All Folks!	Italy	4	0	0.0	-0.0
+1634149	The Analogue Cops	Italy	5	0	0.0	-0.0
+1716326	The Birdmen of Alkatraz	Italy	4	0	0.0	-0.0
+4097774	Tenna Frederiksen	Denmark	0	2	0.0	-0.0
+20464	The Blaster	Italy	8	0	0.0	-0.0
+2011965	The Blues Against Youth	Italy	13	0	0.0	-0.0
+2157792	The Bone Machine	Italy	1	0	0.0	-0.0
+27520	The Boulevard Connection	Denmark	0	13	0.0	-0.0
+3657661	The Braen's Machine	Italy	13	0	0.0	-0.0
+552065	The Carnival of Fools	Italy	16	0	0.0	-0.0
+1139301	The Clover	Italy	5	0	0.0	-0.0
+145611	The Creatures	Italy	24	0	0.0	-0.0
+11446013	Tenores di Bitti Mialinu Pira	Italy	2	0	0.0	-0.0
+7057432	Tenebro	Italy	6	0	0.0	-0.0
+5045061	Takagi & Ketra	Italy	5	0	0.0	-0.0
+1546033	Tazenda	Italy	1	0	0.0	-0.0
+1873739	Tale of Us	Italy	4	0	0.0	-0.0
+46003	Taleesa	Italy	26	0	0.0	-0.0
+311319	Tampax	Italy	10	0	0.0	-0.0
+138231	Tasaday	Italy	10	0	0.0	-0.0
+1338658	Tati Casoni	Italy	25	0	0.0	-0.0
+35992	Tau Ceti	Italy	2	0	0.0	-0.0
+2818826	Taurino Parvis	Italy	3	0	0.0	-0.0
+1498397	Taxi	Italy	2	0	0.0	-0.0
+51564	Technoboy	Italy	13	0	0.0	-0.0
+427745	Tenebrae in Perpetuum	Italy	6	0	0.0	-0.0
+7650126	Tecla Insolia	Italy	5	0	0.0	-0.0
+3736769	Teddy Petersen Og Hans Orkester	Denmark	0	33	0.0	-0.0
+926969	Teddy Reno	Italy	12	0	0.0	-0.0
+5349962	Tedua	Italy	9	0	0.0	-0.0
+369655	Teho Teardo	Italy	14	0	0.0	-0.0
+1664736	Tempelhof	Italy	2	0	0.0	-0.0
+1141470	Tempi Duri	Italy	1	0	0.0	-0.0
+1263150	Tempo Zero	Italy	9	0	0.0	-0.0
+869790	Tony Cucchiara	Italy	18	0	0.0	-0.0
+528361	Tony Dallara	Italy	16	0	0.0	-0.0
+1494180	Tony Dee	Italy	9	0	0.0	-0.0
+388261	Voodoo Hill	Italy	6	0	0.0	-0.0
+1719291	Vittoria Mongardi	Italy	20	0	0.0	-0.0
+51672	Vittorio Gelmetti	Italy	3	0	0.0	-0.0
+2968656	Vittorio Marsiglia	Italy	16	0	0.0	-0.0
+296969	Vittorio Paltrinieri	Italy	23	0	0.0	-0.0
+36202	Vivien Vee	Italy	6	0	0.0	-0.0
+2302007	Voices From the Lake	Italy	13	0	0.0	-0.0
+573501	Void of Silence	Italy	10	0	0.0	-0.0
+432287	Volpini Volanti	Italy	1	0	0.0	-0.0
+5311475	Vultures Vengeance	Italy	4	0	0.0	-0.0
+9712	Virtualmismo	Italy	7	0	0.0	-0.0
+11197568	Vulvatorious	Denmark	0	4	0.0	-0.0
+3423836	WEIRD.	Italy	4	0	0.0	-0.0
+1016664	Walter Foini	Italy	1	0	0.0	-0.0
+79245	Walter Marchetti	Italy	9	0	0.0	-0.0
+65625	Walter Prati	Italy	26	0	0.0	-0.0
+316759	Walter Rizzati	Italy	10	0	0.0	-0.0
+1031381	Wanda Osiris	Italy	5	0	0.0	-0.0
+15665	Wasting Program	Italy	14	0	0.0	-0.0
+406888	Vision Divine	Italy	21	0	0.0	-0.0
+1377603	Viridanse	Italy	9	0	0.0	-0.0
+12503	Web	Italy	8	0	0.0	-0.0
+547841	Via Dolorosa	Italy	2	0	0.0	-0.0
+1066396	Vasso Ovale	Italy	11	0	0.0	-0.0
+5685253	Vegas Jones	Italy	1	0	0.0	-0.0
+1116081	Venegoni & Co.	Italy	8	0	0.0	-0.0
+6678021	Venerus	Italy	6	0	0.0	-0.0
+441452	Verdena	Italy	10	0	0.0	-0.0
+2211715	Verme	Italy	4	0	0.0	-0.0
+703755	Vernice	Italy	6	0	0.0	-0.0
+558507	Veto	Denmark	0	17	0.0	-0.0
+287143	Via Verdi	Italy	8	0	0.0	-0.0
+91762	Virgin	Italy	21	0	0.0	-0.0
+727966	Victor Cornelius	Denmark	0	24	0.0	-0.0
+1233636	Vilhelm Herold	Denmark	0	6	0.0	-0.0
+1581054	Vincenzo Bettoni	Italy	3	0	0.0	-0.0
+516519	Vincenzo Zitello	Italy	2	0	0.0	-0.0
+401936	Vinicio Capossela	Italy	6	0	0.0	-0.0
+1736469	Vinnie Who	Denmark	0	12	0.0	-0.0
+380862	Viola Valentino	Italy	1	0	0.0	-0.0
+1156947	Violet Eves	Italy	4	0	0.0	-0.0
+810130	We Wait for the Snow	Italy	2	0	0.0	-0.0
+2803507	Wera Nepy	Italy	10	0	0.0	-0.0
+1018682	Tony Del Monaco	Italy	6	0	0.0	-0.0
+5944	Zenith	Italy	15	0	0.0	-0.0
+1640133	Young Flowers	Denmark	0	11	0.0	-0.0
+1060466	Yu Kung	Italy	3	0	0.0	-0.0
+64038	Yuppie Flu	Italy	22	0	0.0	-0.0
+1645928	Yügen	Italy	17	0	0.0	-0.0
+1371264	Zanagoria	Italy	6	0	0.0	-0.0
+119945	Zatox	Italy	24	0	0.0	-0.0
+2162539	Zeit	Italy	7	0	0.0	-0.0
+503173	Zen Circus	Italy	14	0	0.0	-0.0
+238957	Zero Assoluto	Italy	5	0	0.0	-0.0
+157594	Yasmin	Denmark	0	5	0.0	-0.0
+1888456	Zeus!	Italy	19	0	0.0	-0.0
+2040068	Zibba e Almalibre	Italy	6	0	0.0	-0.0
+212096	Zu	Italy	19	0	0.0	-0.0
+176435	Zucchero	Italy	1	0	0.0	-0.0
+1554289	dARI	Italy	7	0	0.0	-0.0
+1471119	gAs	Italy	4	0	0.0	-0.0
+465093	tv-2	Denmark	0	2	0.0	-0.0
+396477	Østkyst Hustlers	Denmark	0	5	0.0	-0.0
+1131686	Yo Yo Mundi	Italy	16	0	0.0	-0.0
+104930	YAGO	Italy	2	0	0.0	-0.0
+1191739	When Saints Go Machine	Denmark	0	13	0.0	-0.0
+2355395	Winged	Italy	1	0	0.0	-0.0
+2547245	Whiskey Ritual	Italy	5	0	0.0	-0.0
+253170	White Skull	Italy	4	0	0.0	-0.0
+1119038	Wicked Dub Division	Italy	8	0	0.0	-0.0
+2687194	William Medagli	Italy	5	0	0.0	-0.0
+4142391	Willie Peyote	Italy	8	0	0.0	-0.0
+1502336	Wilma De Angelis	Italy	16	0	0.0	-0.0
+1020377	Wilma Goich	Italy	5	0	0.0	-0.0
+3091790	Wind Rose	Italy	22	0	0.0	-0.0
+5939153	Winstrup Olesen's Bellevue Orkester	Denmark	0	17	0.0	-0.0
+149439	XP8	Italy	3	0	0.0	-0.0
+3874517	Winter Dust	Italy	19	0	0.0	-0.0
+98606	Wish Key	Italy	15	0	0.0	-0.0
+1521273	Witch Cross	Denmark	0	7	0.0	-0.0
+4396381	Witchwood	Italy	4	0	0.0	-0.0
+2378945	Wotan	Italy	2	0	0.0	-0.0
+264109	Wretched	Italy	9	0	0.0	-0.0
+6395747	Wrongonyou	Italy	5	0	0.0	-0.0
+32175	XL	Italy	13	0	0.0	-0.0
+130185	Vasco Rossi	Italy	2	0	0.0	-0.0
+308592	Vanilla Sky	Italy	5	0	0.0	-0.0
+1954958	Vanexa	Italy	12	0	0.0	-0.0
+6832634	True Sleeper	Italy	10	0	0.0	-0.0
+1299766	Tricarico	Italy	1	0	0.0	-0.0
+3210689	Trick or Treat	Italy	25	0	0.0	-0.0
+707372	Trille	Denmark	0	7	0.0	-0.0
+924338	Trine Dyrholm	Denmark	0	1	0.0	-0.0
+1211760	Trio Aurora	Italy	21	0	0.0	-0.0
+5898405	Trio Cavalazzi	Italy	6	0	0.0	-0.0
+921307	Trio Lescano	Italy	24	0	0.0	-0.0
+1545928	Tropic of Cancer	Italy	4	0	0.0	-0.0
+1516677	Tsubo	Italy	8	0	0.0	-0.0
+354999	Trees	Italy	2	0	0.0	-0.0
+31759	Tullio De Piscopo	Italy	1	0	0.0	-0.0
+765166	Tullio Mobiglia	Italy	12	0	0.0	-0.0
+1799128	Tullio Pane	Italy	7	0	0.0	-0.0
+996613	Turi	Italy	18	0	0.0	-0.0
+6546603	Tutti Fenomeni	Italy	20	0	0.0	-0.0
+2006847	Twenty Four Hours	Italy	5	0	0.0	-0.0
+1243594	Two Bo's Maniacs	Italy	2	0	0.0	-0.0
+360585	Tying Tiffany	Italy	11	0	0.0	-0.0
+117914	Trentemøller	Denmark	0	13	0.0	-0.0
+1589539	Tre Allegri Ragazzi Morti	Italy	18	0	0.0	-0.0
+832961	Vanessa Van Basten	Italy	11	0	0.0	-0.0
+3792243	Torment	Italy	4	0	0.0	-0.0
+61848	Tony Esposito	Italy	1	0	0.0	-0.0
+3224818	Tony Maiello	Italy	3	0	0.0	-0.0
+326119	Tony Renis	Italy	5	0	0.0	-0.0
+724480	Tony Rusconi	Italy	12	0	0.0	-0.0
+712038	Tony Santagata	Italy	8	0	0.0	-0.0
+618030	Tony Tears	Italy	2	0	0.0	-0.0
+2425531	Topgunn	Denmark	0	19	0.0	-0.0
+812002	Topper	Italy	3	0	0.0	-0.0
+668530	Tormento	Italy	6	0	0.0	-0.0
+2595052	Trapcoustic	Italy	1	0	0.0	-0.0
+4254021	Toro Toro Taxi	Italy	9	0	0.0	-0.0
+647570	Tosca	Italy	2	0	0.0	-0.0
+974481	Toti Dal Monte	Italy	11	0	0.0	-0.0
+215246	Toto Cutugno	Italy	1	0	0.0	-0.0
+197531	Totò Savio	Italy	11	0	0.0	-0.0
+2884146	Train to Roots	Italy	8	0	0.0	-0.0
+112758	Traks	Italy	7	0	0.0	-0.0
+44946	Trance Generators	Italy	2	0	0.0	-0.0
+1633836	Têtes de Bois	Italy	3	0	0.0	-0.0
+1039202	Tørfisk	Denmark	0	8	0.0	-0.0
+426633	Tøsedrengene	Denmark	0	6	0.0	-0.0
+2986835	Valdemar Davids	Denmark	0	27	0.0	-0.0
+5185356	Untitled Noise	Italy	11	0	0.0	-0.0
+681136	Uochi Toki	Italy	23	0	0.0	-0.0
+275697	Upset Noise	Italy	4	0	0.0	-0.0
+1411626	Urna	Italy	3	0	0.0	-0.0
+1444690	Usipian	Denmark	0	13	0.0	-0.0
+780742	Uto Karem	Italy	14	0	0.0	-0.0
+387784	Uzeda	Italy	6	0	0.0	-0.0
+3647682	VINAI	Italy	3	0	0.0	-0.0
+3176060	Valdemar Schiøler Linck	Denmark	0	7	0.0	-0.0
+66256	U.S.U.R.A.	Italy	19	0	0.0	-0.0
+2769287	Valentina Dorme	Italy	22	0	0.0	-0.0
+916927	Valentina Giovagnini	Italy	3	0	0.0	-0.0
+414913	Valeria Rossi	Italy	7	0	0.0	-0.0
+44955	Valerie Dore	Italy	2	0	0.0	-0.0
+3866902	Valerio Scanu	Italy	1	0	0.0	-0.0
+1199983	Vallanzaska	Italy	22	0	0.0	-0.0
+86611	Valvola	Italy	2	0	0.0	-0.0
+979165	Vanadium	Italy	2	0	0.0	-0.0
+4154147	Unreal City	Italy	10	0	0.0	-0.0
+1684085	Universal Totem Orchestra	Italy	1	0	0.0	-0.0
+23423	Unexist	Italy	21	0	0.0	-0.0
+697022	Underground Life	Italy	2	0	0.0	-0.0
+1611063	UT	Italy	4	0	0.0	-0.0
+1598223	Uffe Lorentzen	Denmark	0	4	0.0	-0.0
+1179478	Ufo Piemontesi	Italy	4	0	0.0	-0.0
+536837	Ufomammut	Italy	7	0	0.0	-0.0
+2464761	Ugo Tansini	Italy	3	0	0.0	-0.0
+1999860	Ugolino	Italy	10	0	0.0	-0.0
+727951	Ulrik Neumann	Denmark	0	14	0.0	-0.0
+62406	Ultimo	Italy	7	0	0.0	-0.0
+3070465	Ultra-Violence	Italy	24	0	0.0	-0.0
+370781	Umberto Balsamo	Italy	1	0	0.0	-0.0
+636433	Umberto Bindi	Italy	1	0	0.0	-0.0
+503074	Umberto Marcato	Italy	1	0	0.0	-0.0
+907891	Umberto Napolitano	Italy	4	0	0.0	-0.0
+176185	Umberto Tozzi	Italy	1	0	0.0	-0.0
+239257	Under Byen	Denmark	0	16	0.0	-0.0
+1194611	Underage	Italy	3	0	0.0	-0.0
+111912	Underfish	Italy	5	0	0.0	-0.0
+80366	Stefano Secchi	Italy	14	0	0.0	-0.0
+383181	Stefano Sani	Italy	4	0	0.0	-0.0
+473892	Piero Mazzocchetti	Italy	4	0	0.0	-0.0
+826240	Riccardo Del Turco	Italy	9	0	0.0	-0.0
+1436748	Requiem	Italy	1	0	0.0	-0.0
+1956611	Resistenza	Italy	2	0	0.0	-0.0
+3355838	Rev Rev Rev	Italy	5	0	0.0	-0.0
+624972	Rhapsody of Fire	Italy	10	0	0.0	-0.0
+5056993	Rhythm of Paradise	Italy	6	0	0.0	-0.0
+3818594	Riccardo	Italy	13	0	0.0	-0.0
+164994	Riccardo Cioni	Italy	5	0	0.0	-0.0
+399868	Riccardo Cocciante	Italy	1	0	0.0	-0.0
+311510	Riccardo Fogli	Italy	1	0	0.0	-0.0
+1290056	Renzo Zenobi	Italy	3	0	0.0	-0.0
+2570413	Riccardo Maffoni	Italy	7	0	0.0	-0.0
+2953999	Riccardo Marasco	Italy	5	0	0.0	-0.0
+18145	Riccardo Rocchi	Italy	9	0	0.0	-0.0
+149647	Riccardo Sinigaglia	Italy	17	0	0.0	-0.0
+379964	Riccardo Sinigallia	Italy	10	0	0.0	-0.0
+1166555	Riccardo Stracciani	Italy	5	0	0.0	-0.0
+1668493	Riccardo Tesi	Italy	12	0	0.0	-0.0
+2874979	Riccardo Tesi & Banditaliana	Italy	7	0	0.0	-0.0
+3905012	Renè	Italy	7	0	0.0	-0.0
+3307866	Renzo Rubino	Italy	6	0	0.0	-0.0
+310136	Ricchi e Poveri	Italy	1	0	0.0	-0.0
+1610440	RedSka	Italy	10	0	0.0	-0.0
+289214	Raw Power	Italy	13	0	0.0	-0.0
+1781869	Ray Daytona & Googoobombos	Italy	6	0	0.0	-0.0
+602426	Ray Dee Ohh	Denmark	0	4	0.0	-0.0
+765679	Reale Accademia di Musica	Italy	7	0	0.0	-0.0
+968620	Reazione	Italy	2	0	0.0	-0.0
+208348	Red Canzian	Italy	1	0	0.0	-0.0
+5309627	Red Light Skyscraper	Italy	3	0	0.0	-0.0
+906023	Red Warszawa	Denmark	0	4	0.0	-0.0
+86853	Reeds	Italy	17	0	0.0	-0.0
+175008	Renzo Arbore	Italy	3	0	0.0	-0.0
+309902	Remigio Ducros	Italy	8	0	0.0	-0.0
+1737472	Remo Germani	Italy	13	0	0.0	-0.0
+851419	Renata Scotto	Italy	5	0	0.0	-0.0
+642612	Renato Carosone	Italy	2	0	0.0	-0.0
+264983	Renato Figoli	Italy	14	0	0.0	-0.0
+683182	Renato Rascel	Italy	6	0	0.0	-0.0
+543844	Renato Sellani	Italy	5	0	0.0	-0.0
+445608	Renato Zero	Italy	1	0	0.0	-0.0
+1611980	Riccardo Zappa	Italy	3	0	0.0	-0.0
+701162	Ricky Gianco	Italy	1	0	0.0	-0.0
+3372262	Rasmus Walter	Denmark	0	14	0.0	-0.0
+170417	Roberto Masi	Italy	9	0	0.0	-0.0
+214572	Roberto Cacciapaglia	Italy	6	0	0.0	-0.0
+948339	Roberto Capuano	Italy	12	0	0.0	-0.0
+679595	Roberto Ciotti	Italy	1	0	0.0	-0.0
+217255	Roberto Colombo	Italy	2	0	0.0	-0.0
+906798	Roberto De Simone	Italy	12	0	0.0	-0.0
+341452	Roberto Gatto	Italy	13	0	0.0	-0.0
+667463	Roberto Giuliani	Italy	5	0	0.0	-0.0
+176514	Roberto Lodola	Italy	3	0	0.0	-0.0
+917490	Roberto Murolo	Italy	2	0	0.0	-0.0
+729842	Roberto Angelini	Italy	7	0	0.0	-0.0
+180280	Roberto Musci	Italy	16	0	0.0	-0.0
+285619	Roberto Pregadio	Italy	9	0	0.0	-0.0
+920358	Roberto Soffici	Italy	1	0	0.0	-0.0
+350834	Roberto Vecchioni	Italy	1	0	0.0	-0.0
+678293	Roby Facchinetti	Italy	1	0	0.0	-0.0
+225926	Roby Rossini	Italy	4	0	0.0	-0.0
+577753	Rocazino	Denmark	0	1	0.0	-0.0
+3123859	Rocco Hunt	Italy	2	0	0.0	-0.0
+523697	Roberto Benigni	Italy	7	0	0.0	-0.0
+2987470	Roberto Aglieri	Italy	5	0	0.0	-0.0
+6198	Ricky Le Roy	Italy	23	0	0.0	-0.0
+1984759	Rise Above Dead	Italy	15	0	0.0	-0.0
+239840	Ridillo	Italy	13	0	0.0	-0.0
+2642385	Rimozionekoatta	Italy	6	0	0.0	-0.0
+1790	Rino Cerrone	Italy	23	0	0.0	-0.0
+268952	Rino De Filippi	Italy	15	0	0.0	-0.0
+250149	Rino Gaetano	Italy	2	0	0.0	-0.0
+2537154	Rino Gionchetta	Italy	14	0	0.0	-0.0
+917474	Rino Salviati	Italy	17	0	0.0	-0.0
+1069519	Rio Padice	Italy	8	0	0.0	-0.0
+7659	Risen from the Rank	Italy	30	0	0.0	-0.0
+3874781	Robert Storm Petersen	Denmark	0	2	0.0	-0.0
+1766746	Riserva Moac	Italy	4	0	0.0	-0.0
+1895387	Rita Bertolini	Italy	2	0	0.0	-0.0
+1283662	Rita Marcotulli	Italy	6	0	0.0	-0.0
+380929	Rita Pavone	Italy	2	0	0.0	-0.0
+361406	Ritmo Tribale	Italy	8	0	0.0	-0.0
+798677	Riva Starr	Italy	11	0	0.0	-0.0
+5641710	Rkomi	Italy	3	0	0.0	-0.0
+7292	Robert Miles	Italy	10	0	0.0	-0.0
+270980	Rats	Italy	14	0	0.0	-0.0
+1012519	Rasmus Seebach	Denmark	0	10	0.0	-0.0
+1563967	Stefano Rosso	Italy	1	0	0.0	-0.0
+1285803	Poul Reichhardt	Denmark	0	26	0.0	-0.0
+20657	Placid K	Italy	23	0	0.0	-0.0
+5618	Planet Funk	Italy	9	0	0.0	-0.0
+14676	Playahitty	Italy	9	0	0.0	-0.0
+1904720	Pooglia Tribe	Italy	6	0	0.0	-0.0
+380875	Pooh	Italy	3	0	0.0	-0.0
+1991371	Porno Riviste	Italy	10	0	0.0	-0.0
+288072	Port-Royal	Italy	1	0	0.0	-0.0
+568464	Poul Krebs	Denmark	0	7	0.0	-0.0
+349221	Povia	Italy	1	0	0.0	-0.0
+5358195	Piqued Jacks	Italy	2	0	0.0	-0.0
+316077	Povl Dissing	Denmark	0	8	0.0	-0.0
+1703828	Povl Dissing & Benny Andersen	Denmark	0	12	0.0	-0.0
+566349	Praxinoscope	Italy	2	0	0.0	-0.0
+281856	Premiata Forneria Marconi	Italy	2	0	0.0	-0.0
+427751	Profezia	Italy	6	0	0.0	-0.0
+3318978	Profusion	Italy	5	0	0.0	-0.0
+2582160	Progenie Terrestre Pura	Italy	1	0	0.0	-0.0
+3519131	Pronto	Denmark	0	5	0.0	-0.0
+890021	Pitura Freska	Italy	4	0	0.0	-0.0
+380874	Pippo Franco	Italy	11	0	0.0	-0.0
+7445846	Psicologi	Italy	4	0	0.0	-0.0
+50568	Pink Project	Italy	1	0	0.0	-0.0
+662395	Piero Pelù	Italy	1	0	0.0	-0.0
+8722	Piero Umiliani	Italy	13	0	0.0	-0.0
+75701	Piero Zeta	Italy	11	0	0.0	-0.0
+1650989	Piero e i Cottonfields	Italy	11	0	0.0	-0.0
+685311	Pierrot Lunaire	Italy	7	0	0.0	-0.0
+73930	Pin-Occhio	Italy	4	0	0.0	-0.0
+2082038	Ping Pong	Italy	4	0	0.0	-0.0
+5297163	Pinguini Tattici Nucleari	Italy	9	0	0.0	-0.0
+769839	Pino Calvi	Italy	19	0	0.0	-0.0
+2644206	Kesi	Denmark	0	18	0.0	-0.0
+471789	Pino D'Angiò	Italy	1	0	0.0	-0.0
+152754	Pino Daniele	Italy	1	0	0.0	-0.0
+299238	Pino Donaggio	Italy	1	0	0.0	-0.0
+1109567	Pino Masi	Italy	3	0	0.0	-0.0
+2131270	Pino Mauro	Italy	18	0	0.0	-0.0
+623714	Pino Presti	Italy	1	0	0.0	-0.0
+1315272	Pino Scotto	Italy	12	0	0.0	-0.0
+650627	Piotta	Italy	9	0	0.0	-0.0
+371761	Prozac+	Italy	5	0	0.0	-0.0
+768175	Psychofagist	Italy	5	0	0.0	-0.0
+396235	Rasmus Nøhr	Denmark	0	6	0.0	-0.0
+884739	Raintime	Italy	2	0	0.0	-0.0
+1088273	Raein	Italy	30	0	0.0	-0.0
+246232	Raf	Italy	4	0	0.0	-0.0
+1645638	Raffaele Rizzi	Italy	8	0	0.0	-0.0
+302018	Raffaella Carrà	Italy	1	0	0.0	-0.0
+2329579	Raffaello Pareti	Italy	8	0	0.0	-0.0
+27384	Raiders of the Lost ARP	Italy	5	0	0.0	-0.0
+5496277	Raikinas	Italy	2	0	0.0	-0.0
+162102	Rainbow Team	Italy	14	0	0.0	-0.0
+1757345	Ralph Mirto	Italy	11	0	0.0	-0.0
+235536	Radiodervish	Italy	7	0	0.0	-0.0
+4134	Ramirez	Italy	14	0	0.0	-0.0
+2851823	Rancore	Italy	8	0	0.0	-0.0
+13358	Randy	Italy	12	0	0.0	-0.0
+2972392	RanestRane	Italy	5	0	0.0	-0.0
+3534288	Raoul Romito	Italy	4	0	0.0	-0.0
+1502253	Raphael Gualazzi	Italy	7	0	0.0	-0.0
+1194129	Rappresaglia	Italy	4	0	0.0	-0.0
+1215329	Raquel Rastenni	Denmark	0	27	0.0	-0.0
+73973	Radiorama	Italy	21	0	0.0	-0.0
+917472	Radio Boys	Italy	35	0	0.0	-0.0
+261016	Puccio Roelens	Italy	11	0	0.0	-0.0
+3533750	Quartiere Coffee	Italy	11	0	0.0	-0.0
+7192087	Pufuleti	Italy	1	0	0.0	-0.0
+262220	Punkreas	Italy	18	0	0.0	-0.0
+345918	Pupo	Italy	1	0	0.0	-0.0
+815399	Putrid Fever	Italy	3	0	0.0	-0.0
+2239257	Putridity	Italy	12	0	0.0	-0.0
+905358	Quartetto Cetra	Italy	23	0	0.0	-0.0
+1419370	Quartetto Radar	Italy	13	0	0.0	-0.0
+4077708	Quartetto Stars	Italy	31	0	0.0	-0.0
+1214437	Quella Vecchia Locanda	Italy	9	0	0.0	-0.0
+2115204	Radici nel Cemento	Italy	12	0	0.0	-0.0
+1765450	Quelli	Italy	5	0	0.0	-0.0
+1831300	Quintetto Del Delirio	Italy	14	0	0.0	-0.0
+1461308	Quintetto Principe	Italy	14	0	0.0	-0.0
+2171316	Quintorigo	Italy	11	0	0.0	-0.0
+230621	R.E.Light Orchestra	Italy	5	0	0.0	-0.0
+1214433	Raccomandata Ricevuta di Ritorno	Italy	11	0	0.0	-0.0
+1182744	Radar	Italy	3	0	0.0	-0.0
+239725	Radical Stuff	Italy	15	0	0.0	-0.0
+489715	Rockers By Choice	Denmark	0	4	0.0	-0.0
+1230048	Rodolfo De Angelis	Italy	26	0	0.0	-0.0
+42852	Roland Brant	Italy	6	0	0.0	-0.0
+532042	Skousen & Ingemann	Denmark	0	10	0.0	-0.0
+605570	Sir Henry and his Butlers	Denmark	0	7	0.0	-0.0
+3283328	Sista Maria	Italy	2	0	0.0	-0.0
+503111	Six Minute War Madness	Italy	14	0	0.0	-0.0
+2021205	Ska-J	Italy	9	0	0.0	-0.0
+2098991	Skanners	Italy	4	0	0.0	-0.0
+5235955	Skarabazoo	Italy	7	0	0.0	-0.0
+6255728	Skeletoon	Italy	27	0	0.0	-0.0
+314177	Skiantos	Italy	1	0	0.0	-0.0
+931486	Skylark	Italy	6	0	0.0	-0.0
+1693203	Sinoath	Italy	2	0	0.0	-0.0
+1533658	Sleep Party People	Denmark	0	9	0.0	-0.0
+5134104	Sleiman	Denmark	0	15	0.0	-0.0
+1292568	Slåbrock Band	Denmark	0	7	0.0	-0.0
+2659274	Sneakers	Denmark	0	1	0.0	-0.0
+289759	Sods	Denmark	0	5	0.0	-0.0
+1754972	Solidea	Italy	2	0	0.0	-0.0
+900005	Solis String Quartet	Italy	2	0	0.0	-0.0
+145576	Somma	Italy	14	0	0.0	-0.0
+33376	Sinus	Italy	2	0	0.0	-0.0
+1045341	Sinezamia	Italy	1	0	0.0	-0.0
+4419380	Sonic Wolves	Italy	2	0	0.0	-0.0
+250431	Shu-bi-dua	Denmark	0	2	0.0	-0.0
+3217441	Severance	Italy	5	0	0.0	-0.0
+4655440	Sfera Ebbasta	Italy	9	0	0.0	-0.0
+1216736	Shablo	Italy	4	0	0.0	-0.0
+729414	Shandon	Italy	23	0	0.0	-0.0
+51360	Shield	Italy	3	0	0.0	-0.0
+1069076	Shit & Chanel	Denmark	0	10	0.0	-0.0
+6945851	Shiva	Italy	6	0	0.0	-0.0
+3093496	Shizune	Italy	11	0	0.0	-0.0
+4788112	Sick Luke	Italy	10	0	0.0	-0.0
+1043576	Simone Tavazzi	Italy	7	0	0.0	-0.0
+638214	Sick Rose	Italy	13	0	0.0	-0.0
+3870160	Sickhead	Italy	7	0	0.0	-0.0
+1051395	Silvana Fioresi	Italy	33	0	0.0	-0.0
+1662893	Silvano Lalli	Italy	26	0	0.0	-0.0
+253528	Silvio Pozzoli	Italy	2	0	0.0	-0.0
+2462817	Simona Molinari	Italy	8	0	0.0	-0.0
+598017	Simone Burrini	Italy	8	0	0.0	-0.0
+1021364	Simone Cristicchi	Italy	2	0	0.0	-0.0
+3087778	Sonic Jesus	Italy	11	0	0.0	-0.0
+1768777	Sonohra	Italy	6	0	0.0	-0.0
+669861	Rollo & King	Denmark	0	1	0.0	-0.0
+1806890	Statuto	Italy	9	0	0.0	-0.0
+368478	Squallor	Italy	7	0	0.0	-0.0
+73083	Sshe Retina Stimulants	Italy	15	0	0.0	-0.0
+490242	Stadio	Italy	1	0	0.0	-0.0
+173020	Stage	Italy	20	0	0.0	-0.0
+224817	Starfuckers	Italy	11	0	0.0	-0.0
+707598	Starfuckers2	Denmark	0	10	0.0	-0.0
+342257	State of the Art	Italy	6	0	0.0	-0.0
+5558620	Statsradiofoniens Symfoniorkester	Denmark	0	14	0.0	-0.0
+313937	Stazione Suicida	Italy	2	0	0.0	-0.0
+361945	Spleen United	Denmark	0	18	0.0	-0.0
+1192098	Stearica	Italy	14	0	0.0	-0.0
+593645	Stefania Rotolo	Italy	5	0	0.0	-0.0
+716379	Stefano Bellotti	Italy	14	0	0.0	-0.0
+243671	Stefano Bollani	Italy	1	0	0.0	-0.0
+73857	Stefano Di Battista	Italy	7	0	0.0	-0.0
+40853	Stefano Di Carlo	Italy	16	0	0.0	-0.0
+4240	Stefano Noferini	Italy	18	0	0.0	-0.0
+413611	Stefano Pilia	Italy	29	0	0.0	-0.0
+1319600	Squadra Omega	Italy	12	0	0.0	-0.0
+192005	Spite Extreme Wing	Italy	15	0	0.0	-0.0
+36240	Sophie	Italy	22	0	0.0	-0.0
+3092496	Sound Storm	Italy	11	0	0.0	-0.0
+599436	Sorella Maldestra	Italy	4	0	0.0	-0.0
+3354268	Sorelle Marinetti	Italy	3	0	0.0	-0.0
+4219644	Sorry, Heels	Italy	8	0	0.0	-0.0
+275907	Sort Sol	Denmark	0	7	0.0	-0.0
+371948	Sottopressione	Italy	9	0	0.0	-0.0
+473692	Sottotono	Italy	6	0	0.0	-0.0
+1355658	Soul Secret	Italy	7	0	0.0	-0.0
+5742	Soulstance	Italy	16	0	0.0	-0.0
+1769031	Soviet Soviet	Italy	3	0	0.0	-0.0
+73018	Spiritual Front	Italy	24	0	0.0	-0.0
+148766	Space 1	Italy	13	0	0.0	-0.0
+43818	Space Master	Italy	14	0	0.0	-0.0
+4501304	Space Paranoids	Italy	20	0	0.0	-0.0
+225834	Sparkle in Grey	Italy	18	0	0.0	-0.0
+29051	Spellband	Italy	4	0	0.0	-0.0
+1525304	Spids Nøgenhat	Denmark	0	6	0.0	-0.0
+9066	Spiller	Italy	13	0	0.0	-0.0
+1251174	Spiritual Bats	Italy	9	0	0.0	-0.0
+309897	Sergio Montori	Italy	4	0	0.0	-0.0
+2161443	Sergio Mauri	Italy	12	0	0.0	-0.0
+920055	Sergio Lulli	Italy	11	0	0.0	-0.0
+5632671	SENNA	Italy	12	0	0.0	-0.0
+1708649	Rudy Rotta	Italy	10	0	0.0	-0.0
+2599469	Rufus Party	Italy	8	0	0.0	-0.0
+607729	Ruggero Cori	Italy	12	0	0.0	-0.0
+762785	Rugsted Kreutzfeldt	Denmark	0	1	0.0	-0.0
+1433022	Runaway Totem	Italy	2	0	0.0	-0.0
+49963	Ryan Paris	Italy	17	0	0.0	-0.0
+758950	Røde Mor	Denmark	0	9	0.0	-0.0
+3941	S-Tone Inc.	Italy	9	0	0.0	-0.0
+6077618	Sabino Rotunno	Italy	2	0	0.0	-0.0
+9829798	Rot Away	Denmark	0	2	0.0	-0.0
+19762	Sabrina Salerno	Italy	4	0	0.0	-0.0
+263811	Sadist	Italy	17	0	0.0	-0.0
+4015	Safri Duo	Denmark	0	4	0.0	-0.0
+1544055	Saint Just	Italy	1	0	0.0	-0.0
+2726494	Sal Da Vinci	Italy	2	0	0.0	-0.0
+3465628	Salis	Italy	4	0	0.0	-0.0
+2537786	Salmo	Italy	5	0	0.0	-0.0
+1545414	Salvatore Baccaloni	Italy	4	0	0.0	-0.0
+1283853	Rudy Rickson	Italy	11	0	0.0	-0.0
+1024262	Rosy	Italy	10	0	0.0	-0.0
+1108656	Sergio Leonardi	Italy	14	0	0.0	-0.0
+681186	Ronin	Italy	30	0	0.0	-0.0
+1115365	Roma Amor	Italy	3	0	0.0	-0.0
+1870671	Romana Righetti	Italy	9	0	0.0	-0.0
+9764	Romano Mussolini	Italy	7	0	0.0	-0.0
+1885480	Romeo Livieri	Italy	4	0	0.0	-0.0
+260293	Romina Power	Italy	1	0	0.0	-0.0
+841458	Romolo Grano	Italy	6	0	0.0	-0.0
+1258970	Ron	Italy	1	0	0.0	-0.0
+58770	Rondò Veneziano	Italy	8	0	0.0	-0.0
+412840	Room with a View	Italy	9	0	0.0	-0.0
+626035	Rossano	Italy	8	0	0.0	-0.0
+1031926	Rosa Balistreri	Italy	5	0	0.0	-0.0
+7812009	Rosa Chemical	Italy	5	0	0.0	-0.0
+1118695	Rosanna Fratello	Italy	3	0	0.0	-0.0
+901455	Rosario Bonaccorso	Italy	5	0	0.0	-0.0
+98608	Rose	Italy	31	0	0.0	-0.0
+1328515	Rosolina Mar	Italy	6	0	0.0	-0.0
+2816827	Rossana Beccari	Italy	21	0	0.0	-0.0
+228254	Rossana Casale	Italy	1	0	0.0	-0.0
+1475814	Salvatore Idà	Italy	12	0	0.0	-0.0
+206096	Sammy Barbot	Italy	5	0	0.0	-0.0
+364768	Samuele Bersani	Italy	1	0	0.0	-0.0
+4280519	Selvans	Italy	1	0	0.0	-0.0
+490245	Scialpi	Italy	1	0	0.0	-0.0
+361409	Scisma	Italy	8	0	0.0	-0.0
+19774	Scotch	Italy	12	0	0.0	-0.0
+250428	Sebastian	Denmark	0	4	0.0	-0.0
+707382	Secret Oyster	Denmark	0	4	0.0	-0.0
+517019	Secret Sphere	Italy	33	0	0.0	-0.0
+1186952	Seismal D	Italy	21	0	0.0	-0.0
+111512	Selection	Italy	13	0	0.0	-0.0
+1228989	Semiramis	Italy	5	0	0.0	-0.0
+330168	Sandro Brugnolini	Italy	13	0	0.0	-0.0
+1091356	Sensations' Fix	Italy	4	0	0.0	-0.0
+1748700	Senzabenza	Italy	7	0	0.0	-0.0
+870316	Septycal Gorge	Italy	2	0	0.0	-0.0
+929969	Sergio Bruni	Italy	31	0	0.0	-0.0
+1350545	Sergio Cammariere	Italy	3	0	0.0	-0.0
+1160014	Sergio Caputo	Italy	1	0	0.0	-0.0
+919183	Sergio Centi	Italy	13	0	0.0	-0.0
+319968	Sergio Endrigo	Italy	1	0	0.0	-0.0
+2280053	Sciacalli	Italy	13	0	0.0	-0.0
+1472968	Schola Cantorum	Italy	6	0	0.0	-0.0
+268618	Schizo	Italy	13	0	0.0	-0.0
+3706714	Scarlet Pleasure	Denmark	0	19	0.0	-0.0
+380864	Sandro Giacobbe	Italy	1	0	0.0	-0.0
+4045846	Sandro Mussida	Italy	10	0	0.0	-0.0
+1239155	Sangue Misto	Italy	10	0	0.0	-0.0
+232045	Sanne Salomonsen	Denmark	0	1	0.0	-0.0
+2152944	Santandrea	Italy	11	0	0.0	-0.0
+588229	Santarosa	Italy	6	0	0.0	-0.0
+1756597	Santino Rocchetti	Italy	1	0	0.0	-0.0
+172760	Santo California	Italy	8	0	0.0	-0.0
+965695	Santo Niente	Italy	15	0	0.0	-0.0
+2402050	Saro Liotta	Italy	8	0	0.0	-0.0
+1251565	Satanismo Calibro 9	Italy	16	0	0.0	-0.0
+123845	Saturnino	Italy	2	0	0.0	-0.0
+468181	Saturnus	Denmark	0	7	0.0	-0.0
+15529	Savage	Italy	8	0	0.0	-0.0
+7003733	Savana Funk	Italy	14	0	0.0	-0.0
+257976	Saybia	Denmark	0	10	0.0	-0.0
+3736779	Scala Teatrets Orkester	Denmark	0	3	0.0	-0.0
+4992352	Ketama126	Italy	7	0	0.0	-0.0
+3786948	Kai Ewans Og Hans Orkester	Denmark	0	11	0.0	-0.0
+315703	Kenneth Knudsen	Denmark	0	5	0.0	-0.0
+226822	Brando Lupi	Italy	11	0	0.0	-0.0
+2696987	Christopher	Denmark	0	23	0.0	-0.0
+281971	Christy	Italy	3	0	0.0	-0.0
+1696189	Church of Violence	Italy	8	0	0.0	-0.0
+176226	Ciao Fellini	Italy	3	0	0.0	-0.0
+45765	Cicci Santucci	Italy	4	0	0.0	-0.0
+3603053	Cinzia Paglini	Italy	4	0	0.0	-0.0
+73087	Circus Joy	Italy	4	0	0.0	-0.0
+1747674	Ciro Sebastianelli	Italy	7	0	0.0	-0.0
+925020	Clara Jaione	Italy	24	0	0.0	-0.0
+2343633	Claudia Antonelli	Italy	4	0	0.0	-0.0
+311515	Claudia Mori	Italy	11	0	0.0	-0.0
+638411	Claudio Baglioni	Italy	1	0	0.0	-0.0
+1806922	Claudio Cataldi	Italy	2	0	0.0	-0.0
+634327	Claudio Gizzi	Italy	14	0	0.0	-0.0
+1053623	Claudio Lolli	Italy	2	0	0.0	-0.0
+698822	Claudio Mattone	Italy	8	0	0.0	-0.0
+881554	Claudio PRC	Italy	13	0	0.0	-0.0
+416225	Claudio Rocchi	Italy	1	0	0.0	-0.0
+149103	Claudio Simonetti	Italy	10	0	0.0	-0.0
+1035112	Christian Meyer	Italy	7	0	0.0	-0.0
+4276213	Christian Gottschalch	Denmark	0	14	0.0	-0.0
+2149873	Christian De Sica	Italy	1	0	0.0	-0.0
+36207	Chester	Italy	21	0	0.0	-0.0
+600514	Cesco Anselmo	Italy	5	0	0.0	-0.0
+17967	Change	Italy	4	0	0.0	-0.0
+2951466	Charlie	Italy	1	0	0.0	-0.0
+44146	Chase	Italy	8	0	0.0	-0.0
+585186	Checco Zalone	Italy	7	0	0.0	-0.0
+372560	Cheetah Chrome Motherfuckers	Italy	5	0	0.0	-0.0
+2473213	Chef Ragoo	Italy	11	0	0.0	-0.0
+524516	Chelmno	Italy	4	0	0.0	-0.0
+304615	Chiara Civello	Italy	7	0	0.0	-0.0
+3551407	Christian	Italy	1	0	0.0	-0.0
+27199	Chicco Secci	Italy	19	0	0.0	-0.0
+2091766	Chicoria	Italy	13	0	0.0	-0.0
+109366	Chief 1	Denmark	0	7	0.0	-0.0
+880686	Chief e Soci	Italy	10	0	0.0	-0.0
+8746381	Chiello	Italy	5	0	0.0	-0.0
+1508022	Children of Technology	Italy	1	0	0.0	-0.0
+865894	Choir Of Young Believers	Denmark	0	17	0.0	-0.0
+881597	Chominciamento Di Gioia	Italy	6	0	0.0	-0.0
+3807015	Claudio Simonetti's Goblin	Italy	10	0	0.0	-0.0
+796680	Claudio Tallino	Italy	11	0	0.0	-0.0
+1719275	Claudio Terni	Italy	25	0	0.0	-0.0
+20196	Core Pusher	Italy	18	0	0.0	-0.0
+191013	Comrades	Italy	7	0	0.0	-0.0
+1724571	Concetta Barra	Italy	11	0	0.0	-0.0
+1064001	Concrete	Italy	6	0	0.0	-0.0
+4716542	Confrontational	Italy	3	0	0.0	-0.0
+270982	Confusional Quartet	Italy	30	0	0.0	-0.0
+251698	Contrasto	Italy	11	0	0.0	-0.0
+335762	Contropotere	Italy	1	0	0.0	-0.0
+1154037	Cor Veleno	Italy	5	0	0.0	-0.0
+23387	Corona	Italy	24	0	0.0	-0.0
+2187249	Comaneci	Italy	16	0	0.0	-0.0
+407880	Corpsefucking Art	Italy	8	0	0.0	-0.0
+1306279	Corrado Lojacono	Italy	24	0	0.0	-0.0
+1811943	Corrado Mantoni	Italy	9	0	0.0	-0.0
+1189124	Corte dei Miracoli	Italy	14	0	0.0	-0.0
+890329	Cosimo Di Ceglie	Italy	11	0	0.0	-0.0
+2310191	Cosmetic	Italy	26	0	0.0	-0.0
+313943	Crash Box	Italy	12	0	0.0	-0.0
+253704	Cripple Bastards	Italy	17	0	0.0	-0.0
+1741170	Computers	Italy	1	0	0.0	-0.0
+6717932	Coma Cose	Italy	5	0	0.0	-0.0
+781235	Claudio Villa	Italy	17	0	0.0	-0.0
+5947167	Club Paradiso	Italy	8	0	0.0	-0.0
+316075	Claus Hempler	Denmark	0	10	0.0	-0.0
+762783	Clausen & Petersen	Denmark	0	10	0.0	-0.0
+2230066	Claver Gold	Italy	7	0	0.0	-0.0
+890321	Clem Sacco	Italy	11	0	0.0	-0.0
+1555525	Clementino	Italy	2	0	0.0	-0.0
+154990	Clio	Italy	9	0	0.0	-0.0
+2686693	Clockwork	Italy	5	0	0.0	-0.0
+726439	Club Dogo	Italy	4	0	0.0	-0.0
+37222	Clubhouse	Italy	24	0	0.0	-0.0
+878867	Colle der Fomento	Italy	11	0	0.0	-0.0
+2045896	Cluster	Italy	3	0	0.0	-0.0
+4802961	Clustersun	Italy	13	0	0.0	-0.0
+6549413	CoCo	Italy	5	0	0.0	-0.0
+712051	Cochi & Renato	Italy	5	0	0.0	-0.0
+1711210	Coez	Italy	5	0	0.0	-0.0
+2684107	Colapesce	Italy	4	0	0.0	-0.0
+12527926	Colla Zio	Italy	8	0	0.0	-0.0
+1139724	Collage	Italy	7	0	0.0	-0.0
+2434213	Cesare Poggi	Italy	2	0	0.0	-0.0
+904258	Cesare Cremonini	Italy	4	0	0.0	-0.0
+631484	Cesare Basile	Italy	8	0	0.0	-0.0
+1701142	C.U.B.A. Cabbal	Italy	6	0	0.0	-0.0
+377590	Burhan G	Denmark	0	21	0.0	-0.0
+7026596	Burial	Italy	1	0	0.0	-0.0
+1018058	Burning Red Ivanhoe	Denmark	0	12	0.0	-0.0
+1052457	By All Means	Italy	1	0	0.0	-0.0
+1396117	Børge Friis Med Rytmikere	Denmark	0	19	0.0	-0.0
+3822166	Børge Rosenbaum	Denmark	0	10	0.0	-0.0
+464793	C. V. Jørgensen	Denmark	0	3	0.0	-0.0
+4554933	C.K	Denmark	0	1	0.0	-0.0
+256245	CCCP	Italy	14	0	0.0	-0.0
+112699	Bugo	Italy	8	0	0.0	-0.0
+3722494	CFF e il Nomade Venerabile	Italy	13	0	0.0	-0.0
+267031	CO.RO.	Italy	14	0	0.0	-0.0
+146803	CSI	Italy	19	0	0.0	-0.0
+5187703	Cabal	Denmark	0	5	0.0	-0.0
+449975	Cadaveria	Italy	10	0	0.0	-0.0
+1589071	Cadaveric Crematorium	Italy	5	0	0.0	-0.0
+1168355	Cafè Caracas	Italy	7	0	0.0	-0.0
+971242	Calcutta	Italy	20	0	0.0	-0.0
+260862	Bulldozer	Italy	6	0	0.0	-0.0
+813928	Bud Spencer Blues Explosion	Italy	20	0	0.0	-0.0
+4607296	Call the Cops	Italy	5	0	0.0	-0.0
+2668893	Bruno Dasi	Italy	7	0	0.0	-0.0
+669860	Brdr. Olsen	Denmark	0	4	0.0	-0.0
+4362623	Bremer/McCoy	Denmark	0	5	0.0	-0.0
+5641711	Bresh	Italy	9	0	0.0	-0.0
+36233	Brian Ice	Italy	9	0	0.0	-0.0
+3778624	Briga	Italy	4	0	0.0	-0.0
+281969	Brunetta	Italy	13	0	0.0	-0.0
+314527	Bruno Battisti D'Amario	Italy	17	0	0.0	-0.0
+1503582	Bruno D'Andrea	Italy	3	0	0.0	-0.0
+1055710	Bruno Filippini	Italy	12	0	0.0	-0.0
+4656985	Brünndl	Italy	2	0	0.0	-0.0
+3738387	Bruno Henriksens Arena Orkester	Denmark	0	18	0.0	-0.0
+374646	Bruno Lauzi	Italy	1	0	0.0	-0.0
+717590	Bruno Martino	Italy	12	0	0.0	-0.0
+870650	Bruno Pallesi	Italy	28	0	0.0	-0.0
+1749761	Bruno Quirinetta	Italy	8	0	0.0	-0.0
+921237	Bruno Rosettani	Italy	16	0	0.0	-0.0
+1602980	Bruno Venturini	Italy	17	0	0.0	-0.0
+2040072	Brunori Sas	Italy	16	0	0.0	-0.0
+1332277	Calibro 35	Italy	17	0	0.0	-0.0
+1135929	Calomito	Italy	1	0	0.0	-0.0
+1184950	Cervello	Italy	5	0	0.0	-0.0
+214114	Casino Royale	Italy	8	0	0.0	-0.0
+1415870	Carlo Tagliabue	Italy	8	0	0.0	-0.0
+2118137	Carmelo Zappulla	Italy	10	0	0.0	-0.0
+360999	Carmen Consoli	Italy	4	0	0.0	-0.0
+1595483	Carmen Russo	Italy	7	0	0.0	-0.0
+305274	Carmen Villani	Italy	14	0	0.0	-0.0
+3018682	Caronte	Italy	5	0	0.0	-0.0
+308262	Carpark North	Denmark	0	13	0.0	-0.0
+44956	Carrara	Italy	1	0	0.0	-0.0
+5198404	Catarrhal Noise	Italy	6	0	0.0	-0.0
+1063398	Carlo Moreno	Italy	24	0	0.0	-0.0
+4041058	Caterina Barbieri	Italy	22	0	0.0	-0.0
+1791649	Caterina Bueno	Italy	10	0	0.0	-0.0
+924805	Caterina Caselli	Italy	1	0	0.0	-0.0
+294306	Caterina Valente	Italy	1	0	0.0	-0.0
+319969	Catherine Spaak	Italy	7	0	0.0	-0.0
+2022590	Cattive Abitudini	Italy	3	0	0.0	-0.0
+497561	Causa Sui	Denmark	0	2	0.0	-0.0
+1302431	Celeste	Italy	18	0	0.0	-0.0
+2628049	Carlo Pierangeli	Italy	20	0	0.0	-0.0
+2676943	Carlo Dapporto	Italy	7	0	0.0	-0.0
+1242355	Calvary	Italy	5	0	0.0	-0.0
+1268486	Canzoniere Internazionale	Italy	6	0	0.0	-0.0
+149126	Camerata Mediolanense	Italy	8	0	0.0	-0.0
+719509	Campos	Italy	2	0	0.0	-0.0
+100081	Canaan	Italy	15	0	0.0	-0.0
+1253585	Cani	Italy	2	0	0.0	-0.0
+5910987	Canova	Italy	21	0	0.0	-0.0
+274226	Canton	Italy	5	0	0.0	-0.0
+2874976	Cantovivo	Italy	12	0	0.0	-0.0
+2496156	Canzoniere Grecanico Salentino	Italy	7	0	0.0	-0.0
+1969325	Canzoniere del Lazio	Italy	4	0	0.0	-0.0
+899146	Carlo Buti	Italy	29	0	0.0	-0.0
+1313214	Canzoniere delle Lame	Italy	1	0	0.0	-0.0
+200304	Caparezza	Italy	8	0	0.0	-0.0
+6413223	Capo Plaza	Italy	9	0	0.0	-0.0
+7669	Cappella	Italy	28	0	0.0	-0.0
+718591	Carillon Del Dolore	Italy	4	0	0.0	-0.0
+5738143	Carl Brave	Italy	1	0	0.0	-0.0
+3736538	Carl Fischer	Denmark	0	22	0.0	-0.0
+401635	Carla Boni	Italy	22	0	0.0	-0.0
+1131687	Cristiano De André	Italy	1	0	0.0	-0.0
+1034969	Cristiano Godano	Italy	6	0	0.0	-0.0
+732784	Cristiano Malgioglio	Italy	1	0	0.0	-0.0
+471802	Det Brune Punktum	Denmark	0	4	0.0	-0.0
+762797	Delta-Cross Band	Denmark	0	5	0.0	-0.0
+328448	Demetrio Stratos	Italy	3	0	0.0	-0.0
+19768	Den Harrow	Italy	1	0	0.0	-0.0
+914234	Den Sorte Skole	Denmark	0	7	0.0	-0.0
+371809	Denovo	Italy	9	0	0.0	-0.0
+1266415	Dente	Italy	19	0	0.0	-0.0
+1480202	Derozer	Italy	5	0	0.0	-0.0
+2278409	Destrage	Italy	9	0	0.0	-0.0
+1297439	Det Kongelige Kapel	Denmark	0	21	0.0	-0.0
+762784	Delta Blues Band	Denmark	0	7	0.0	-0.0
+2191328	Detestor	Italy	3	0	0.0	-0.0
+495740	Detonazione	Italy	9	0	0.0	-0.0
+307664	Detto Mariano	Italy	12	0	0.0	-0.0
+1458276	Deus ex Machina	Italy	6	0	0.0	-0.0
+8276696	Devi Tensione	Italy	6	0	0.0	-0.0
+285577	Devil Doll	Italy	4	0	0.0	-0.0
+6259220	Devoid of Thought	Italy	3	0	0.0	-0.0
+7791451	Devotion	Italy	17	0	0.0	-0.0
+485714	Delta V	Italy	6	0	0.0	-0.0
+155385	Delirium	Italy	13	0	0.0	-0.0
+52724	Dhany	Italy	8	0	0.0	-0.0
+1460566	Dea Garbaccio	Italy	31	0	0.0	-0.0
+32847	Davide Squillace	Italy	26	0	0.0	-0.0
+705364	Davide Van De Sfroos	Italy	12	0	0.0	-0.0
+1014340	Day Of Phoenix	Denmark	0	4	0.0	-0.0
+13538	Daze	Denmark	0	1	0.0	-0.0
+1978034	De Eneste To	Denmark	0	9	0.0	-0.0
+727944	De Nattergale	Denmark	0	3	0.0	-0.0
+11587673	De Tre Fra Radioen	Denmark	0	15	0.0	-0.0
+6182000	DeLaVega	Italy	2	0	0.0	-0.0
+1744976	Deadsonika	Italy	8	0	0.0	-0.0
+1045027	Delia Scala	Italy	19	0	0.0	-0.0
+316312	Death SS	Italy	36	0	0.0	-0.0
+913122	Deathrage	Italy	5	0	0.0	-0.0
+1208582	Deathrow	Italy	2	0	0.0	-0.0
+3228307	Deborah De Luca	Italy	9	0	0.0	-0.0
+73041	Deca	Italy	4	0	0.0	-0.0
+1092394	Decibel	Italy	1	0	0.0	-0.0
+426083	Declino	Italy	14	0	0.0	-0.0
+1085651	Dedalus	Italy	4	0	0.0	-0.0
+1938478	Dewarsteiner	Italy	3	0	0.0	-0.0
+493560	Diaframma	Italy	11	0	0.0	-0.0
+45484	Davide Ruberto	Italy	9	0	0.0	-0.0
+891993	Don Backy	Italy	1	0	0.0	-0.0
+2487801	Doctor 3	Italy	4	0	0.0	-0.0
+15979	Doctor's Cat	Italy	6	0	0.0	-0.0
+351837	Dodi Battaglia	Italy	1	0	0.0	-0.0
+638330	Dodo and the Dodo's	Denmark	0	2	0.0	-0.0
+399362	Dolcenera	Italy	1	0	0.0	-0.0
+311963	Domenico Modugno	Italy	4	0	0.0	-0.0
+608606	Domine	Italy	10	0	0.0	-0.0
+5784198	Don Antonio	Italy	23	0	0.0	-0.0
+1188	Don Carlos	Italy	9	0	0.0	-0.0
+157189	Djuma Soundsystem	Denmark	0	8	0.0	-0.0
+1216733	Don Joe	Italy	3	0	0.0	-0.0
+380873	Donatella Milani	Italy	8	0	0.0	-0.0
+1773230	Donatella Rettore	Italy	1	0	0.0	-0.0
+1168594	Donatello	Italy	5	0	0.0	-0.0
+202097	Donato Dozzy	Italy	24	0	0.0	-0.0
+1116200	Donella Del Monaco	Italy	13	0	0.0	-0.0
+274119	Doomsword	Italy	5	0	0.0	-0.0
+1595366	Doomwork	Italy	11	0	0.0	-0.0
+2483355	Do Nascimiento	Italy	1	0	0.0	-0.0
+1561231	Disper-Azione	Italy	10	0	0.0	-0.0
+144193	Diana Est	Italy	6	0	0.0	-0.0
+579977	Dino Maggiorana	Italy	9	0	0.0	-0.0
+4962612	Diego Deadman Potron	Italy	7	0	0.0	-0.0
+1489841	Digi G'Alessio	Italy	15	0	0.0	-0.0
+7400	Digital Boy	Italy	6	0	0.0	-0.0
+583578	Dik Dik	Italy	1	0	0.0	-0.0
+2599022	Dilaila	Italy	3	0	0.0	-0.0
+2117533	Dimartino	Italy	14	0	0.0	-0.0
+3734612	Dinkis	Italy	2	0	0.0	-0.0
+3036060	Dino Borgioli	Italy	3	0	0.0	-0.0
+761898	Dino Olivieri	Italy	27	0	0.0	-0.0
+365625	Diskofil	Denmark	0	13	0.0	-0.0
+4213574	Dino Rubino	Italy	8	0	0.0	-0.0
+773271	Dino Sabatini	Italy	22	0	0.0	-0.0
+1136726	Dino Sarti	Italy	12	0	0.0	-0.0
+4097018	Diodato	Italy	6	0	0.0	-0.0
+743091	Dirch Passer	Denmark	0	29	0.0	-0.0
+890011	Dirotta su Cuba	Italy	1	0	0.0	-0.0
+580663	Disarmonia Mundi	Italy	3	0	0.0	-0.0
+451330	Disciplinatha	Italy	11	0	0.0	-0.0
+5119299	Davide Shorty	Italy	5	0	0.0	-0.0
+7380580	Davide Cedolin	Italy	2	0	0.0	-0.0
+1260543	Cristina D'Avena	Italy	1	0	0.0	-0.0
+20231	DJ Mad Dog	Italy	23	0	0.0	-0.0
+198976	DJ Fary	Italy	3	0	0.0	-0.0
+3113929	DJ Fastcut	Italy	9	0	0.0	-0.0
+213976	DJ Francesco	Italy	11	0	0.0	-0.0
+11546	DJ Gius	Italy	7	0	0.0	-0.0
+170972	DJ Gruff	Italy	12	0	0.0	-0.0
+11951	DJ Herbie	Italy	10	0	0.0	-0.0
+183896	DJ Jad	Italy	4	0	0.0	-0.0
+37469	DJ Lancinhouse	Italy	20	0	0.0	-0.0
+53440	DJ Miko	Italy	22	0	0.0	-0.0
+1607604	DJ Double S	Italy	6	0	0.0	-0.0
+1709357	DJ Myke	Italy	3	0	0.0	-0.0
+51168	DJ Panda	Italy	9	0	0.0	-0.0
+13548	DJ Professor	Italy	26	0	0.0	-0.0
+62735	DJ Ross	Italy	8	0	0.0	-0.0
+774745	DJ Shocca	Italy	4	0	0.0	-0.0
+79187	DJ Skizo	Italy	12	0	0.0	-0.0
+675499	DJ Sossa	Italy	6	0	0.0	-0.0
+71769	DJ Stardust	Italy	8	0	0.0	-0.0
+521927	DJ Farrapo	Italy	2	0	0.0	-0.0
+16362	DJ Dado	Italy	34	0	0.0	-0.0
+21057	DJ Uovo	Italy	16	0	0.0	-0.0
+1345015	Culpepers Orchard	Denmark	0	6	0.0	-0.0
+999466	Cristina Donà	Italy	6	0	0.0	-0.0
+2488562	Croatian Amor	Denmark	0	3	0.0	-0.0
+718833	Crookers	Italy	9	0	0.0	-0.0
+1683534	Crown of Autumn	Italy	6	0	0.0	-0.0
+19803	Cruisin' Gang	Italy	9	0	0.0	-0.0
+941233	Crunch	Italy	11	0	0.0	-0.0
+2017727	Crying Steel	Italy	6	0	0.0	-0.0
+100358	Cube	Italy	6	0	0.0	-0.0
+269389	Cultus Sanguine	Italy	14	0	0.0	-0.0
+688	DJ D	Italy	14	0	0.0	-0.0
+121163	Cut 'N Move	Denmark	0	5	0.0	-0.0
+3616273	CxixB	Italy	5	0	0.0	-0.0
+19792	Cyber People	Italy	11	0	0.0	-0.0
+606202	Cæsar	Denmark	0	18	0.0	-0.0
+2240	D'Arcangelo	Italy	1	0	0.0	-0.0
+1940603	DGM	Italy	29	0	0.0	-0.0
+94019	DJ Alligator Project	Denmark	0	11	0.0	-0.0
+38360	DJ Cerla	Italy	11	0	0.0	-0.0
+3024381	DJ Tennis	Italy	4	0	0.0	-0.0
+48526	DJ Vortex & Arpa's Dream	Italy	1	0	0.0	-0.0
+780943	David Riondino	Italy	1	0	0.0	-0.0
+521401	Danser med Drenge	Denmark	0	2	0.0	-0.0
+382714	Daniele Silvestri	Italy	2	0	0.0	-0.0
+3076546	Daniele Tenca	Italy	13	0	0.0	-0.0
+45801	Daniele Tignino	Italy	10	0	0.0	-0.0
+630531	Danilo Rea	Italy	8	0	0.0	-0.0
+22748	Danilo Vigorito	Italy	20	0	0.0	-0.0
+88801	Danny Keith	Italy	23	0	0.0	-0.0
+3605072	Danny Trejo	Italy	6	0	0.0	-0.0
+684843	Danseorkestret	Denmark	0	3	0.0	-0.0
+1201631	Dargen D'Amico	Italy	6	0	0.0	-0.0
+782666	Daniele Papini	Italy	22	0	0.0	-0.0
+380870	Dario Baldan Bembo	Italy	1	0	0.0	-0.0
+10312243	Dario Rodighiero	Italy	1	0	0.0	-0.0
+1971274	Dario Tilli	Italy	11	0	0.0	-0.0
+700097	Dark Lunacy	Italy	15	0	0.0	-0.0
+5264000	Dark Polo Gang	Italy	4	0	0.0	-0.0
+311076	Dark Quarterer	Italy	3	0	0.0	-0.0
+30878	Datura	Italy	13	0	0.0	-0.0
+161889	Dave Rodgers	Italy	9	0	0.0	-0.0
+1246948	Daniele Serra	Italy	25	0	0.0	-0.0
+1162238	Daniele Kama	Italy	7	0	0.0	-0.0
+75815	DJ X-Fly	Italy	10	0	0.0	-0.0
+313890	Dandi & Ugo	Italy	5	0	0.0	-0.0
+44496	Da Blitz	Italy	11	0	0.0	-0.0
+53976	Da Lukas	Italy	14	0	0.0	-0.0
+275141	Daemonia	Italy	10	0	0.0	-0.0
+1446975	Daisy Lumini	Italy	6	0	0.0	-0.0
+146664	Dalida	Italy	1	0	0.0	-0.0
+1815467	Dalton	Denmark	0	8	0.0	-0.0
+656105	Dan I	Italy	9	0	0.0	-0.0
+731066	Dan Turèl & Sølvstjernerne	Denmark	0	5	0.0	-0.0
+5790857	Dani Faiv	Italy	6	0	0.0	-0.0
+128930	Daniele Gas	Italy	5	0	0.0	-0.0
+322459	Daniel Sentacruz Ensemble	Italy	6	0	0.0	-0.0
+659169	Daniela Casa	Italy	7	0	0.0	-0.0
+342222	Daniela Davoli	Italy	9	0	0.0	-0.0
+729839	Daniela Goggi	Italy	5	0	0.0	-0.0
+250959	Daniele Baldelli	Italy	5	0	0.0	-0.0
+71522	Daniele Danieli	Italy	1	0	0.0	-0.0
+503228	Daniele Di Bonaventura	Italy	8	0	0.0	-0.0
+378889	Daniele Di Gregorio	Italy	13	0	0.0	-0.0
+949719	Bravo	Italy	12	0	0.0	-0.0
+82892	Brain Ovulation	Italy	5	0	0.0	-0.0
+19761	Ken Laszlo	Italy	8	0	0.0	-0.0
+9709495	Bottomless	Italy	9	0	0.0	-0.0
+33905	Alkemy	Italy	10	0	0.0	-0.0
+2587760	Alkoholizer	Italy	1	0	0.0	-0.0
+316074	Allan Olsen	Denmark	0	12	0.0	-0.0
+1369687	Alltheniko	Italy	6	0	0.0	-0.0
+64628	Almamegretta	Italy	7	0	0.0	-0.0
+1157743	Alphataurus	Italy	15	0	0.0	-0.0
+874331	Alrune Rod	Denmark	0	12	0.0	-0.0
+263174	Altar of Perversion	Italy	2	0	0.0	-0.0
+296125	Alter Ego	Italy	10	0	0.0	-0.0
+1450204	Altro	Italy	14	0	0.0	-0.0
+827219	Alunni del Sole	Italy	6	0	0.0	-0.0
+1401721	Alusa Fallax	Italy	3	0	0.0	-0.0
+1046329	Alvaro Amici	Italy	19	0	0.0	-0.0
+758377	Amalia Grè	Italy	4	0	0.0	-0.0
+331346	Ambra Angiolini	Italy	7	0	0.0	-0.0
+800664	Ambrogio Sparagna	Italy	6	0	0.0	-0.0
+937840	Amdi Petersen Armé	Denmark	0	3	0.0	-0.0
+490247	Amedeo Minghi	Italy	1	0	0.0	-0.0
+368085	Amedeo Tommasi	Italy	12	0	0.0	-0.0
+45771	Alio Die	Italy	14	0	0.0	-0.0
+2088553	Alien Force	Denmark	0	9	0.0	-0.0
+618714	Alida Chelli	Italy	9	0	0.0	-0.0
+653853	Alex Britti	Italy	1	0	0.0	0.0
+1645255	Alessandro Mannarino	Italy	10	0	0.0	0.0
+792920	Alessandro Monti	Italy	10	0	0.0	0.0
+653448	Alessandro Picone	Italy	7	0	0.0	0.0
+166481	Alessandro Safina	Italy	1	0	0.0	0.0
+146183	Alessandro Tognetti	Italy	6	0	0.0	0.0
+1342534	Alessandro Ziliani	Italy	24	0	0.0	0.0
+814517	Alessio Mereu	Italy	18	0	0.0	0.0
+253491	Alex Baroni	Italy	1	0	0.0	0.0
+95919	Alex D'Elia	Italy	25	0	0.0	0.0
+345919	Alice	Italy	1	0	0.0	-0.0
+45912	Alex Gaudino	Italy	8	0	0.0	0.0
+1484528	Alex Gori	Italy	8	0	0.0	0.0
+16483	Alex Neri	Italy	12	0	0.0	0.0
+7282	Alex Party	Italy	14	0	0.0	0.0
+15975	Alexander Robotnick	Italy	12	0	0.0	-0.0
+43736	Alexia	Italy	1	0	0.0	-0.0
+389098	Alfio Antico	Italy	12	0	0.0	-0.0
+921314	Alfredo Clerici	Italy	24	0	0.0	-0.0
+883266	Amelita Galli-Curci	Italy	15	0	0.0	-0.0
+1700857	Amir Issaa	Italy	8	0	0.0	-0.0
+431537	Amnesia	Italy	10	0	0.0	-0.0
+20648	Angels of Darkness	Italy	4	0	0.0	-0.0
+1629390	Angela Luce	Italy	14	0	0.0	-0.0
+883265	Angelo Bada	Italy	11	0	0.0	-0.0
+531283	Angelo Baroncini	Italy	12	0	0.0	-0.0
+199024	Angelo Branduardi	Italy	2	0	0.0	-0.0
+3794796	Angelo Cavallaro	Italy	3	0	0.0	-0.0
+651438	Angelo Francesco Lavagnino	Italy	11	0	0.0	-0.0
+4824924	Angelo Rossi	Italy	4	0	0.0	-0.0
+1282867	Angelo Servida	Italy	5	0	0.0	-0.0
+6386072	Anguana	Italy	2	0	0.0	-0.0
+806786	Angela Baraldi	Italy	6	0	0.0	-0.0
+1373555	AniMe	Italy	17	0	0.0	-0.0
+821327	Anima Lunae	Italy	6	0	0.0	-0.0
+3442958	Anker Skjoldborgs Danseorkester	Denmark	0	17	0.0	-0.0
+2627197	Ankerstjerne	Denmark	0	17	0.0	-0.0
+1031910	Anna Identici	Italy	2	0	0.0	-0.0
+2072505	Anna Marchetti	Italy	15	0	0.0	-0.0
+297663	Anna Oxa	Italy	1	0	0.0	-0.0
+909769	Anna Tatangelo	Italy	1	0	0.0	-0.0
+3189304	Angela Denia	Italy	8	0	0.0	-0.0
+1935167	Angel Death	Italy	8	0	0.0	-0.0
+244031	Amnesys	Italy	15	0	0.0	-0.0
+497722	Andrea Ferlin	Italy	18	0	0.0	-0.0
+1930767	Amor Fou	Italy	8	0	0.0	-0.0
+779992	Amycanbe	Italy	7	0	0.0	-0.0
+2509686	Ancient Bards	Italy	11	0	0.0	-0.0
+2127028	Ancient Dome	Italy	1	0	0.0	-0.0
+1449554	Andrea Appino	Italy	20	0	0.0	-0.0
+318300	Andrea Bocelli	Italy	1	0	0.0	-0.0
+798540	Andrea Chimenti	Italy	19	0	0.0	-0.0
+40130	Andrea Doria	Italy	19	0	0.0	-0.0
+5889157	Andrea Laszlo De Simone	Italy	21	0	0.0	-0.0
+1331280	Andy Bono	Italy	7	0	0.0	-0.0
+2471633	Andrea Lombardini	Italy	6	0	0.0	-0.0
+398973	Andrea Mingardi	Italy	1	0	0.0	-0.0
+2015090	Andrea Mingardi Supercircus	Italy	4	0	0.0	-0.0
+1805905	Andrea Mirò	Italy	16	0	0.0	-0.0
+2612827	Andrea Nardinocchi	Italy	3	0	0.0	-0.0
+1266413	Andrea Parodi	Italy	8	0	0.0	-0.0
+996640	Andrea Roma	Italy	20	0	0.0	-0.0
+5263640	Andreas Odbjerg	Denmark	0	17	0.0	-0.0
+1079930	Alessandro Fiori	Italy	18	0	0.0	0.0
+1384	Alessandro Farace	Italy	13	0	0.0	0.0
+40898	Alessandro Fain	Italy	4	0	0.0	0.0
+1051279	Ada Neri	Italy	26	0	0.0	0.0
+758954	Ache	Denmark	0	4	0.0	0.0
+3781613	Achille Lauro	Italy	7	0	0.0	0.0
+1615158	Achille Millo	Italy	17	0	0.0	0.0
+917508	Achille Togliani	Italy	19	0	0.0	0.0
+1067157	Acirne	Italy	16	0	0.0	0.0
+1136505	Acqua Fragile	Italy	3	0	0.0	0.0
+4349144	Ad Nauseam	Italy	2	0	0.0	0.0
+2292319	Ada Montellanico	Italy	7	0	0.0	0.0
+2008212	Adel Valentine	Italy	8	0	0.0	0.0
+1107052	Accademia	Italy	10	0	0.0	0.0
+1605129	Adramelch	Italy	16	0	0.0	0.0
+1024685	Adriana Martino	Italy	7	0	0.0	0.0
+36543	Adriano Celentano	Italy	2	0	0.0	0.0
+441786	Adriano Dodici	Italy	7	0	0.0	0.0
+967476	Adriano Pappalardo	Italy	1	0	0.0	0.0
+1895424	Adriano Valle	Italy	23	0	0.0	0.0
+773372	Adversam	Italy	1	0	0.0	0.0
+191844	Aeroplanitaliani	Italy	11	0	0.0	0.0
+1546377	Accordo dei Contrari	Italy	11	0	0.0	0.0
+760924	Abysmal Grief	Italy	3	0	0.0	0.0
+214561	Africa Unite	Italy	21	0	0.0	0.0
+3693507	999999999	Italy	10	0	0.0	0.0
+434854	2 Minuta Dreka	Italy	3	0	0.0	0.0
+1025541	24 Grana	Italy	9	0	0.0	0.0
+3239107	291out	Italy	10	0	0.0	0.0
+554116	3/4HadBeenEliminated	Italy	17	0	0.0	0.0
+34155	49ers	Italy	27	0	0.0	0.0
+88916	8 Mix	Italy	14	0	0.0	0.0
+137933	883	Italy	2	0	0.0	0.0
+389919	99 Posse	Italy	9	0	0.0	0.0
+39343	:Of The Wand & The Moon:	Denmark	0	11	0.0	0.0
+1766082	Above the Tree	Italy	31	0	0.0	0.0
+170103	A Short Apnea	Italy	15	0	0.0	0.0
+859438	A Toys Orchestra	Italy	18	0	0.0	0.0
+680430	A.T.R.O.X.	Italy	11	0	0.0	0.0
+2982922	Aage Juhl Thomsens Orkester	Denmark	0	20	0.0	0.0
+4468095	Aage Thygesen	Denmark	0	8	0.0	0.0
+3736536	Aase Ziegler	Denmark	0	21	0.0	0.0
+417464	Abhor	Italy	6	0	0.0	0.0
+263902	Aborym	Italy	20	0	0.0	0.0
+5046038	Aeternal Seprium	Italy	7	0	0.0	0.0
+4776179	Afsky	Denmark	0	7	0.0	0.0
+2086762	Alessandro Casillo	Italy	3	0	0.0	0.0
+342427	Alberto Radius	Italy	1	0	0.0	0.0
+4321464	Alberto Bertoli	Italy	10	0	0.0	0.0
+2668394	Alberto Boccardi	Italy	30	0	0.0	0.0
+145643	Alberto Camerini	Italy	1	0	0.0	0.0
+1022419	Alberto Cheli	Italy	1	0	0.0	0.0
+833626	Alberto Erede	Italy	6	0	0.0	0.0
+639720	Alberto Fortis	Italy	1	0	0.0	0.0
+978260	Alberto Fracasso	Italy	7	0	0.0	0.0
+921305	Alberto Rabagliati	Italy	23	0	0.0	0.0
+525093	Alborosie	Italy	9	0	0.0	0.0
+462449	Alberte	Denmark	0	1	0.0	0.0
+1338664	Aldo Alvi	Italy	12	0	0.0	0.0
+926915	Aldo Donà	Italy	32	0	0.0	0.0
+695580	Aldo Zunino	Italy	10	0	0.0	0.0
+771725	Aleandro Baldi	Italy	2	0	0.0	0.0
+23510	Aleph	Italy	24	0	0.0	0.0
+1579899	Alessandra Amoroso	Italy	1	0	0.0	0.0
+4436754	Alessandra Novaga	Italy	22	0	0.0	0.0
+1537601	Alessandro Bono	Italy	1	0	0.0	0.0
+10860	Alberto Baldan Bembo	Italy	8	0	0.0	0.0
+6692	Albert One	Italy	22	0	0.0	0.0
+344890	Afterhours	Italy	21	0	0.0	0.0
+1287454	Aksel Schiøtz	Denmark	0	24	0.0	0.0
+2061896	Agazzi	Italy	3	0	0.0	0.0
+319339	Aglaia	Italy	6	0	0.0	0.0
+1679804	Agnes Obel	Denmark	0	1	0.0	0.0
+162108	Ago	Italy	7	0	0.0	0.0
+1722084	Agorà	Italy	4	0	0.0	0.0
+232050	Agostino Carollo	Italy	23	0	0.0	0.0
+97259	Agricantus	Italy	13	0	0.0	0.0
+72994	Ain Soph	Italy	19	0	0.0	0.0
+1775431	Aktuala	Italy	17	0	0.0	0.0
+15453609	Albert Høeberg	Denmark	0	6	0.0	0.0
+602861	Al Bano	Italy	1	0	0.0	0.0
+774746	Al Castellana	Italy	8	0	0.0	0.0
+2484267	Al Doum & The Faryds	Italy	3	0	0.0	0.0
+889770	Al Korvin	Italy	17	0	0.0	0.0
+19789	Alan Barry	Italy	26	0	0.0	0.0
+208751	Alan Sorrenti	Italy	2	0	0.0	0.0
+160008	Alba Parietti	Italy	13	0	0.0	0.0
+439912	Albatros	Italy	8	0	0.0	0.0
+3176593	Annalisa	Italy	3	0	0.0	-0.0
+1925467	Annalisa Minetti	Italy	1	0	0.0	-0.0
+2068516	Annarita Spinaci	Italy	1	0	0.0	-0.0
+171187	Benassi Bros.	Italy	11	0	0.0	-0.0
+325421	Bebo Baldan	Italy	11	0	0.0	-0.0
+4659835	Bee Bee Sea	Italy	4	0	0.0	-0.0
+1023799	Beefeaters	Denmark	0	8	0.0	-0.0
+2531922	Beholder	Italy	6	0	0.0	-0.0
+363457	Belen Thomas	Italy	3	0	0.0	-0.0
+1742332	Belfie & Toche	Italy	2	0	0.0	-0.0
+409622	Bellini	Italy	3	0	0.0	-0.0
+4674688	Benal	Denmark	0	13	0.0	-0.0
+475850	Bengi	Italy	7	0	0.0	-0.0
+837342	Beatrik	Italy	4	0	0.0	-0.0
+436167	Beniamino Gigli	Italy	37	0	0.0	-0.0
+93375	Benny Benassi	Italy	7	0	0.0	-0.0
+660412	Bent Fabricius-Bjerre	Denmark	0	7	0.0	-0.0
+3857274	Bent Fabricius-Bjerres Orkester	Denmark	0	11	0.0	-0.0
+2053949	Beppe Gambetta	Italy	8	0	0.0	-0.0
+4662760	Bersærk	Denmark	0	2	0.0	-0.0
+1061013	Betty Curtis	Italy	13	0	0.0	-0.0
+230620	Biagio Antonacci	Italy	1	0	0.0	-0.0
+2216656	Beau Geste	Italy	18	0	0.0	-0.0
+1403733	Beatrice Antolini	Italy	14	0	0.0	-0.0
+707376	Bifrost	Denmark	0	1	0.0	-0.0
+1269926	Bandabardò	Italy	10	0	0.0	-0.0
+3754	Balanço	Italy	7	0	0.0	-0.0
+1392712	Balstyrko	Denmark	0	7	0.0	-0.0
+106870	Baltimora	Italy	1	0	0.0	-0.0
+568480	Bamses Venner	Denmark	0	4	0.0	-0.0
+353382	Banco del Mutuo Soccorso	Italy	3	0	0.0	-0.0
+208700	Band Aid	Italy	16	0	0.0	-0.0
+381115	Banda Bassotti	Italy	12	0	0.0	-0.0
+361410	Banda Osiris	Italy	7	0	0.0	-0.0
+421050	Barbados Climax	Italy	4	0	0.0	-0.0
+5412812	Beast	Denmark	0	3	0.0	-0.0
+345493	Barbara Cola	Italy	3	0	0.0	-0.0
+1847235	Barbara Lory	Italy	22	0	0.0	-0.0
+74273	Barcode Brothers	Denmark	0	7	0.0	-0.0
+5979382	Baryonyx	Italy	2	0	0.0	-0.0
+4269225	Bassa Clan	Italy	3	0	0.0	-0.0
+774755	Bassi Maestro	Italy	5	0	0.0	-0.0
+829559	Baustelle	Italy	5	0	0.0	-0.0
+2251320	Be Forest	Italy	6	0	0.0	-0.0
+5094778	Bichord	Italy	1	0	0.0	-0.0
+453030	Big Fat Snake	Denmark	0	4	0.0	-0.0
+73044	Bad Sector	Italy	4	0	0.0	-0.0
+409131	Bobby Solo	Italy	7	0	0.0	-0.0
+1436055	Bloody Riot	Italy	5	0	0.0	-0.0
+1387838	Blown Paper Bags	Italy	4	0	0.0	-0.0
+2102859	Blue Stuff	Italy	6	0	0.0	-0.0
+472766	Blue Vomit	Italy	2	0	0.0	-0.0
+4184874	Bluebeaters	Italy	13	0	0.0	-0.0
+2763317	Blume	Italy	15	0	0.0	-0.0
+361408	Bluvertigo	Italy	5	0	0.0	-0.0
+1374993	Bob Corn	Italy	33	0	0.0	-0.0
+1043554	Bobo Moreno	Denmark	0	2	0.0	-0.0
+16712	Bliss	Denmark	0	9	0.0	-0.0
+1592797	Bobo Rondelli	Italy	9	0	0.0	-0.0
+982	Bochum Welt	Italy	6	0	0.0	-0.0
+792226	Bologna Violenta	Italy	30	0	0.0	-0.0
+766548	Boohoos	Italy	10	0	0.0	-0.0
+2374816	Boomdabash	Italy	7	0	0.0	-0.0
+52613	Bossa Nostra	Italy	13	0	0.0	-0.0
+3777272	Boston 168	Italy	5	0	0.0	-0.0
+1181868	Bottin	Italy	11	0	0.0	-0.0
+43978	Bliss Team	Italy	9	0	0.0	-0.0
+751757	Blessed Child Opera	Italy	7	0	0.0	-0.0
+3324442	Big Fish	Italy	5	0	0.0	-0.0
+67311	Bit-Max	Italy	14	0	0.0	-0.0
+2736699	Big Joe	Italy	5	0	0.0	-0.0
+1425407	Biga	Italy	6	0	0.0	-0.0
+629080	Biglietto per l'Inferno	Italy	13	0	0.0	-0.0
+272410	Bikstok Røgsystem	Denmark	0	15	0.0	-0.0
+50306	Billy More	Italy	8	0	0.0	-0.0
+689305	Birthe Kjær	Denmark	0	9	0.0	-0.0
+233124	Bisca	Italy	6	0	0.0	-0.0
+6194	Bismark	Italy	25	0	0.0	-0.0
+1810425	Bjarne Lisby	Denmark	0	11	0.0	-0.0
+1295287	Blast Furnace	Denmark	0	12	0.0	-0.0
+7289	Black Box	Italy	9	0	0.0	-0.0
+2137111	Black Hole	Italy	2	0	0.0	-0.0
+12963	Black Legend	Italy	2	0	0.0	-0.0
+32164	Black Machine	Italy	21	0	0.0	-0.0
+2108380	Black Oath	Italy	8	0	0.0	-0.0
+2330060	Black Rainbows	Italy	6	0	0.0	-0.0
+1375622	Blasphemophagher	Italy	2	0	0.0	-0.0
+19662	Blast	Italy	4	0	0.0	-0.0
+297755	Bagarre	Italy	2	0	0.0	-0.0
+24331	Bacon Popper	Italy	15	0	0.0	-0.0
+562336	Anne Dorte Michelsen	Denmark	0	2	0.0	-0.0
+313917	Area	Italy	5	0	0.0	-0.0
+1456443	Antonio Vasquez	Italy	25	0	0.0	-0.0
+332069	Antonius Rex	Italy	3	0	0.0	-0.0
+478911	Antropofagus	Italy	12	0	0.0	-0.0
+2044071	Anuseye	Italy	2	0	0.0	-0.0
+4631623	Any Other	Italy	12	0	0.0	-0.0
+2365367	Après La Classe	Italy	5	0	0.0	-0.0
+38862	Aqua	Denmark	0	8	0.0	-0.0
+1185514	Ardecore	Italy	12	0	0.0	-0.0
+2597396	Area II	Italy	2	0	0.0	-0.0
+2501089	Antonio Sorrentino	Italy	4	0	0.0	-0.0
+381110	Aretuska	Italy	12	0	0.0	-0.0
+132370	Argine	Italy	5	0	0.0	-0.0
+5713732	Arianna Antinori	Italy	8	0	0.0	-0.0
+8729557	Ariete	Italy	7	0	0.0	-0.0
+3658917	Ariodante Dalla	Italy	23	0	0.0	-0.0
+2752896	Arisa	Italy	1	0	0.0	-0.0
+1128242	Arkè String Quartet	Italy	8	0	0.0	-0.0
+20654	Armageddon Project	Italy	6	0	0.0	-0.0
+217848	Antonio Testa	Italy	6	0	0.0	-0.0
+1341436	Antonio Scotti	Italy	11	0	0.0	-0.0
+2122553	Armando Gentilucci	Italy	18	0	0.0	-0.0
+1215669	Antisgammo	Italy	4	0	0.0	-0.0
+257747	Anne Linnet	Denmark	0	2	0.0	-0.0
+1252133	Anne Linnet Band	Denmark	0	6	0.0	-0.0
+1859909	Annette Bjergfeldt	Denmark	0	3	0.0	-0.0
+4759127	Annie Barbazza	Italy	10	0	0.0	-0.0
+176145	Anthony's Games	Italy	14	0	0.0	-0.0
+1625822	Anti You	Italy	4	0	0.0	-0.0
+28421	Anticappella	Italy	25	0	0.0	-0.0
+44153	Antico	Italy	29	0	0.0	-0.0
+237325	Antonella Ruggiero	Italy	2	0	0.0	-0.0
+3307862	Antonio Maggio	Italy	8	0	0.0	-0.0
+2117751	Antonello Rondi	Italy	17	0	0.0	-0.0
+380858	Antonello Venditti	Italy	1	0	0.0	-0.0
+1070510	Antonietta Laterza	Italy	1	0	0.0	-0.0
+1602494	Antonio & Marcello	Italy	2	0	0.0	-0.0
+589703	Antonio Ballista	Italy	10	0	0.0	-0.0
+1166520	Antonio Basurto	Italy	22	0	0.0	-0.0
+1621117	Antonio Iglio	Italy	15	0	0.0	-0.0
+275793	Antonio Infantino	Italy	14	0	0.0	-0.0
+1036618	Armando De Razza	Italy	2	0	0.0	-0.0
+1967842	Armando Savini	Italy	15	0	0.0	-0.0
+69009	Back To Back	Denmark	0	5	0.0	-0.0
+2925317	Axevyper	Italy	2	0	0.0	-0.0
+2633219	Audiomatiques	Italy	16	0	0.0	-0.0
+330493	Augusto Martelli	Italy	2	0	0.0	-0.0
+2499232	Aura Dione	Denmark	0	15	0.0	-0.0
+7259366	Aura Safari	Italy	3	0	0.0	-0.0
+455009	Aurelio Fierro	Italy	23	0	0.0	-0.0
+920376	Aurelio Gabrè	Italy	21	0	0.0	-0.0
+1400400	Avion Travel	Italy	7	0	0.0	-0.0
+2982933	Axel Boesen	Denmark	0	17	0.0	-0.0
+25955	Azoto	Italy	3	0	0.0	-0.0
+1609939	Aucan	Italy	17	0	0.0	-0.0
+1743641	B for Bang	Italy	17	0	0.0	-0.0
+963124	B.R. Stylers	Italy	10	0	0.0	-0.0
+1187321	Baba Yaga	Italy	4	0	0.0	-0.0
+4139794	Babe Roots	Italy	4	0	0.0	-0.0
+1983178	Baby K	Italy	1	0	0.0	-0.0
+537044	Baby Woodrose	Denmark	0	12	0.0	-0.0
+19800	Baby's Gang	Italy	11	0	0.0	-0.0
+971927	Bachi da pietra	Italy	26	0	0.0	-0.0
+1049601	Audio 2	Italy	1	0	0.0	-0.0
+5388740	Atomic Mold	Italy	2	0	0.0	-0.0
+261011	Armando Sciascia	Italy	8	0	0.0	-0.0
+199257	Arturo Stalteri	Italy	11	0	0.0	-0.0
+3659924	Armonite	Italy	19	0	0.0	-0.0
+383180	Armonium	Italy	4	0	0.0	-0.0
+1500699	Arpioni	Italy	8	0	0.0	-0.0
+596302	Arrigt Antræk	Denmark	0	2	0.0	-0.0
+20215	Art of Fighters	Italy	18	0	0.0	-0.0
+1908715	Arthemis	Italy	1	0	0.0	-0.0
+1030927	Arti & Mestieri	Italy	11	0	0.0	-0.0
+232886	Articolo 31	Italy	4	0	0.0	-0.0
+970878	Arturo Testa	Italy	19	0	0.0	-0.0
+178248	Atlante	Italy	2	0	0.0	-0.0
+3844956	Ash Code	Italy	1	0	0.0	-0.0
+1710647	Asociale	Italy	2	0	0.0	-0.0
+882101	Assalti Frontali	Italy	17	0	0.0	-0.0
+2905162	Assedium	Italy	4	0	0.0	-0.0
+1818287	Assemblea Musicale Teatrale	Italy	5	0	0.0	-0.0
+2988323	Assumption	Italy	10	0	0.0	-0.0
+28122	Atahualpa	Italy	8	0	0.0	-0.0
+149072	Ataraxia	Italy	3	0	0.0	-0.0
+527983	Dope Stars Inc	Italy	4	0	0.0	-0.0
+1976855	Dora Moroni	Italy	6	0	0.0	-0.0
+383179	Dori Ghezzi	Italy	1	0	0.0	-0.0
+692602	Dorthe Kollo	Denmark	0	8	0.0	-0.0
+3170159	Gunnar Lemvigh	Denmark	0	10	0.0	-0.0
+692592	Gustav Winckler	Denmark	0	31	0.0	-0.0
+1282457	Haemophagus	Italy	7	0	0.0	-0.0
+684846	Halberg-Larsen	Denmark	0	3	0.0	-0.0
+5757587	Halflives	Italy	4	0	0.0	-0.0
+1094580	Handful of Hate	Italy	9	0	0.0	-0.0
+2968613	Hannah Bjarnhof	Denmark	0	21	0.0	-0.0
+63078	Hanne Boel	Denmark	0	1	0.0	-0.0
+4190896	Hapax	Italy	5	0	0.0	-0.0
+525608	Harlem Kiddies	Denmark	0	9	0.0	-0.0
+294500	Harmonia Ensemble	Italy	14	0	0.0	-0.0
+6539486	Haunted	Italy	2	0	0.0	-0.0
+2290225	Hautville	Italy	24	0	0.0	-0.0
+141030	Havoc	Italy	4	0	0.0	-0.0
+161332	Heather Parisi	Italy	1	0	0.0	-0.0
+492026	Heimdall	Italy	11	0	0.0	-0.0
+176150	Helen	Italy	14	0	0.0	-0.0
+312967	Helge Jacobsen	Denmark	0	17	0.0	-0.0
+3297005	Helge Nissen	Denmark	0	6	0.0	-0.0
+9715729	Guldimund	Denmark	0	2	0.0	-0.0
+3068499	Guido Toffoletti's Blues Society	Italy	10	0	0.0	-0.0
+1821816	Guido Toffoletti	Italy	9	0	0.0	-0.0
+1220779	Graziella Sciutti	Italy	3	0	0.0	-0.0
+776433	Gorilla Angreb	Denmark	0	5	0.0	-0.0
+520888	Gorni Kramer	Italy	18	0	0.0	-0.0
+798690	Gosforth	Italy	3	0	0.0	-0.0
+187904	Gothica	Italy	3	0	0.0	-0.0
+751352	Grand Avenue	Denmark	0	8	0.0	-0.0
+2601476	Grandi Animali Marini	Italy	14	0	0.0	-0.0
+1036614	Grazia Di Michele	Italy	1	0	0.0	-0.0
+1072524	Graziano Romani	Italy	13	0	0.0	-0.0
+2126791	Grete Klitgaard	Denmark	0	22	0.0	-0.0
+1034116	Guido Mazzon	Italy	16	0	0.0	-0.0
+1990301	Grimm	Italy	8	0	0.0	-0.0
+886457	Gronge	Italy	16	0	0.0	-0.0
+1721207	Gruppo Folk Internazionale	Italy	10	0	0.0	-0.0
+434487	Gruppo Italiano	Italy	6	0	0.0	-0.0
+3194969	Gruppo Sound	Italy	16	0	0.0	-0.0
+146775	Gruppo di Improvvisazione Nuova Consonanza	Italy	15	0	0.0	-0.0
+522462	Gry	Denmark	0	4	0.0	-0.0
+1864464	Guano Padano	Italy	14	0	0.0	-0.0
+3857298	Helge Rungwald	Denmark	0	22	0.0	-0.0
+6735612	Hellas	Denmark	0	1	0.0	-0.0
+111455	Hellsystem	Italy	7	0	0.0	-0.0
+531794	I Camaleonti	Italy	6	0	0.0	-0.0
+3747127	Huldre	Denmark	0	1	0.0	-0.0
+4927710	Human Colonies	Italy	8	0	0.0	-0.0
+1619434	Höstsonaten	Italy	18	0	0.0	-0.0
+1692953	I Barritas	Italy	8	0	0.0	-0.0
+1468298	I Beans	Italy	5	0	0.0	-0.0
+2075075	I Bertas	Italy	1	0	0.0	-0.0
+1612698	I Bisonti	Italy	5	0	0.0	-0.0
+889777	I Califfi	Italy	11	0	0.0	-0.0
+1756519	I Camillas	Italy	8	0	0.0	-0.0
+320082	Hugo	Italy	6	0	0.0	-0.0
+1694032	I Campioni	Italy	3	0	0.0	-0.0
+2195854	I Cani	Italy	17	0	0.0	-0.0
+1260540	I Cavalieri del Re	Italy	8	0	0.0	-0.0
+372880	I Corvi	Italy	1	0	0.0	-0.0
+470098	I Cugini di Campagna	Italy	11	0	0.0	-0.0
+1701375	I Delfini	Italy	6	0	0.0	-0.0
+410347	I Flippers	Italy	11	0	0.0	-0.0
+2144890	I Funamboli	Italy	1	0	0.0	-0.0
+2515504	Hugorm	Denmark	0	22	0.0	-0.0
+242724	Housecream	Italy	19	0	0.0	-0.0
+4276216	Helofon Danseorkester	Denmark	0	10	0.0	-0.0
+1393241	His Clancyness	Italy	11	0	0.0	-0.0
+539937	Henning Stærk	Denmark	0	7	0.0	-0.0
+2634073	Henry Skjær	Denmark	0	6	0.0	-0.0
+870303	Her Personal Pain	Denmark	0	4	0.0	-0.0
+765823	Herbert Pagani	Italy	14	0	0.0	-0.0
+672029	Herman D. Koppel	Denmark	0	9	0.0	-0.0
+2841035	Herman Medrano	Italy	6	0	0.0	-0.0
+942440	Hexperos	Italy	1	0	0.0	-0.0
+15973	Hipnosis	Italy	10	0	0.0	-0.0
+1115045	His Electro Blue Voice	Italy	4	0	0.0	-0.0
+66838	Hot Cold	Italy	14	0	0.0	-0.0
+5561068	Hjalmer	Denmark	0	15	0.0	-0.0
+1315678	Hjertestop	Denmark	0	7	0.0	-0.0
+1631592	Hocculta	Italy	2	0	0.0	-0.0
+3760708	Holger Hansen	Denmark	0	18	0.0	-0.0
+3170156	Holger Pedersen	Denmark	0	7	0.0	-0.0
+1139719	Homo Sapiens	Italy	7	0	0.0	-0.0
+2897253	Horror Vacui	Italy	11	0	0.0	-0.0
+230175	Hortus Animae	Italy	30	0	0.0	-0.0
+5493594	Gomma	Italy	23	0	0.0	-0.0
+1092830	Golden Jooklo Age	Italy	3	0	0.0	-0.0
+840850	Golden Cup	Italy	16	0	0.0	-0.0
+323606	Giorgia	Italy	1	0	0.0	-0.0
+1136093	Gilda Giuliani	Italy	12	0	0.0	-0.0
+2719102	Gilli	Denmark	0	11	0.0	-0.0
+2705492	Gina Viafora	Italy	9	0	0.0	-0.0
+384103	Ginevra Di Marco	Italy	13	0	0.0	-0.0
+917469	Gino Latilla	Italy	21	0	0.0	-0.0
+1487855	Gino Martinez Patti	Italy	1	0	0.0	-0.0
+319978	Gino Paoli	Italy	1	0	0.0	-0.0
+772492	Gino Santecole	Italy	11	0	0.0	-0.0
+3544221	Giorgio Canali & Rossofuoco	Italy	18	0	0.0	-0.0
+464799	Gigliola Cinquetti	Italy	3	0	0.0	-0.0
+924991	Giorgio Consolini	Italy	23	0	0.0	-0.0
+655151	Giorgio Faletti	Italy	1	0	0.0	-0.0
+655157	Giorgio Gaber	Italy	1	0	0.0	-0.0
+98481	Giorgio Gigli	Italy	14	0	0.0	-0.0
+2417413	Giorgio Lo Cascio	Italy	3	0	0.0	-0.0
+6673039	Giorgio Poi	Italy	19	0	0.0	-0.0
+86794	Giorgio Prezioso	Italy	8	0	0.0	-0.0
+1981769	Giorgio Rusconi	Italy	2	0	0.0	-0.0
+382456	Gil Ventura	Italy	1	0	0.0	-0.0
+887686	Gigione	Italy	3	0	0.0	-0.0
+1827188	Giovanna Nocetti	Italy	2	0	0.0	-0.0
+410333	Gianni Morandi	Italy	1	0	0.0	-0.0
+1391569	Gianni Fallabrino	Italy	15	0	0.0	-0.0
+495363	Gianni Gebbia	Italy	24	0	0.0	-0.0
+2512058	Gianni Giublena Rosacroce	Italy	10	0	0.0	-0.0
+65182	Gianni Marchetti	Italy	14	0	0.0	-0.0
+384104	Gianni Maroccolo	Italy	16	0	0.0	-0.0
+861911	Gianni Maselli	Italy	3	0	0.0	-0.0
+569776	Gianni Mazza	Italy	11	0	0.0	-0.0
+786609	Gianni Meccia	Italy	12	0	0.0	-0.0
+559680	Gianni Nazzaro	Italy	9	0	0.0	-0.0
+491206	Gigi Masin	Italy	22	0	0.0	-0.0
+600513	Gianni Oddi	Italy	4	0	0.0	-0.0
+114901	Gianni Parrini	Italy	14	0	0.0	-0.0
+559246	Gianni Pellecchia	Italy	13	0	0.0	-0.0
+359797	Gianni Pettenati	Italy	10	0	0.0	-0.0
+380856	Gianni Togni	Italy	1	0	0.0	-0.0
+926710	Gigi Beccaria	Italy	22	0	0.0	-0.0
+15228	Gigi D'Agostino	Italy	31	0	0.0	-0.0
+839027	Gigi D'Alessio	Italy	2	0	0.0	-0.0
+560714	Giovanna Marini	Italy	12	0	0.0	-0.0
+676568	Giovanni Allevi	Italy	8	0	0.0	-0.0
+11430929	Gobs	Denmark	0	14	0.0	-0.0
+3150647	Gli Apostholi	Italy	13	0	0.0	-0.0
+365745	Giuseppe Ottaviani	Italy	1	0	0.0	-0.0
+921342	Giuseppe Servillo	Italy	4	0	0.0	-0.0
+696181	Giuseppe di Stefano	Italy	27	0	0.0	-0.0
+369428	Giusto Pio	Italy	1	0	0.0	-0.0
+1274456	Giusy Ferreri	Italy	6	0	0.0	-0.0
+2026408	Giò Di Tonno	Italy	3	0	0.0	-0.0
+3310453	Giöbia	Italy	4	0	0.0	-0.0
+765906	Gli Alluminogeni	Italy	17	0	0.0	-0.0
+319488	Gli Atroci	Italy	5	0	0.0	-0.0
+2213359	Giuseppe Negroni	Italy	14	0	0.0	-0.0
+3405142	Gli Avvoltoi	Italy	20	0	0.0	-0.0
+1986328	Gli Impossibili	Italy	8	0	0.0	-0.0
+1754970	Gli Scooters	Italy	8	0	0.0	-0.0
+922038	Gloria Christian	Italy	19	0	0.0	-0.0
+6152772	Gloria Dauro	Italy	12	0	0.0	-0.0
+186531	Gnags	Denmark	0	6	0.0	-0.0
+650159	Go!Zilla	Italy	14	0	0.0	-0.0
+98228	Goblin	Italy	7	0	0.0	-0.0
+1350030	Giuseppe Nessi	Italy	8	0	0.0	-0.0
+1051425	Giuseppe Lugo	Italy	27	0	0.0	-0.0
+835011	Giovanni Caccamo	Italy	4	0	0.0	-0.0
+1969988	Gipo Farassino	Italy	26	0	0.0	-0.0
+856760	Giovanni Di Domenico	Italy	13	0	0.0	-0.0
+455014	Giovanni Fenati	Italy	4	0	0.0	-0.0
+560717	Giovanni Fusco	Italy	15	0	0.0	-0.0
+1043562	Giovanni Martinelli	Italy	11	0	0.0	-0.0
+809779	Giovanni Sollima	Italy	16	0	0.0	-0.0
+281526	Giovanni Tommaso	Italy	3	0	0.0	-0.0
+2749961	Giovanni Truppi	Italy	18	0	0.0	-0.0
+1383604	Giovanni Zenatello	Italy	5	0	0.0	-0.0
+659970	Girolamo De Simone	Italy	19	0	0.0	-0.0
+1809195	Giuseppe De Luca	Italy	11	0	0.0	-0.0
+1696236	Giuda	Italy	8	0	0.0	-0.0
+2214978	Giuda (2)	Italy	2	0	0.0	-0.0
+1930787	Giuliano Dottori	Italy	9	0	0.0	-0.0
+309903	Giuliano Sorgini	Italy	18	0	0.0	-0.0
+1828151	Giulio Stocchi	Italy	5	0	0.0	-0.0
+361658	Giuni Russo	Italy	1	0	0.0	-0.0
+2623191	Giuntini Project	Italy	6	0	0.0	-0.0
+1451875	Giuseppe Cionfoli	Italy	3	0	0.0	-0.0
+712040	I Gatti di Vicolo Miracolo	Italy	4	0	0.0	-0.0
+1248527	I Giganti	Italy	2	0	0.0	-0.0
+2710162	I Gres	Italy	9	0	0.0	-0.0
+1428231	John Foster	Italy	8	0	0.0	-0.0
+1241686	Jo Squillo	Italy	8	0	0.0	-0.0
+41072	Jock Hattle	Italy	21	0	0.0	-0.0
+25319	Joe Inferno	Italy	19	0	0.0	-0.0
+1400374	Joe Perrino and the Mellowtones	Italy	3	0	0.0	-0.0
+1015994	Joe Sentieri	Italy	8	0	0.0	-0.0
+1504	Joe T. Vannelli	Italy	19	0	0.0	-0.0
+19777	Joe Yellow	Italy	19	0	0.0	-0.0
+1194303	John De Leo	Italy	17	0	0.0	-0.0
+2363986	John Gucci	Italy	2	0	0.0	-0.0
+739929	Jimmy Fontana	Italy	2	0	0.0	-0.0
+689274	John Mogensen	Denmark	0	6	0.0	-0.0
+494585	Johnny Deluxe	Denmark	0	3	0.0	-0.0
+281975	Johnny Dorelli	Italy	2	0	0.0	-0.0
+727929	Johnny Madsen	Denmark	0	9	0.0	-0.0
+2649662	Johnny Marsiglia	Italy	5	0	0.0	-0.0
+793732	Johnny Reimar	Denmark	0	11	0.0	-0.0
+598281	Johnny Sax	Italy	4	0	0.0	-0.0
+489732	Jokeren	Denmark	0	16	0.0	-0.0
+16250	Jinny	Italy	23	0	0.0	-0.0
+7640	Jestofunk	Italy	7	0	0.0	-0.0
+762840	Jomfru Ane Band	Denmark	0	11	0.0	-0.0
+800505	James Venturi	Italy	8	0	0.0	-0.0
+4663	JT Company	Italy	14	0	0.0	-0.0
+6702	Jago	Italy	14	0	0.0	-0.0
+8251165	Jahbulong	Italy	5	0	0.0	-0.0
+935280	Jaka	Italy	11	0	0.0	-0.0
+1216726	Jake La Furia	Italy	1	0	0.0	-0.0
+889984	Jalisse	Italy	6	0	0.0	-0.0
+10075066	James Napoli Centrale	Italy	7	0	0.0	-0.0
+836637	James Senese	Italy	6	0	0.0	-0.0
+3035714	Jamil	Italy	3	0	0.0	-0.0
+2170731	Jerry Calà	Italy	10	0	0.0	-0.0
+1518192	Janvs	Italy	17	0	0.0	-0.0
+1147748	Japanese Gum	Italy	3	0	0.0	-0.0
+540260	Jay Rolandi	Italy	8	0	0.0	-0.0
+62992	Jeffrey Jey	Italy	9	0	0.0	-0.0
+305644	Jennifer Gentle	Italy	12	0	0.0	-0.0
+68402	Jenny B	Italy	18	0	0.0	-0.0
+942209	Jenny Luna	Italy	5	0	0.0	-0.0
+3736684	Jens Warny Og Hans Orkester	Denmark	0	27	0.0	-0.0
+27301	Jollymusic	Italy	2	0	0.0	-0.0
+1267550	Jonas Johansen	Denmark	0	2	0.0	-0.0
+1475883	J-Ax	Italy	1	0	0.0	-0.0
+1398367	Karen Jønsson	Denmark	0	12	0.0	-0.0
+3738379	Kai Ewans' Danseorkester	Denmark	0	24	0.0	-0.0
+5848276	Kai Julian	Denmark	0	5	0.0	-0.0
+7846056	Kai Julians Danseorkester	Denmark	0	17	0.0	-0.0
+2536925	Kai Julians Orkester	Denmark	0	23	0.0	-0.0
+28286	Kamasutra	Italy	7	0	0.0	-0.0
+32434	Kano	Italy	1	0	0.0	-0.0
+874379	Kaos	Italy	10	0	0.0	-0.0
+3102035	Kaos India	Italy	2	0	0.0	-0.0
+3666049	Karmamoi	Italy	5	0	0.0	-0.0
+1169241	Kaballà	Italy	1	0	0.0	-0.0
+217355	Kashmir	Denmark	0	2	0.0	-0.0
+343725	Kasper Winding	Denmark	0	2	0.0	-0.0
+66842	Kasso	Italy	12	0	0.0	-0.0
+644664	Kathy & Gulliver	Italy	5	0	0.0	-0.0
+850899	Katia Ricciarelli	Italy	5	0	0.0	-0.0
+4869766	Katinka	Denmark	0	6	0.0	-0.0
+283105	Katyna Ranieri	Italy	20	0	0.0	-0.0
+1923647	Kellermensch	Denmark	0	4	0.0	-0.0
+6946416	1782	Italy	2	0	0.0	0.0
+43876	K-Traxx	Italy	11	0	0.0	-0.0
+3984720	Jone Cacciagli	Italy	10	0	0.0	-0.0
+109601	Julian DJ & Davide Sonar	Italy	6	0	0.0	-0.0
+1047587	Jooklo Duo	Italy	2	0	0.0	-0.0
+790612	Joseph Capriati	Italy	18	0	0.0	-0.0
+22720	Jovanotti	Italy	3	0	0.0	-0.0
+24946	Joy Kitikonti	Italy	24	0	0.0	-0.0
+2619952	JoyCut	Italy	9	0	0.0	-0.0
+2377676	Juglans Regia	Italy	4	0	0.0	-0.0
+361419	Jula De Palma	Italy	13	0	0.0	-0.0
+470095	Juli & Julie	Italy	7	0	0.0	-0.0
+749792	Julie's Haircut	Italy	17	0	0.0	-0.0
+692574	Jørgen Ingmann	Denmark	0	11	0.0	-0.0
+1321129	Jumbo	Italy	17	0	0.0	-0.0
+7203000	Jung	Denmark	0	17	0.0	-0.0
+6768236	Junior Cally	Italy	6	0	0.0	-0.0
+4266	Junior Jack	Italy	8	0	0.0	-0.0
+56316	Junior Senior	Denmark	0	11	0.0	-0.0
+924804	Juniors	Italy	7	0	0.0	-0.0
+3350653	Junkfood	Italy	13	0	0.0	-0.0
+574093	Juri Camisasca	Italy	1	0	0.0	-0.0
+43674	J.K.	Italy	15	0	0.0	-0.0
+372306	J&S Project	Italy	21	0	0.0	-0.0
+1324498	I Gufi	Italy	2	0	0.0	-0.0
+1194133	Il Generale	Italy	11	0	0.0	-0.0
+3194326	Icy Steel	Italy	17	0	0.0	-0.0
+203906	Ida Corr	Denmark	0	14	0.0	-0.0
+7418168	Ida Laurberg	Denmark	0	12	0.0	-0.0
+377887	Ifix Tcen Tcen	Italy	3	0	0.0	-0.0
+1247423	Il Balletto di Bronzo	Italy	8	0	0.0	-0.0
+3093497	Il Buio	Italy	16	0	0.0	-0.0
+1043965	Il Castello di Atlante	Italy	9	0	0.0	-0.0
+2829419	Il Cile	Italy	8	0	0.0	-0.0
+1348046	Il Genio	Italy	10	0	0.0	-0.0
+8046764	Icekiid	Denmark	0	18	0.0	-0.0
+492343	Il Giardino dei Semplici	Italy	2	0	0.0	-0.0
+1010217	Il Guardiano del Faro	Italy	2	0	0.0	-0.0
+3351224	Il Maniscalco Maldestro	Italy	2	0	0.0	-0.0
+2582673	Il Muro del Canto	Italy	12	0	0.0	-0.0
+2629359	Il Nuovo Canzoniere Italiano	Italy	10	0	0.0	-0.0
+4135092	Il Pagante	Italy	2	0	0.0	-0.0
+2485494	Il Pan Del Diavolo	Italy	14	0	0.0	-0.0
+1932389	Il Parto delle Nuvole Pesanti	Italy	5	0	0.0	-0.0
+1497062	Ico Cerutti	Italy	9	0	0.0	-0.0
+2029792	Ib Schønberg	Denmark	0	26	0.0	-0.0
+2239151	Il Segno dello Zodiaco	Italy	7	0	0.0	-0.0
+3054440	I Sagittari	Italy	4	0	0.0	-0.0
+17540	I Marc 4	Italy	11	0	0.0	-0.0
+2066622	I Meteors	Italy	1	0	0.0	-0.0
+372881	I Nuovi Angeli	Italy	12	0	0.0	-0.0
+382454	I Profeti	Italy	6	0	0.0	-0.0
+1497413	I Ragazzi del Sole	Italy	7	0	0.0	-0.0
+596995	I Refuse It!	Italy	7	0	0.0	-0.0
+372877	I Ribelli	Italy	10	0	0.0	-0.0
+1240697	I Romans	Italy	14	0	0.0	-0.0
+2071850	I Satelliti	Italy	11	0	0.0	-0.0
+354278	Ianva	Italy	25	0	0.0	-0.0
+1783737	I Teppisti dei Sogni	Italy	1	0	0.0	-0.0
+633399	I Trilli	Italy	10	0	0.0	-0.0
+6724782	I Trinità	Italy	1	0	0.0	-0.0
+2077815	I Tubi Lungimiranti	Italy	3	0	0.0	-0.0
+1237993	I Vianella	Italy	5	0	0.0	-0.0
+5789710	I am Sonic Rain	Italy	5	0	0.0	-0.0
+6020354	I'm not a Blondie	Italy	4	0	0.0	-0.0
+475430	I-Robots	Italy	10	0	0.0	-0.0
+765763	Il Rovescio della Medaglia	Italy	5	0	0.0	-0.0
+1032099	Il Teatro degli Orrori	Italy	25	0	0.0	-0.0
+573804	Ivana Spagna	Italy	3	0	0.0	-0.0
+26863	Isoul8	Italy	9	0	0.0	-0.0
+774750	Inoki	Italy	3	0	0.0	-0.0
+724240	Instrumental Quarter	Italy	1	0	0.0	-0.0
+3286863	Inutili	Italy	2	0	0.0	-0.0
+2324820	Iosonouncane	Italy	25	0	0.0	-0.0
+1330972	Irene Fornaciari	Italy	2	0	0.0	-0.0
+184085	Irene Grandi	Italy	1	0	0.0	-0.0
+559096	Irha	Italy	11	0	0.0	-0.0
+1443497	Isabella Iannetti	Italy	13	0	0.0	-0.0
+932477	Italia Vaniglio	Italy	22	0	0.0	-0.0
+3852054	Ingelise Rune	Denmark	0	20	0.0	-0.0
+36201	Italian Boys	Italy	6	0	0.0	-0.0
+6125527	Italian Harmonists	Italy	1	0	0.0	-0.0
+809857	Italo Salizzato	Italy	4	0	0.0	-0.0
+949064	Iva Zanicchi	Italy	1	0	0.0	-0.0
+360863	Ivan Cattaneo	Italy	1	0	0.0	-0.0
+1031913	Ivan Della Mea	Italy	12	0	0.0	-0.0
+859844	Ivan Graziani	Italy	1	0	0.0	-0.0
+717585	Ivan Valentini	Italy	11	0	0.0	-0.0
+1125472	Inner Shrine	Italy	2	0	0.0	-0.0
+4852655	Ingeborg Brams	Denmark	0	7	0.0	-0.0
+2086557	Il Volo	Italy	1	0	0.0	-0.0
+1735515	Incoming Cerebral Overdrive	Italy	21	0	0.0	-0.0
+1059980	Il Volo (2)	Italy	1	0	0.0	-0.0
+2547244	Immanuel Casto	Italy	11	0	0.0	-0.0
+427568	Impact	Italy	7	0	0.0	-0.0
+47637	Implosion	Italy	1	0	0.0	-0.0
+20266	Impulse Factory	Italy	18	0	0.0	-0.0
+4344706	In The Panchine	Italy	7	0	0.0	-0.0
+1777175	In Zaire	Italy	14	0	0.0	-0.0
+68079	In-Grid	Italy	15	0	0.0	-0.0
+3373752	Indaco	Italy	4	0	0.0	-0.0
+3442955	Inga Kordt	Denmark	0	12	0.0	-0.0
+6216831	Indianizer	Italy	7	0	0.0	-0.0
+494827	Indigesti	Italy	7	0	0.0	-0.0
+2363041	Inedia	Italy	1	0	0.0	-0.0
+1780335	Ines Talamo	Italy	4	0	0.0	-0.0
+38885	Infernal	Denmark	0	10	0.0	-0.0
+2140355	Infernal Goat	Italy	2	0	0.0	-0.0
+309935	Infernal Torment	Denmark	0	1	0.0	-0.0
+3093392	Infinita Symphonia	Italy	23	0	0.0	-0.0
+712043	Gianni Drudi	Italy	3	0	0.0	-0.0
+5349961	Gianni Bismark	Italy	8	0	0.0	-0.0
+61850	Gianni Bini	Italy	10	0	0.0	-0.0
+3451379	Eugenio Cibelli	Italy	6	0	0.0	-0.0
+6780051	Esecutori di Metallo su Carta	Italy	19	0	0.0	-0.0
+503110	Estra	Italy	9	0	0.0	-0.0
+4513	Etnica	Italy	4	0	0.0	-0.0
+8117865	Etrusca 3D	Italy	1	0	0.0	-0.0
+3010425	Etrusgrave	Italy	4	0	0.0	-0.0
+1383908	Eu's Arse	Italy	6	0	0.0	-0.0
+1243702	Eugenia Foligatti	Italy	16	0	0.0	-0.0
+853538	Eugenio Bennato	Italy	6	0	0.0	-0.0
+443966	Eugenio Finardi	Italy	1	0	0.0	-0.0
+2228541	Ernst Borgstrøm	Denmark	0	1	0.0	-0.0
+5101768	Eugenio in Via Di Gioia	Italy	3	0	0.0	-0.0
+89108	Eva Nova	Italy	25	0	0.0	-0.0
+1437209	Evelina Sironi	Italy	8	0	0.0	-0.0
+930583	Eversor	Italy	8	0	0.0	-0.0
+262337	Evol	Italy	1	0	0.0	-0.0
+1106707	Ex-Otago	Italy	18	0	0.0	-0.0
+262324	Excidium	Italy	2	0	0.0	-0.0
+119629	Extrema	Italy	27	0	0.0	-0.0
+930542	Erode	Italy	3	0	0.0	-0.0
+6180074	Ernia	Italy	3	0	0.0	-0.0
+1445303	Ezra Winston	Italy	7	0	0.0	-0.0
+45766	Enzo Scoppa	Italy	3	0	0.0	-0.0
+920110	Enzo Ceragioli	Italy	8	0	0.0	-0.0
+1831163	Enzo De Muro Lomanto	Italy	3	0	0.0	-0.0
+2061510	Enzo Di Domenico	Italy	8	0	0.0	-0.0
+1983364	Enzo Favata	Italy	16	0	0.0	-0.0
+385292	Enzo Gragnaniello	Italy	7	0	0.0	-0.0
+712046	Enzo Jannacci	Italy	1	0	0.0	-0.0
+380863	Enzo Malepasso	Italy	1	0	0.0	-0.0
+2476250	Enzo Maolucci	Italy	4	0	0.0	-0.0
+263559	Ephel Duath	Italy	2	0	0.0	-0.0
+921313	Ernesto Bonino	Italy	28	0	0.0	-0.0
+967455	Equipe 84	Italy	1	0	0.0	-0.0
+39388	Erann DD	Denmark	0	1	0.0	-0.0
+3117107	Erik Michaelsen	Denmark	0	12	0.0	-0.0
+3736771	Erik Tuxen Og Hans Orkester	Denmark	0	24	0.0	-0.0
+80584	Erika	Italy	16	0	0.0	-0.0
+9939589	Erika de Casier	Denmark	0	3	0.0	-0.0
+2474191	Ermal Meta	Italy	7	0	0.0	-0.0
+2034904	Ernesto Badini	Italy	3	0	0.0	-0.0
+635033	Ezio Bosso	Italy	6	0	0.0	-0.0
+112671	F.ormal L.ogic D.ecay	Italy	5	0	0.0	-0.0
+6706	Enzo Avitabile	Italy	1	0	0.0	-0.0
+2865493	Fedez	Italy	2	0	0.0	-0.0
+1341095	Father Murphy	Italy	5	0	0.0	-0.0
+830924	Faust'O	Italy	1	0	0.0	-0.0
+1031931	Fausto Amodei	Italy	14	0	0.0	-0.0
+319977	Fausto Cigliano	Italy	16	0	0.0	-0.0
+327903	Fausto Leali	Italy	1	0	0.0	-0.0
+1036666	Fausto Mesolella	Italy	9	0	0.0	-0.0
+3056313	Faz Waltz	Italy	10	0	0.0	-0.0
+1033608	Federico Poggipollini	Italy	10	0	0.0	-0.0
+2874947	Fernando Orlandis	Italy	30	0	0.0	-0.0
+18063	Fargetta	Italy	22	0	0.0	-0.0
+1051424	Ferruccio Tagliavini	Italy	11	0	0.0	-0.0
+716381	Fiamma Fumana	Italy	15	0	0.0	-0.0
+1921959	Fil Di Ferro	Italy	2	0	0.0	-0.0
+897422	Filippo Maria Bressan	Italy	8	0	0.0	-0.0
+1624326	Fini Henriques	Denmark	0	4	0.0	-0.0
+1554290	Finley	Italy	11	0	0.0	-0.0
+171123	Finzy Kontini	Italy	2	0	0.0	-0.0
+126162	Fiordaliso	Italy	1	0	0.0	-0.0
+2048251	Fast Animals and Slow Kids	Italy	27	0	0.0	-0.0
+4662	Fanny Cadeo	Italy	14	0	0.0	-0.0
+3105347	FEM Prog Band	Italy	6	0	0.0	-0.0
+402050	Fabio Orsi	Italy	17	0	0.0	-0.0
+18726	FPI Project	Italy	12	0	0.0	-0.0
+967682	Fab Samperi	Italy	13	0	0.0	-0.0
+4007593	Fabi Silvestri Gazzè	Italy	5	0	0.0	-0.0
+679571	Fabio Concato	Italy	1	0	0.0	-0.0
+707941	Fabio Fabor	Italy	8	0	0.0	-0.0
+621262	Fabio Giannelli	Italy	13	0	0.0	-0.0
+80630	Fabio Locati	Italy	3	0	0.0	-0.0
+2473834	Fabio Monesi	Italy	5	0	0.0	-0.0
+869362	Fabio Treves	Italy	8	0	0.0	-0.0
+62501	Fallout	Italy	3	0	0.0	-0.0
+726440	Fabri Fibra	Italy	1	0	0.0	-0.0
+5354120	Fabrizio Cammarata	Italy	9	0	0.0	-0.0
+660740	Fabrizio De André	Italy	1	0	0.0	-0.0
+1360548	Fabrizio Ferretti	Italy	18	0	0.0	-0.0
+1168796	Fabrizio Lapiana	Italy	10	0	0.0	-0.0
+1088887	Fabrizio Moro	Italy	3	0	0.0	-0.0
+1605089	Fabrizio Paterlini	Italy	7	0	0.0	-0.0
+1936962	Fabrizio Sferra	Italy	8	0	0.0	-0.0
+1435331	Enzo Carella	Italy	2	0	0.0	-0.0
+1119092	Enzo Amadori	Italy	18	0	0.0	-0.0
+371804	Fiorella Mannoia	Italy	2	0	0.0	-0.0
+372878	Edoardo Vianello	Italy	5	0	0.0	-0.0
+2071775	Edda Ollari	Italy	14	0	0.0	-0.0
+3029220	Eddie Russell	Denmark	0	24	0.0	-0.0
+110724	Edge of Universe	Italy	6	0	0.0	-0.0
+6199231	Edi Laider	Denmark	0	15	0.0	-0.0
+1161413	Edmonda Aldini	Italy	12	0	0.0	-0.0
+1035038	Edo Pietrogrande	Italy	2	0	0.0	-0.0
+53807	Edoardo Bennato	Italy	2	0	0.0	-0.0
+597824	Edoardo De Angelis	Italy	1	0	0.0	-0.0
+503124	Eduardo De Crescenzo	Italy	1	0	0.0	-0.0
+2682268	Edda	Italy	5	0	0.0	-0.0
+862645	Egida Aurea	Italy	3	0	0.0	-0.0
+320915	Egisto Macchi	Italy	13	0	0.0	-0.0
+11149	Eiffel 65	Italy	9	0	0.0	-0.0
+27216	Einstein Doctor DJ	Italy	5	0	0.0	-0.0
+552466	El Pasador	Italy	13	0	0.0	-0.0
+233751	El Presidente	Italy	11	0	0.0	-0.0
+376767	Eldritch	Italy	7	0	0.0	-0.0
+142345	Electric Mind	Italy	12	0	0.0	-0.0
+100317	Edda Dell'Orso	Italy	5	0	0.0	-0.0
+3461	Easy Going	Italy	10	0	0.0	-0.0
+2831143	Elena Beltrami	Italy	27	0	0.0	-0.0
+7545380	Dub Hunters	Italy	2	0	0.0	-0.0
+2460285	DoubKore	Italy	3	0	0.0	-0.0
+31035	Double Dee	Italy	7	0	0.0	-0.0
+7620	Double You	Italy	13	0	0.0	-0.0
+2216306	Doublewave	Italy	5	0	0.0	-0.0
+1933413	Drakkar	Italy	24	0	0.0	-0.0
+6255827	DrefGold	Italy	6	0	0.0	-0.0
+396475	Drori-Hansen Furniture	Denmark	0	5	0.0	-0.0
+327416	Drupi	Italy	1	0	0.0	-0.0
+2745556	Duilio Radici	Italy	12	0	0.0	-0.0
+13537	East Side Beat	Italy	29	0	0.0	-0.0
+2240437	Dumbo Gets Mad	Italy	1	0	0.0	-0.0
+6724435	Dumbo Station	Italy	5	0	0.0	-0.0
+1268485	Duo di Piadena	Italy	9	0	0.0	-0.0
+2120560	Duracel	Italy	4	0	0.0	-0.0
+499991	Dusty Kid	Italy	13	0	0.0	-0.0
+3175199	Dynatron	Denmark	0	2	0.0	-0.0
+77096	E.V.O.E.	Italy	11	0	0.0	-0.0
+3654723	EGreen	Italy	7	0	0.0	-0.0
+666462	Electrocution	Italy	4	0	0.0	-0.0
+5563614	Elephant Brain	Italy	18	0	0.0	-0.0
+919425	Enzo Aita	Italy	31	0	0.0	-0.0
+1901062	Enrico Musiani	Italy	14	0	0.0	-0.0
+4055258	Enisum	Italy	3	0	0.0	-0.0
+15900	Ennio Morricone	Italy	3	0	0.0	-0.0
+7551947	Enrico BSJ Ferrari	Italy	2	0	0.0	-0.0
+319180	Enrico Caruso	Italy	13	0	0.0	-0.0
+1611756	Enrico Cascella	Italy	5	0	0.0	-0.0
+1079953	Enrico Gabrielli	Italy	17	0	0.0	-0.0
+55763	Enrico Mantini	Italy	11	0	0.0	-0.0
+1230042	Enrico Montesano	Italy	4	0	0.0	-0.0
+4232032	Enrico Nigiotti	Italy	1	0	0.0	-0.0
+523051	En Declin	Italy	6	0	0.0	-0.0
+298100	Enrico Pieranunzi	Italy	6	0	0.0	-0.0
+243675	Enrico Rava	Italy	6	0	0.0	-0.0
+2219240	Enrico Rava Quintet	Italy	9	0	0.0	-0.0
+503126	Enrico Ruggeri	Italy	1	0	0.0	-0.0
+1684763	Enrico Sangiuliano	Italy	27	0	0.0	-0.0
+521222	Enrico Simonetti	Italy	15	0	0.0	-0.0
+1700858	Ensi	Italy	1	0	0.0	-0.0
+2200745	Enzo & Terry	Italy	14	0	0.0	-0.0
+781163	En Manque D'Autre	Italy	5	0	0.0	-0.0
+1097313	Emmanuel	Italy	7	0	0.0	-0.0
+6333620	Elettra Lamborghini	Italy	4	0	0.0	-0.0
+2986834	Elo Magnussen Og Hans Orkester	Denmark	0	28	0.0	-0.0
+4756421	Eliana Cargnelutti	Italy	5	0	0.0	-0.0
+1442241	Elio Lotti	Italy	19	0	0.0	-0.0
+191166	Elio e le Storie Tese	Italy	1	0	0.0	-0.0
+65897	Elisa	Italy	2	0	0.0	-0.0
+652254	Elisabeth	Denmark	0	4	0.0	-0.0
+1299408	Elisabetta Viviani	Italy	3	0	0.0	-0.0
+22963	Elisir	Italy	18	0	0.0	-0.0
+2135584	Ellen Gottschalch	Denmark	0	23	0.0	-0.0
+12484582	Elodie	Italy	2	0	0.0	-0.0
+1882275	Emma Marrone	Italy	2	0	0.0	-0.0
+3547111	Elsa Jena	Denmark	0	10	0.0	-0.0
+1694030	Elsa Mazzetti	Italy	19	0	0.0	-0.0
+935857	Elsa Merlini	Italy	2	0	0.0	-0.0
+3151666	Elsa Sigfúss	Denmark	0	29	0.0	-0.0
+2201258	Emi Doré	Italy	7	0	0.0	-0.0
+927829	Emilio Livi	Italy	20	0	0.0	-0.0
+1291296	Emilio Pericoli	Italy	20	0	0.0	-0.0
+2596237	Emis Killa	Italy	2	0	0.0	-0.0
+1125596	Fiorella Bini	Italy	31	0	0.0	-0.0
+71521	Fiorello	Italy	1	0	0.0	-0.0
+529900	Gianni Bella	Italy	1	0	0.0	-0.0
+2959517	Ganji Killah	Italy	10	0	0.0	-0.0
+7351488	Gaia	Italy	2	0	0.0	-0.0
+10770	Gala Rizzato	Italy	7	0	0.0	-0.0
+46001	Gam Gam	Italy	7	0	0.0	-0.0
+6425	Gambafreaks	Italy	11	0	0.0	-0.0
+161159	Game	Italy	3	0	0.0	-0.0
+3510737	Game Over	Italy	24	0	0.0	-0.0
+492168	Gang	Italy	7	0	0.0	-0.0
+328477	Gangway	Denmark	0	3	0.0	-0.0
+391962	Garbo	Italy	1	0	0.0	-0.0
+1212817	Gaetano Liguori	Italy	11	0	0.0	-0.0
+1195278	Garybaldi	Italy	24	0	0.0	-0.0
+230853	Gasolin	Denmark	0	9	0.0	-0.0
+1450189	Gatto Marte	Italy	10	0	0.0	-0.0
+3145504	Gatto Panceri	Italy	1	0	0.0	-0.0
+58101	Gaudi	Italy	18	0	0.0	-0.0
+47835	Gazebo	Italy	6	0	0.0	-0.0
+2278849	Gazebo Penguins	Italy	6	0	0.0	-0.0
+50570	Gaznevada	Italy	5	0	0.0	-0.0
+1383	Gaetano Parisio	Italy	17	0	0.0	-0.0
+62991	Gabry Ponte	Italy	13	0	0.0	-0.0
+110565	Gazzelle	Italy	10	0	0.0	-0.0
+3286294	Fuoco Fatuo	Italy	3	0	0.0	-0.0
+899351	Frigidaire Tango	Italy	8	0	0.0	-0.0
+305803	Fritz da Cat	Italy	4	0	0.0	-0.0
+2004907	From Depths	Italy	3	0	0.0	-0.0
+6326683	Frozen Crown	Italy	7	0	0.0	-0.0
+4603850	Fulci	Italy	8	0	0.0	-0.0
+7127030	Fulminacci	Italy	10	0	0.0	-0.0
+36214	Fun Fun	Italy	1	0	0.0	-0.0
+251815	Funeral Oration	Italy	5	0	0.0	-0.0
+2701808	Furor Gallico	Italy	29	0	0.0	-0.0
+6205	Gabry Fasano	Italy	22	0	0.0	-0.0
+1612050	Futuro Antico	Italy	18	0	0.0	-0.0
+1395427	Fuzz Orchestra	Italy	19	0	0.0	-0.0
+156887	Fuzzy Hair	Italy	15	0	0.0	-0.0
+8115920	Fyrtårnet Og Bivognen	Denmark	0	19	0.0	-0.0
+4230335	G&D	Italy	5	0	0.0	-0.0
+63717	Gabin	Italy	4	0	0.0	-0.0
+1348114	Gabriele Carasco	Italy	9	0	0.0	-0.0
+928234	Gabriella Ferri	Italy	9	0	0.0	-0.0
+935718	Gazosa	Italy	6	0	0.0	-0.0
+2228542	Gellin & Borgstrøm	Denmark	0	2	0.0	-0.0
+3226275	Frederik Jensen	Denmark	0	17	0.0	-0.0
+314292	Giancarlo Gazzani	Italy	12	0	0.0	-0.0
+61498	Giampiero Boneschi	Italy	7	0	0.0	-0.0
+1828575	Gian Costello	Italy	12	0	0.0	-0.0
+309898	Gian Paolo Chiti	Italy	3	0	0.0	-0.0
+1171304	Gian Pieretti	Italy	8	0	0.0	-0.0
+281531	Gian Piero Reverberi	Italy	3	0	0.0	-0.0
+1419053	Giancane	Italy	12	0	0.0	-0.0
+580306	Giancarlo Cardini	Italy	13	0	0.0	-0.0
+315187	Giancarlo Chiaramello	Italy	8	0	0.0	-0.0
+83226	Giancarlo Toniutti	Italy	2	0	0.0	-0.0
+4247191	Giammarco Orsini	Italy	1	0	0.0	-0.0
+1197607	Gianfranco Manfredi	Italy	1	0	0.0	-0.0
+1084702	Giangilberto Monti	Italy	1	0	0.0	-0.0
+539766	Gianluca Becuzzi	Italy	15	0	0.0	-0.0
+315070	Gianluca Grignani	Italy	1	0	0.0	-0.0
+50616	Gianluca Petrella	Italy	14	0	0.0	-0.0
+630133	Gianluigi Trovesi	Italy	11	0	0.0	-0.0
+791143	Gianmaria Testa	Italy	4	0	0.0	-0.0
+175006	Gianna Nannini	Italy	2	0	0.0	-0.0
+973182	Giampiero Artegiani	Italy	5	0	0.0	-0.0
+1217680	Gialloman	Italy	7	0	0.0	-0.0
+4310472	Gem Boy	Italy	6	0	0.0	-0.0
+5520913	Gerardo Casiello	Italy	1	0	0.0	-0.0
+157336	Gemelli Diversi	Italy	4	0	0.0	-0.0
+3564072	Gemello	Italy	6	0	0.0	-0.0
+2668962	Gemitaiz	Italy	4	0	0.0	-0.0
+6112000	Generic Animal	Italy	27	0	0.0	-0.0
+1219312	Gens	Italy	17	0	0.0	-0.0
+7025456	Geolier	Italy	5	0	0.0	-0.0
+243002	George Aaron	Italy	21	0	0.0	-0.0
+232885	Gerardina Trovato	Italy	1	0	0.0	-0.0
+27989	Gerardo Frisina	Italy	18	0	0.0	-0.0
+3293520	Giacomo Trevi	Italy	5	0	0.0	-0.0
+1756886	Gerda	Italy	10	0	0.0	-0.0
+3736531	Gerda Og Ulrik Neumann	Denmark	0	17	0.0	-0.0
+455013	Germana Caroli	Italy	14	0	0.0	-0.0
+2169586	Gerson	Italy	1	0	0.0	-0.0
+5777637	Ghali	Italy	3	0	0.0	-0.0
+859852	Ghigo Agosti	Italy	13	0	0.0	-0.0
+1305215	Giacomo Dell'Orso	Italy	5	0	0.0	-0.0
+931694	Giacomo Rondinella	Italy	27	0	0.0	-0.0
+4490529	Frederik d. IX	Denmark	0	6	0.0	-0.0
+19799	Fred Ventura	Italy	20	0	0.0	-0.0
+658162	Fiorenzo Carpi	Italy	7	0	0.0	-0.0
+1574125	Francesca Alotta	Italy	1	0	0.0	-0.0
+420341	Forgotten Tomb	Italy	8	0	0.0	-0.0
+679575	Formula 3	Italy	1	0	0.0	-0.0
+2548557	Four Flying Ducks	Italy	19	0	0.0	-0.0
+59765	Four Jacks	Denmark	0	13	0.0	-0.0
+130154	Fourteen 14	Italy	5	0	0.0	-0.0
+5351760	Frah Quintale	Italy	4	0	0.0	-0.0
+681149	Frammenti	Italy	6	0	0.0	-0.0
+1112948	Franca Raimondi	Italy	10	0	0.0	-0.0
+3189227	Francesca Michielin	Italy	6	0	0.0	-0.0
+2950045	Folkeklubben	Denmark	0	14	0.0	-0.0
+976382	Francesco Albanese	Italy	23	0	0.0	-0.0
+679574	Francesco Baccini	Italy	1	0	0.0	-0.0
+281226	Francesco Bruno	Italy	1	0	0.0	-0.0
+695587	Francesco Cafiso	Italy	5	0	0.0	-0.0
+1228331	Francesco Cavaliere	Italy	2	0	0.0	-0.0
+1710774	Francesco Daddi	Italy	10	0	0.0	-0.0
+503075	Francesco De Gregori	Italy	1	0	0.0	-0.0
+1560631	Francesco Di Bella	Italy	11	0	0.0	-0.0
+2993730	Folkstone	Italy	6	0	0.0	-0.0
+4711771	Folk Studio A	Italy	6	0	0.0	-0.0
+2744907	Francesco Diodati	Italy	7	0	0.0	-0.0
+7415187	Flavio Pirini	Italy	7	0	0.0	-0.0
+65629	Firefly	Italy	15	0	0.0	-0.0
+1826509	Fjieri	Italy	6	0	0.0	-0.0
+141241	Flaminio Maphia	Italy	3	0	0.0	-0.0
+2432300	Flashmen	Italy	2	0	0.0	-0.0
+380859	Flavia Fortunato	Italy	2	0	0.0	-0.0
+345331	Flavio Boltro	Italy	7	0	0.0	-0.0
+1109015	Flavio Folco	Italy	9	0	0.0	-0.0
+1780675	Flavio Giurato	Italy	1	0	0.0	-0.0
+42764	Flavio Vecchi	Italy	22	0	0.0	-0.0
+1513056	Foja	Italy	11	0	0.0	-0.0
+692594	Flemming Bamse Jørgensen	Denmark	0	3	0.0	-0.0
+32147	Fletch	Denmark	0	2	0.0	-0.0
+2780728	Fleur De Lis	Denmark	0	4	0.0	-0.0
+12241	Flickman	Italy	5	0	0.0	-0.0
+455012	Flo Sandon's	Italy	17	0	0.0	-0.0
+27927	Floorfilla	Italy	17	0	0.0	-0.0
+1695150	Fluxus	Italy	15	0	0.0	-0.0
+262200	Fockewulf 190	Italy	13	0	0.0	-0.0
+3395517	Francesco Dinoia	Italy	4	0	0.0	-0.0
+2315155	Francesco Gabbani	Italy	10	0	0.0	-0.0
+3475626	Fred De Palma	Italy	2	0	0.0	-0.0
+1112960	Franco e i G5	Italy	3	0	0.0	-0.0
+1727121	Franco Mojoli	Italy	21	0	0.0	-0.0
+1515309	Franco Morone	Italy	5	0	0.0	-0.0
+1029868	Franco Potenza	Italy	19	0	0.0	-0.0
+921783	Franco Ricci	Italy	25	0	0.0	-0.0
+851819	Franco Simone	Italy	1	0	0.0	-0.0
+968447	Franco Tonani	Italy	2	0	0.0	-0.0
+1024414	Franco Tozzi	Italy	9	0	0.0	-0.0
+1660759	Franco Trincale	Italy	3	0	0.0	-0.0
+5738142	Franco126	Italy	11	0	0.0	-0.0
+1127907	Franco IV e Franco I	Italy	16	0	0.0	-0.0
+1681508	Frangar	Italy	4	0	0.0	-0.0
+97356	Frankie hi-nrg mc	Italy	9	0	0.0	-0.0
+1173236	Frankyeffe	Italy	23	0	0.0	-0.0
+2986742	Frans Andersson	Denmark	0	10	0.0	-0.0
+1194134	Fratelli di Soledad	Italy	8	0	0.0	-0.0
+1344723	Freak Antoni	Italy	5	0	0.0	-0.0
+9772	Fred Bongusto	Italy	12	0	0.0	-0.0
+360695	Fred Buscaglione	Italy	12	0	0.0	-0.0
+157482	Franco Micalizzi	Italy	6	0	0.0	-0.0
+60559	Franco Godi	Italy	5	0	0.0	-0.0
+490256	Francesco Guccini	Italy	1	0	0.0	-0.0
+15251	Franchino	Italy	26	0	0.0	-0.0
+604262	Francesco Messina	Italy	3	0	0.0	-0.0
+712042	Francesco Nuti	Italy	1	0	0.0	-0.0
+286051	Francesco Paladino	Italy	33	0	0.0	-0.0
+3718706	Francesco Piu	Italy	6	0	0.0	-0.0
+2219337	Francesco Ponticelli	Italy	10	0	0.0	-0.0
+349215	Francesco Renga	Italy	1	0	0.0	-0.0
+36241	Francesco Salvi	Italy	2	0	0.0	-0.0
+49594	Francesco Zappalà	Italy	33	0	0.0	-0.0
+105591	Francisco	Italy	5	0	0.0	-0.0
+2035255	Franco Franchi	Italy	4	0	0.0	-0.0
+114390	Franco Battiato	Italy	1	0	0.0	-0.0
+125381	Franco Bixio	Italy	7	0	0.0	-0.0
+1054252	Franco Califano	Italy	1	0	0.0	-0.0
+543841	Franco Cerri	Italy	2	0	0.0	-0.0
+338616	Franco D'Andrea	Italy	6	0	0.0	-0.0
+531383	Franco Dani	Italy	2	0	0.0	-0.0
+1044352	Franco Fanigliulo	Italy	1	0	0.0	-0.0
+617373	Franco Fasano	Italy	1	0	0.0	-0.0
+598804	Üstmamò	Italy	10	0	0.0	-0.0
