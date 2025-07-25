@@ -1,3 +1,6 @@
+# This script takes the labels and genres matrices, the label-genres releases and outputs a
+# nestedness graph.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
