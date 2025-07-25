@@ -1,6 +1,6 @@
 # This script takes the year and the genre matrix and the backboning results. It outputs a dendrogram, a csv
-# with the years clustered and the cluster each genre corresponds to. Figure 14 was build in Canvas using 
-# this information.
+# with the years clustered and the cluster each genre corresponds to. Figure 14 was build with this information
+# using Canvas. 
 
 import torch
 import numpy as np
