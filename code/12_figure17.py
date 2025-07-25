@@ -3,13 +3,27 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-
-labels = pd.read_csv("/Users/licho/Documents/ITU/Msc/Msc_Network_Analysis_of_the_Danish_and_Italian_Music_Industries/danish_network/danish_labels_matrix.tsv", sep= "\t")
+#Getting labels
+labels = pd.read_csv("danish_network/danish_labels_matrix.tsv", sep= "\t")
+labels_copy = labels.copy().drop(columns=["id"])
+column_sums = labels_copy.sum(axis=0).sort_values(ascending=False)
+result_df = column_sums.reset_index()
+result_df.columns = ["label", "releases"]
+labels = result_df
 labels = labels[~labels["label"].str.contains("Not on label", case=False, na=False)] #We delete not on label
 labels = labels[labels["releases"] >= 5] #treshold
+
+#Getting genres
 genre = pd.read_csv("danish_network/danish_genre_matrix.tsv", sep="\t")
+column_sums = genre.drop(columns=["id"]).sum(axis=0).sort_values(ascending=False)
+result_df = column_sums.reset_index()
+result_df.columns = ["genre", "releases"]
+genre = result_df
 #genre = genre[genre["releases"] >= 0] #treshold
+
+
 releases = pd.read_csv("danish_network/labels_genres_danish.tsv", sep="\t")
+
 
 nestedness_matrix = pd.DataFrame(0, index=labels['label'], columns=genre['genre'])
 #print(nestedness_matrix)
